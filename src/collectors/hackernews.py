@@ -1,7 +1,7 @@
 """Hacker News collector via Algolia API."""
 import requests, re
 from datetime import datetime
-from .base import BaseCollector, RepoRecord
+from src.collectors.base import BaseCollector, RepoRecord
 
 class HackerNewsCollector(BaseCollector):
     API_URL = "https://hn.algolia.com/api/v1"

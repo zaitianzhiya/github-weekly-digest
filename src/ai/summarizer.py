@@ -2,8 +2,8 @@
 
 from pathlib import Path
 
-from .llm_client import LLMClient
-from ..collectors.base import RepoRecord
+from src.ai.llm_client import LLMClient
+from src.collectors.base import RepoRecord
 
 
 class DailySummarizer:

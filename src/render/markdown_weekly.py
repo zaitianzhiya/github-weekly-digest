@@ -3,7 +3,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from ..collectors.base import RepoRecord
+from src.collectors.base import RepoRecord
 
 
 class MarkdownRenderer:

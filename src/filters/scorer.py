@@ -2,7 +2,7 @@
 
 from datetime import datetime
 
-from ..collectors.base import RepoRecord
+from src.collectors.base import RepoRecord
 
 
 class Scorer:

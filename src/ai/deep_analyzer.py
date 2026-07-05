@@ -3,8 +3,8 @@
 from pathlib import Path
 from typing import Optional
 
-from .llm_client import LLMClient
-from ..collectors.base import RepoRecord
+from src.ai.llm_client import LLMClient
+from src.collectors.base import RepoRecord
 
 
 class DeepAnalyzer:

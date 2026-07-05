@@ -4,13 +4,13 @@ import argparse, os, sys, yaml
 from datetime import datetime
 from pathlib import Path
 
-from .collectors.github_trending import GitHubTrendingCollector
-from .collectors.hackernews import HackerNewsCollector
-from .collectors.citation_collectors import CitationCollector
-from .filters.dedup import Deduplicator
-from .filters.quality import QualityFilter
-from .filters.scorer import Scorer
-from .render.markdown_weekly import MarkdownRenderer
+from src.collectors.github_trending import GitHubTrendingCollector
+from src.collectors.hackernews import HackerNewsCollector
+from src.collectors.citation_collectors import CitationCollector
+from src.filters.dedup import Deduplicator
+from src.filters.quality import QualityFilter
+from src.filters.scorer import Scorer
+from src.render.markdown_weekly import MarkdownRenderer
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -48,7 +48,7 @@ def _auto_categorize(record):
 
 def _merge_records(records):
     """Merge records with same repo_id, combining citation chains."""
-    from .collectors.base import RepoRecord
+    from src.collectors.base import RepoRecord
     merged = {}
     for r in records:
         if r.repo_id in merged:
@@ -189,9 +189,9 @@ def run_weekly(config):
     daily_summary = ""
     deep_analysis = ""
     try:
-        from .ai.llm_client import LLMClient
-        from .ai.summarizer import DailySummarizer
-        from .ai.deep_analyzer import DeepAnalyzer
+        from src.ai.llm_client import LLMClient
+        from src.ai.summarizer import DailySummarizer
+        from src.ai.deep_analyzer import DeepAnalyzer
         client = LLMClient()
         ds = DailySummarizer(client, ROOT/"prompts")
         daily_summary = ds.summarize(merged[:20])
