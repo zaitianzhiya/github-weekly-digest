@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+data/*.json
+data/*.db
+data/*.db-journal
+output/*
+!output/.gitkeep
+verify_phase2.py
+verify_phase3.py

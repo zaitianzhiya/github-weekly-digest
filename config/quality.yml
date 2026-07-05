@@ -1,0 +1,68 @@
+# 质量阈值配置
+
+filters:
+  # 基础过滤
+  exclude_fork: true              # 排除 Fork 仓库
+  require_license: true            # 必须有 License
+  min_readme_length: 200           # README 最少字数
+  max_inactive_days: 90            # 最近 N 天无提交 → 排除
+  min_issue_close_ratio: 0.3       # Issue 关闭率低于此值 → 排除
+
+  # GitHub 特定阈值
+  github:
+    min_stars_for_new_repo: 10     # 新建仓库的最小 Star 数
+    new_repo_days: 7               # 创建 < N 天的视为新仓库
+
+  # Hacker News 特定阈值
+  hackernews:
+    min_points: 10                 # 最低分数
+
+  # RSS 特定阈值
+  rss:
+    min_content_length: 200        # 文章最少字数
+
+# 评分权重（总和应为 100）
+scoring:
+  star_growth: 25       # 本周 Star 增长量
+  multi_source: 25      # 多源验证
+  documentation: 20     # 文档完整性
+  community: 15         # 社区活跃度
+  novelty: 15           # 项目新颖度
+
+  # 人工加权系数范围
+  manual_multiplier:
+    min: 0.5
+    max: 2.0
+    default: 1.0
+
+# 可信度评分
+confidence:
+  tier1_bonus: 40               # 有 Tier 1 原始来源的基础分
+  tier2_per_citation: 15        # 每个 Tier 2 引用的加分
+  tier2_max: 45                 # Tier 2 总分上限
+  cross_ecosystem_bonus: 5      # 跨生态来源额外加分
+  cross_ecosystem_max: 15       # 跨生态加分上限
+
+  grades:
+    A:
+      min: 80
+      label: "A - 跨生态多源验证"
+      action: "优先推荐"
+    B:
+      min: 60
+      label: "B - 原始+引用验证"
+      action: "推荐"
+    C:
+      min: 40
+      label: "C - 单源需审核"
+      action: "人工判断"
+    D:
+      min: 0
+      label: "D - 弱信号"
+      action: "不推荐"
+
+# 输出控制
+output:
+  weekly_top_n: 20          # 每周精选数量
+  daily_candidate_pool: 50  # 每日候选池大小
+  max_deep_analysis: 15     # 深度分析条目数

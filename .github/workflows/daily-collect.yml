@@ -1,0 +1,36 @@
+name: Daily Collection
+
+on:
+  schedule:
+    - cron: '0 8 * * *'       # 每天 UTC 8:00 = 北京时间 16:00
+  workflow_dispatch:            # 允许手动触发
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Daily collect + fast summary
+        run: python src/main.py --mode daily
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit daily snapshot
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/state.db output/
+          git diff --cached --quiet || git commit -m "Daily snapshot: $(date +%Y-%m-%d)"
+          git push

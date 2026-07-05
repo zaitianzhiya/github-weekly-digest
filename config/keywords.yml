@@ -1,0 +1,83 @@
+# 关键词配置：正向加权 + 负向降权
+
+# 关注领域（正向关键词 → 加权）
+positive:
+  - category: "AI"
+    keywords:
+      - "ai agent"
+      - "llm"
+      - "large language model"
+      - "rag"
+      - "retrieval augmented"
+      - "machine learning"
+      - "deep learning"
+      - "transformer"
+      - "neural network"
+      - "prompt engineering"
+      - "agent framework"
+      - "mcp server"
+      - "model context protocol"
+    weight: 1.5
+
+  - category: "devtools"
+    keywords:
+      - "developer tool"
+      - "cli"
+      - "code editor"
+      - "ide"
+      - "debug"
+      - "profiler"
+      - "linter"
+      - "formatter"
+      - "package manager"
+      - "build tool"
+    weight: 1.3
+
+  - category: "infrastructure"
+    keywords:
+      - "database"
+      - "cache"
+      - "message queue"
+      - "container"
+      - "kubernetes"
+      - "serverless"
+      - "edge computing"
+      - "api gateway"
+    weight: 1.2
+
+# 排除领域（负向关键词 → 降权）
+negative:
+  - category: "crypto_blockchain"
+    keywords:
+      - "blockchain"
+      - "cryptocurrency"
+      - "nft"
+      - "defi"
+      - "web3"
+      - "token"
+      - "mining"
+    weight: 0.2
+    note: "加密货币/区块链相关，暂不关注"
+
+  - category: "marketing_starter"
+    keywords:
+      - "awesome list"
+      - "interview"
+      - "leetcode"
+      - "coding interview"
+    weight: 0.5
+    note: "面经/精选列表类，非技术创新"
+
+# 重点关注作者/组织
+tracked_authors:
+  - "anthropics"
+  - "google"
+  - "google-labs-code"
+  - "vercel"
+  - "meta"
+  - "deepseek-ai"
+  - "microsoft"
+  - "apple"
+  - "openai"
+  - "huggingface"
+  - "langchain-ai"

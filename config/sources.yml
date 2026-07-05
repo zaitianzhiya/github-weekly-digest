@@ -1,0 +1,120 @@
+# 信息源配置
+# tier: 1 = 原始数据源, 2 = 引用数据源
+# ecosystem: 用于来源独立性权重修正
+
+sources:
+  # ---- Tier 1: 原始数据源 ----
+  github_trending:
+    name: "GitHub Trending"
+    tier: 1
+    ecosystem: "en_tech_community"
+    type: scraper
+    url: "https://github.com/trending"
+    enabled: true
+    frequency: daily
+    max_items: 25
+    include_readme: true
+    readme_chars: 6000
+
+  github_search:
+    name: "GitHub Search API"
+    tier: 1
+    ecosystem: "en_tech_community"
+    type: api
+    enabled: true
+    frequency: daily
+    max_items: 30
+    topics:
+      - "ai-agent"
+      - "llm-tool"
+      - "mcp-server"
+      - "developer-tools"
+      - "open-source"
+
+  hackernews:
+    name: "Hacker News"
+    tier: 1
+    ecosystem: "en_tech_community"
+    type: api
+    url: "https://hn.algolia.com/api/v1"
+    enabled: true
+    frequency: daily
+    min_points: 10
+    max_items: 20
+
+  rss_feeds:
+    name: "精选 RSS 源"
+    tier: 1
+    ecosystem: "mixed"
+    type: rss
+    enabled: true
+    frequency: daily
+    max_items: 50
+    feeds:
+      - name: "ArXiv AI"
+        url: "http://export.arxiv.org/rss/cs.AI"
+      - name: "ArXiv CL"
+        url: "http://export.arxiv.org/rss/cs.CL"
+      - name: "Hacker News RSS"
+        url: "https://hnrss.org/frontpage?points=50"
+
+  # ---- Tier 2: 引用数据源 ----
+  opengithubs:
+    name: "OpenGithubs 周榜"
+    tier: 2
+    ecosystem: "cn_open_source"
+    type: raw_github_api
+    repo: "OpenGithubs/github-weekly-rank"
+    enabled: true
+    frequency: weekly
+    is_cross_ecosystem: false
+
+  hellogithub:
+    name: "HelloGitHub 月刊"
+    tier: 2
+    ecosystem: "cn_open_source"
+    type: raw_github_api
+    repo: "521xueweihan/HelloGitHub"
+    enabled: true
+    frequency: monthly
+    is_cross_ecosystem: false
+
+  ruanyf_weekly:
+    name: "阮一峰《科技爱好者周刊》"
+    tier: 2
+    ecosystem: "cn_personal_curation"
+    type: raw_github_api
+    repo: "ruanyf/weekly"
+    enabled: true
+    frequency: weekly
+    is_cross_ecosystem: false
+
+  githubdaily:
+    name: "GitHubDaily"
+    tier: 2
+    ecosystem: "cn_open_source"
+    type: raw_github_api
+    repo: "GitHubDaily/GitHubDaily"
+    enabled: true
+    frequency: weekly
+    is_cross_ecosystem: false
+
+# 生态分组（用于独立性权重修正）
+# 同一生态内的多个来源不重复计分，取最高分
+ecosystems:
+  cn_open_source:
+    name: "中文开源社区"
+    sources: ["opengithubs", "hellogithub", "githubdaily"]
+    independence_weight: 1.0
+  cn_personal_curation:
+    name: "中文个人策展"
+    sources: ["ruanyf_weekly"]
+    independence_weight: 1.0
+  en_tech_community:
+    name: "英文技术社区"
+    sources: ["github_trending", "github_search", "hackernews"]
+    independence_weight: 1.0
+  mixed:
+    name: "跨社区混合"
+    sources: ["rss_feeds"]
+    independence_weight: 0.8

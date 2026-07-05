@@ -1,0 +1,42 @@
+name: Watchdog (防漏发)
+
+# 借鉴 AI Safety Digest：GitHub Actions 调度不稳定，
+# 看门狗在周一多次检查，若主工作流丢失则自动补发
+
+on:
+  schedule:
+    - cron: '43 11 * * 1'     # 周一 UTC 11:43
+    - cron: '43 13 * * 1'     # 周一 UTC 13:43
+    - cron: '43 15 * * 1'     # 周一 UTC 15:43
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check if weekly report already exists for this week
+        id: check
+        run: |
+          WEEK=$(date +%Y-W%V)
+          if ls output/weekly/${WEEK:0:4}/${WEEK}.md 2>/dev/null; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "Weekly report already published for $WEEK, skipping."
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "No report found for $WEEK, will dispatch."
+          fi
+
+      - name: Trigger weekly publish
+        if: steps.check.outputs.exists == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'weekly-publish.yml',
+              ref: 'main'
+            });
+            console.log('Weekly publish dispatched by watchdog.');
