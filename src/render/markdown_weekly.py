@@ -2,7 +2,6 @@
 
 from datetime import datetime
 from pathlib import Path
-
 from src.collectors.base import RepoRecord
 
 
@@ -12,6 +11,25 @@ class MarkdownRenderer:
     def __init__(self, output_dir: str):
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+
+    @staticmethod
+    def _source_names(record):
+        """Get unique source names as a comma-separated string."""
+        names = []
+        seen = set()
+        for c in record.citations:
+            if c.source_name not in seen:
+                seen.add(c.source_name)
+                names.append(c.source_name)
+        return ", ".join(names) if names else "-"
+
+    @staticmethod
+    def _short_desc(record, maxlen=60):
+        """Get a shortened description for table cells."""
+        desc = record.description or ""
+        if len(desc) > maxlen:
+            desc = desc[:maxlen-3] + "..."
+        return desc or "-"
 
     def render_weekly_report(self, records, daily_summary="", deep_analysis="", stats=None):
         now = datetime.utcnow()
@@ -44,37 +62,39 @@ class MarkdownRenderer:
             lines.append("---")
             lines.append("")
 
-        # Top N table
+        # ---- Top N table (WITH description and source names) ----
         top_n = min(len(records), 20)
         lines.append(f"## Top {top_n} 项目")
         lines.append("")
-        lines.append("| # | 项目 | 语言 | 本周 | 总 | 可信度 | 来源 |")
-        lines.append("|---|------|------|------|------|------|------|")
+        lines.append("| # | 项目 | 描述 | 语言 | 本周 ⭐ | 总 ⭐ | 可信度 | 来源 |")
+        lines.append("|---|------|------|------|---------|-------|--------|------|")
 
         for i, r in enumerate(records[:top_n], 1):
-            sc = len(set(c.source_key for c in r.citations))
+            desc = self._short_desc(r)
+            sources = self._source_names(r)
             lines.append(
-                f"| {i} | [{r.full_name}]({r.html_url}) | {r.language or '-'} | "
+                f"| {i} | [{r.full_name}]({r.html_url}) | {desc} | {r.language or '-'} | "
                 f"+{r.weekly_growth:,} | {r.stars:,} | "
-                f"{r.confidence_grade}({r.confidence_score:.0f}) | {sc} |"
+                f"{r.confidence_grade}({r.confidence_score:.0f}) | {sources} |"
             )
 
         lines.extend(["", "---", ""])
 
-        # Categories
+        # ---- Categories (with source names + descriptions) ----
         lines.append("## 分类精选")
         lines.append("")
         cats = self._group_by_category(records)
         for cat, crecs in sorted(cats.items()):
             lines.append(f"### {cat}")
             lines.append("")
-            lines.append("| # | 项目 | 本周 | 可信度 | 来源 |")
-            lines.append("|---|------|------|------|------|")
+            lines.append("| # | 项目 | 描述 | 本周 ⭐ | 可信度 | 来源 |")
+            lines.append("|---|------|------|---------|--------|------|")
             for i, r in enumerate(crecs, 1):
-                sc = len(set(c.source_key for c in r.citations))
+                desc = self._short_desc(r)
+                sources = self._source_names(r)
                 lines.append(
-                    f"| {i} | [{r.full_name}]({r.html_url}) | "
-                    f"+{r.weekly_growth:,} | {r.confidence_grade} | {sc} |"
+                    f"| {i} | [{r.full_name}]({r.html_url}) | {desc} | "
+                    f"+{r.weekly_growth:,} | {r.confidence_grade} | {sources} |"
                 )
             lines.append("")
 
