@@ -15,8 +15,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:40:36.725719
-last_updated: 2026-07-05T15:40:36.725721
+first_seen: 2026-07-05T15:47:02.601077
+last_updated: 2026-07-05T15:47:02.601079
 html_url: https://github.com/sponsors/simplex-chat
 aliases:
   - sponsors/simplex-chat
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:40:36*  
-*Updated: 2026-07-05T15:40:36*
+*First seen: 2026-07-05T15:47:02*  
+*Updated: 2026-07-05T15:47:02*

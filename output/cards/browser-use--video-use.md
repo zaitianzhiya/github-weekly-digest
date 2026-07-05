@@ -2,10 +2,10 @@
 repo_id: browser-use/video-use
 full_name: browser-use/video-use
 language: Python
-stars: 14935
+stars: 14938
 weekly_growth: 4174
 daily_growth: 596
-forks: 1770
+forks: 1771
 open_issues: 54
 confidence_score: 45
 confidence_grade: C
@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:40:38.133594
-last_updated: 2026-07-05T15:40:38.133596
+first_seen: 2026-07-05T15:47:04.391418
+last_updated: 2026-07-05T15:47:04.391419
 html_url: https://github.com/browser-use/video-use
 aliases:
   - browser-use/video-use
@@ -34,9 +34,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 14,935 |
+| **Stars** | 14,938 |
 | **Weekly** | +4,174 |
-| **Forks** | 1,770 |
+| **Forks** | 1,771 |
 | **Issues** | 54 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:40:38*  
-*Updated: 2026-07-05T15:40:38*
+*First seen: 2026-07-05T15:47:04*  
+*Updated: 2026-07-05T15:47:04*
