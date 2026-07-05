@@ -15,8 +15,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:47:03.613759
-last_updated: 2026-07-05T15:47:03.613760
+first_seen: 2026-07-05T15:52:08.555689
+last_updated: 2026-07-05T15:52:08.555690
 html_url: https://github.com/sponsors/logto-io
 aliases:
   - sponsors/logto-io
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:47:03*  
-*Updated: 2026-07-05T15:47:03*
+*First seen: 2026-07-05T15:52:08*  
+*Updated: 2026-07-05T15:52:08*

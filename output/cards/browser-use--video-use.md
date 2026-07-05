@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:47:04.391418
-last_updated: 2026-07-05T15:47:04.391419
+first_seen: 2026-07-05T15:52:09.639331
+last_updated: 2026-07-05T15:52:09.639332
 html_url: https://github.com/browser-use/video-use
 aliases:
   - browser-use/video-use
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:47:04*  
-*Updated: 2026-07-05T15:47:04*
+*First seen: 2026-07-05T15:52:09*  
+*Updated: 2026-07-05T15:52:09*

@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:47:05.347292
-last_updated: 2026-07-05T15:47:05.347293
+first_seen: 2026-07-05T15:52:10.788497
+last_updated: 2026-07-05T15:52:10.788499
 html_url: https://github.com/Starmel/OpenSuperWhisper
 aliases:
   - Starmel/OpenSuperWhisper
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:47:05*  
-*Updated: 2026-07-05T15:47:05*
+*First seen: 2026-07-05T15:52:10*  
+*Updated: 2026-07-05T15:52:10*

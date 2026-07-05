@@ -2,7 +2,7 @@
 repo_id: alibaba/page-agent
 full_name: alibaba/page-agent
 language: TypeScript
-stars: 23606
+stars: 23607
 weekly_growth: 2484
 daily_growth: 354
 forks: 2040
@@ -15,8 +15,8 @@ categories:
   - frontend
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:47:04.840275
-last_updated: 2026-07-05T15:47:04.840276
+first_seen: 2026-07-05T15:52:10.213506
+last_updated: 2026-07-05T15:52:10.213508
 html_url: https://github.com/alibaba/page-agent
 aliases:
   - alibaba/page-agent
@@ -33,7 +33,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 23,606 |
+| **Stars** | 23,607 |
 | **Weekly** | +2,484 |
 | **Forks** | 2,040 |
 | **Issues** | 48 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:47:04*  
-*Updated: 2026-07-05T15:47:04*
+*First seen: 2026-07-05T15:52:10*  
+*Updated: 2026-07-05T15:52:10*

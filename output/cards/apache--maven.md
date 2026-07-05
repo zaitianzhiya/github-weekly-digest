@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:47:06.107585
-last_updated: 2026-07-05T15:47:06.107587
+first_seen: 2026-07-05T15:52:11.912189
+last_updated: 2026-07-05T15:52:11.912191
 html_url: https://github.com/apache/maven
 aliases:
   - apache/maven
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:47:06*  
-*Updated: 2026-07-05T15:47:06*
+*First seen: 2026-07-05T15:52:11*  
+*Updated: 2026-07-05T15:52:11*
