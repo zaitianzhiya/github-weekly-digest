@@ -1,8 +1,11 @@
 name: Daily Collection
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '23 8 * * *'
   workflow_dispatch:
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
 jobs:
   collect:
     runs-on: ubuntu-latest
