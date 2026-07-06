@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[sponsors--simplex-chat|sponsors/simplex-chat]] — SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [[hasaneyldrm--exercises-dataset|hasaneyldrm/exercises-dataset]] — A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.

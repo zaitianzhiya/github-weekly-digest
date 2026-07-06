@@ -2,11 +2,11 @@
 repo_id: usestrix/strix
 full_name: usestrix/strix
 language: Python
-stars: 36782
-weekly_growth: 9362
-daily_growth: 1337
-forks: 3727
-open_issues: 173
+stars: 37686
+weekly_growth: 10338
+daily_growth: 1476
+forks: 3823
+open_issues: 179
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-07-05T15:52:05.536805
-last_updated: 2026-07-05T15:52:05.536807
+first_seen: 2026-07-06T12:16:25.792268
+last_updated: 2026-07-06T12:16:25.792270
 html_url: https://github.com/usestrix/strix
 aliases:
   - usestrix/strix
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 36,782 |
-| **Weekly** | +9,362 |
-| **Forks** | 3,727 |
-| **Issues** | 173 |
+| **Stars** | 37,686 |
+| **Weekly** | +10,338 |
+| **Forks** | 3,823 |
+| **Issues** | 179 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-05T15:52:05*  
-*Updated: 2026-07-05T15:52:05*
+*First seen: 2026-07-06T12:16:25*  
+*Updated: 2026-07-06T12:16:25*
