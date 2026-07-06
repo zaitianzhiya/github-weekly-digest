@@ -2,14 +2,14 @@
 repo_id: DeusData/codebase-memory-mcp
 full_name: DeusData/codebase-memory-mcp
 language: C
-stars: 27102
+stars: 27156
 weekly_growth: 7945
 daily_growth: 1135
-forks: 2013
+forks: 2015
 open_issues: 189
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
   - devtools
@@ -17,8 +17,9 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-07-06T12:16:36.256448
-last_updated: 2026-07-06T12:16:36.256450
+  - OpenGithubs 周榜
+first_seen: 2026-07-06T14:09:44.574642
+last_updated: 2026-07-06T14:09:44.574644
 html_url: https://github.com/DeusData/codebase-memory-mcp
 aliases:
   - DeusData/codebase-memory-mcp
@@ -28,19 +29,19 @@ aliases:
 
 > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
-#github-project #lang-c #grade-c #ai #devtools #backend #data
+#github-project #lang-c #grade-b #ai #devtools #backend #data
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | C |
-| **Stars** | 27,102 |
+| **Stars** | 27,156 |
 | **Weekly** | +7,945 |
-| **Forks** | 2,013 |
+| **Forks** | 2,015 |
 | **Issues** | 189 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -50,6 +51,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -60,5 +62,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-06T12:16:36*  
-*Updated: 2026-07-06T12:16:36*
+*First seen: 2026-07-06T14:09:44*  
+*Updated: 2026-07-06T14:09:44*

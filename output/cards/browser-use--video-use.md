@@ -2,22 +2,23 @@
 repo_id: browser-use/video-use
 full_name: browser-use/video-use
 language: Python
-stars: 15285
+stars: 15313
 weekly_growth: 4288
 daily_growth: 612
-forks: 1801
+forks: 1802
 open_issues: 53
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
   - devtools
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-06T12:16:30.351728
-last_updated: 2026-07-06T12:16:30.351729
+  - OpenGithubs 周榜
+first_seen: 2026-07-06T14:09:38.619322
+last_updated: 2026-07-06T14:09:38.619323
 html_url: https://github.com/browser-use/video-use
 aliases:
   - browser-use/video-use
@@ -27,19 +28,19 @@ aliases:
 
 > Edit videos with coding agents
 
-#github-project #lang-python #grade-c #ai #devtools #media
+#github-project #lang-python #grade-b #ai #devtools #media
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 15,285 |
+| **Stars** | 15,313 |
 | **Weekly** | +4,288 |
-| **Forks** | 1,801 |
+| **Forks** | 1,802 |
 | **Issues** | 53 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -49,6 +50,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -58,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-06T12:16:30*  
-*Updated: 2026-07-06T12:16:30*
+*First seen: 2026-07-06T14:09:38*  
+*Updated: 2026-07-06T14:09:38*

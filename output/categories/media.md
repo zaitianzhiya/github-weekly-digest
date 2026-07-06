@@ -18,6 +18,6 @@ SORT confidence_score DESC
 ## Projects
 
 - [[browser-use--video-use|browser-use/video-use]] — Edit videos with coding agents
-- [[Robbyant--lingbot-map|Robbyant/lingbot-map]] — A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [[hasaneyldrm--exercises-dataset|hasaneyldrm/exercises-dataset]] — A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+- [[Robbyant--lingbot-map|Robbyant/lingbot-map]] — A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [[immich-app--immich|immich-app/immich]] — High performance self-hosted photo and video management solution.

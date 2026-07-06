@@ -2,7 +2,7 @@
 repo_id: Starmel/OpenSuperWhisper
 full_name: Starmel/OpenSuperWhisper
 language: Swift
-stars: 1856
+stars: 1862
 weekly_growth: 532
 daily_growth: 76
 forks: 155
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-06T12:16:34.060624
-last_updated: 2026-07-06T12:16:34.060626
+first_seen: 2026-07-06T14:09:42.308788
+last_updated: 2026-07-06T14:09:42.308789
 html_url: https://github.com/Starmel/OpenSuperWhisper
 aliases:
   - Starmel/OpenSuperWhisper
@@ -31,7 +31,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Swift |
-| **Stars** | 1,856 |
+| **Stars** | 1,862 |
 | **Weekly** | +532 |
 | **Forks** | 155 |
 | **Issues** | 74 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-06T12:16:34*  
-*Updated: 2026-07-06T12:16:34*
+*First seen: 2026-07-06T14:09:42*  
+*Updated: 2026-07-06T14:09:42*
