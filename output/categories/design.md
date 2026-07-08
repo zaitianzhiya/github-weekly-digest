@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[hasaneyldrm--exercises-dataset|hasaneyldrm/exercises-dataset]] — A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+- [[sponsors--asgeirtj|sponsors/asgeirtj]] — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.

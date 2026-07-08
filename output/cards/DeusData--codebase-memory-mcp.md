@@ -2,11 +2,11 @@
 repo_id: DeusData/codebase-memory-mcp
 full_name: DeusData/codebase-memory-mcp
 language: C
-stars: 27709
-weekly_growth: 6309
-daily_growth: 901
-forks: 2060
-open_issues: 200
+stars: 28308
+weekly_growth: 5457
+daily_growth: 779
+forks: 2109
+open_issues: 215
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-07-07T11:21:16.668038
-last_updated: 2026-07-07T11:21:16.668040
+first_seen: 2026-07-08T10:32:35.535137
+last_updated: 2026-07-08T10:32:35.535138
 html_url: https://github.com/DeusData/codebase-memory-mcp
 aliases:
   - DeusData/codebase-memory-mcp
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C |
-| **Stars** | 27,709 |
-| **Weekly** | +6,309 |
-| **Forks** | 2,060 |
-| **Issues** | 200 |
+| **Stars** | 28,308 |
+| **Weekly** | +5,457 |
+| **Forks** | 2,109 |
+| **Issues** | 215 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-07T11:21:16*  
-*Updated: 2026-07-07T11:21:16*
+*First seen: 2026-07-08T10:32:35*  
+*Updated: 2026-07-08T10:32:35*
