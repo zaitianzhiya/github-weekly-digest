@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: design
-total_projects: 1
+total_projects: 2
 ---
 
 # design
 
-> 1 projects
+> 2 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,4 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[facebook--astryx|facebook/astryx]] — An open source design system that's fully customizable and agent ready
 - [[sponsors--asgeirtj|sponsors/asgeirtj]] — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.

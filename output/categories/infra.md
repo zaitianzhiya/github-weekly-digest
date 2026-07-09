@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[sponsors--calesthio|sponsors/calesthio]] — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.

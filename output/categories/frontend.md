@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: frontend
-total_projects: 3
+total_projects: 4
 ---
 
 # frontend
 
-> 3 projects
+> 4 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -18,5 +18,6 @@ SORT confidence_score DESC
 ## Projects
 
 - [[alibaba--page-agent|alibaba/page-agent]] — JavaScript in-page GUI agent. Control web interfaces with natural language.
+- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [[immich-app--immich|immich-app/immich]] — High performance self-hosted photo and video management solution.
-- [[sponsors--msitarzewski|sponsors/msitarzewski]] — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [[sponsors--saadeghi|sponsors/saadeghi]] — 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library

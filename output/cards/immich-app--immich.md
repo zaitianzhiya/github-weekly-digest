@@ -2,11 +2,11 @@
 repo_id: immich-app/immich
 full_name: immich-app/immich
 language: TypeScript
-stars: 106838
-weekly_growth: 1984
-daily_growth: 283
-forks: 6123
-open_issues: 746
+stars: 107011
+weekly_growth: 2099
+daily_growth: 299
+forks: 6134
+open_issues: 742
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-08T10:32:31.558581
-last_updated: 2026-07-08T10:32:31.558582
+first_seen: 2026-07-09T11:22:50.027625
+last_updated: 2026-07-09T11:22:50.027627
 html_url: https://github.com/immich-app/immich
 aliases:
   - immich-app/immich
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 106,838 |
-| **Weekly** | +1,984 |
-| **Forks** | 6,123 |
-| **Issues** | 746 |
+| **Stars** | 107,011 |
+| **Weekly** | +2,099 |
+| **Forks** | 6,134 |
+| **Issues** | 742 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-08T10:32:31*  
-*Updated: 2026-07-08T10:32:31*
+*First seen: 2026-07-09T11:22:50*  
+*Updated: 2026-07-09T11:22:50*
