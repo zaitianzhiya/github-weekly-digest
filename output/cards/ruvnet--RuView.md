@@ -2,11 +2,11 @@
 repo_id: ruvnet/RuView
 full_name: ruvnet/RuView
 language: Rust
-stars: 79498
-weekly_growth: 3011
-daily_growth: 430
-forks: 10689
-open_issues: 351
+stars: 79778
+weekly_growth: 3537
+daily_growth: 505
+forks: 10740
+open_issues: 357
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -19,8 +19,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-09T11:22:48.761761
-last_updated: 2026-07-09T11:22:48.761762
+first_seen: 2026-07-10T11:22:47.739073
+last_updated: 2026-07-10T11:22:47.739074
 html_url: https://github.com/ruvnet/RuView
 aliases:
   - ruvnet/RuView
@@ -37,10 +37,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 79,498 |
-| **Weekly** | +3,011 |
-| **Forks** | 10,689 |
-| **Issues** | 351 |
+| **Stars** | 79,778 |
+| **Weekly** | +3,537 |
+| **Forks** | 10,740 |
+| **Issues** | 357 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -64,5 +64,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-09T11:22:48*  
-*Updated: 2026-07-09T11:22:48*
+*First seen: 2026-07-10T11:22:47*  
+*Updated: 2026-07-10T11:22:47*

@@ -2,11 +2,11 @@
 repo_id: stablyai/orca
 full_name: stablyai/orca
 language: TypeScript
-stars: 14674
-weekly_growth: 3953
-daily_growth: 564
-forks: 991
-open_issues: 1249
+stars: 15649
+weekly_growth: 4111
+daily_growth: 587
+forks: 1220
+open_issues: 1331
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-09T11:22:45.748369
-last_updated: 2026-07-09T11:22:45.748371
+first_seen: 2026-07-10T11:22:46.161128
+last_updated: 2026-07-10T11:22:46.161129
 html_url: https://github.com/stablyai/orca
 aliases:
   - stablyai/orca
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 14,674 |
-| **Weekly** | +3,953 |
-| **Forks** | 991 |
-| **Issues** | 1249 |
+| **Stars** | 15,649 |
+| **Weekly** | +4,111 |
+| **Forks** | 1,220 |
+| **Issues** | 1331 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-09T11:22:45*  
-*Updated: 2026-07-09T11:22:45*
+*First seen: 2026-07-10T11:22:46*  
+*Updated: 2026-07-10T11:22:46*

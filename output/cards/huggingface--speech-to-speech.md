@@ -2,11 +2,11 @@
 repo_id: huggingface/speech-to-speech
 full_name: huggingface/speech-to-speech
 language: Python
-stars: 5763
-weekly_growth: 736
-daily_growth: 105
-forks: 693
-open_issues: 94
+stars: 5952
+weekly_growth: 788
+daily_growth: 112
+forks: 836
+open_issues: 97
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-09T11:22:46.515918
-last_updated: 2026-07-09T11:22:46.515919
+first_seen: 2026-07-10T11:22:46.971228
+last_updated: 2026-07-10T11:22:46.971229
 html_url: https://github.com/huggingface/speech-to-speech
 aliases:
   - huggingface/speech-to-speech
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 5,763 |
-| **Weekly** | +736 |
-| **Forks** | 693 |
-| **Issues** | 94 |
+| **Stars** | 5,952 |
+| **Weekly** | +788 |
+| **Forks** | 836 |
+| **Issues** | 97 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-09T11:22:46*  
-*Updated: 2026-07-09T11:22:46*
+*First seen: 2026-07-10T11:22:46*  
+*Updated: 2026-07-10T11:22:46*
