@@ -2,11 +2,11 @@
 repo_id: xbtlin/ai-berkshire
 full_name: xbtlin/ai-berkshire
 language: Python
-stars: 12556
-weekly_growth: 3757
-daily_growth: 536
-forks: 1776
-open_issues: 15
+stars: 12704
+weekly_growth: 3596
+daily_growth: 513
+forks: 1799
+open_issues: 18
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-10T11:22:49.997054
-last_updated: 2026-07-10T11:22:49.997055
+first_seen: 2026-07-11T09:53:02.552539
+last_updated: 2026-07-11T09:53:02.552540
 html_url: https://github.com/xbtlin/ai-berkshire
 aliases:
   - xbtlin/ai-berkshire
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 12,556 |
-| **Weekly** | +3,757 |
-| **Forks** | 1,776 |
-| **Issues** | 15 |
+| **Stars** | 12,704 |
+| **Weekly** | +3,596 |
+| **Forks** | 1,799 |
+| **Issues** | 18 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-10T11:22:49*  
-*Updated: 2026-07-10T11:22:49*
+*First seen: 2026-07-11T09:53:02*  
+*Updated: 2026-07-11T09:53:02*

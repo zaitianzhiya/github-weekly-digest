@@ -2,9 +2,9 @@
 repo_id: dotnet/skills
 full_name: dotnet/skills
 language: C#
-stars: 4518
-weekly_growth: 886
-daily_growth: 126
+stars: 4566
+weekly_growth: 914
+daily_growth: 130
 forks: 332
 open_issues: 73
 confidence_score: 45
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-10T11:22:51.283779
-last_updated: 2026-07-10T11:22:51.283781
+first_seen: 2026-07-11T09:53:03.550346
+last_updated: 2026-07-11T09:53:03.550348
 html_url: https://github.com/dotnet/skills
 aliases:
   - dotnet/skills
@@ -32,8 +32,8 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C# |
-| **Stars** | 4,518 |
-| **Weekly** | +886 |
+| **Stars** | 4,566 |
+| **Weekly** | +914 |
 | **Forks** | 332 |
 | **Issues** | 73 |
 | **Confidence** | C (45/100) |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-10T11:22:51*  
-*Updated: 2026-07-10T11:22:51*
+*First seen: 2026-07-11T09:53:03*  
+*Updated: 2026-07-11T09:53:03*
