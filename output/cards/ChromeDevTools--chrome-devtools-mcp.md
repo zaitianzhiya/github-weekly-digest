@@ -2,10 +2,10 @@
 repo_id: ChromeDevTools/chrome-devtools-mcp
 full_name: ChromeDevTools/chrome-devtools-mcp
 language: TypeScript
-stars: 46322
-weekly_growth: 1480
-daily_growth: 211
-forks: 3021
+stars: 46716
+weekly_growth: 1097
+daily_growth: 156
+forks: 3195
 open_issues: 96
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-08T10:32:35.180812
-last_updated: 2026-07-08T10:32:35.180814
+first_seen: 2026-07-12T10:03:00.843514
+last_updated: 2026-07-12T10:03:00.843516
 html_url: https://github.com/ChromeDevTools/chrome-devtools-mcp
 aliases:
   - ChromeDevTools/chrome-devtools-mcp
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 46,322 |
-| **Weekly** | +1,480 |
-| **Forks** | 3,021 |
+| **Stars** | 46,716 |
+| **Weekly** | +1,097 |
+| **Forks** | 3,195 |
 | **Issues** | 96 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-08T10:32:35*  
-*Updated: 2026-07-08T10:32:35*
+*First seen: 2026-07-12T10:03:00*  
+*Updated: 2026-07-12T10:03:00*

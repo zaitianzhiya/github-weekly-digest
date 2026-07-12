@@ -2,11 +2,11 @@
 repo_id: openai/codex-plugin-cc
 full_name: openai/codex-plugin-cc
 language: JavaScript
-stars: 27531
-weekly_growth: 4484
-daily_growth: 640
-forks: 1791
-open_issues: 305
+stars: 27821
+weekly_growth: 4030
+daily_growth: 575
+forks: 1816
+open_issues: 312
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-11T09:52:55.431157
-last_updated: 2026-07-11T09:52:55.431159
+first_seen: 2026-07-12T10:02:52.847326
+last_updated: 2026-07-12T10:02:52.847328
 html_url: https://github.com/openai/codex-plugin-cc
 aliases:
   - openai/codex-plugin-cc
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 27,531 |
-| **Weekly** | +4,484 |
-| **Forks** | 1,791 |
-| **Issues** | 305 |
+| **Stars** | 27,821 |
+| **Weekly** | +4,030 |
+| **Forks** | 1,816 |
+| **Issues** | 312 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-11T09:52:55*  
-*Updated: 2026-07-11T09:52:55*
+*First seen: 2026-07-12T10:02:52*  
+*Updated: 2026-07-12T10:02:52*

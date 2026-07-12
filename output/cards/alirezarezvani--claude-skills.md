@@ -2,11 +2,11 @@
 repo_id: alirezarezvani/claude-skills
 full_name: alirezarezvani/claude-skills
 language: Python
-stars: 22134
-weekly_growth: 2230
-daily_growth: 318
-forks: 3094
-open_issues: 8
+stars: 22267
+weekly_growth: 2261
+daily_growth: 323
+forks: 3111
+open_issues: 6
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-11T09:53:04.184489
-last_updated: 2026-07-11T09:53:04.184491
+first_seen: 2026-07-12T10:03:02.233559
+last_updated: 2026-07-12T10:03:02.233561
 html_url: https://github.com/alirezarezvani/claude-skills
 aliases:
   - alirezarezvani/claude-skills
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 22,134 |
-| **Weekly** | +2,230 |
-| **Forks** | 3,094 |
-| **Issues** | 8 |
+| **Stars** | 22,267 |
+| **Weekly** | +2,261 |
+| **Forks** | 3,111 |
+| **Issues** | 6 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-11T09:53:04*  
-*Updated: 2026-07-11T09:53:04*
+*First seen: 2026-07-12T10:03:02*  
+*Updated: 2026-07-12T10:03:02*
