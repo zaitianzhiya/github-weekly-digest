@@ -17,6 +17,6 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [[vxcontrol--pentagi|vxcontrol/pentagi]] — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [[usestrix--strix|usestrix/strix]] — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.

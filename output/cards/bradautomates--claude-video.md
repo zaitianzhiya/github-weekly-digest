@@ -2,22 +2,23 @@
 repo_id: bradautomates/claude-video
 full_name: bradautomates/claude-video
 language: Python
-stars: 7960
+stars: 7974
 weekly_growth: 4353
 daily_growth: 621
-forks: 884
+forks: 888
 open_issues: 51
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
   - devtools
   - media
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-07-13T11:33:09.964103
-last_updated: 2026-07-13T11:33:09.964105
+first_seen: 2026-07-13T13:01:31.169768
+last_updated: 2026-07-13T13:01:31.169770
 html_url: https://github.com/bradautomates/claude-video
 aliases:
   - bradautomates/claude-video
@@ -27,19 +28,19 @@ aliases:
 
 > Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
-#github-project #lang-python #grade-c #ai #devtools #media
+#github-project #lang-python #grade-b #ai #devtools #media
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 7,960 |
+| **Stars** | 7,974 |
 | **Weekly** | +4,353 |
-| **Forks** | 884 |
+| **Forks** | 888 |
 | **Issues** | 51 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -49,6 +50,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -58,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-13T11:33:09*  
-*Updated: 2026-07-13T11:33:09*
+*First seen: 2026-07-13T13:01:31*  
+*Updated: 2026-07-13T13:01:31*
