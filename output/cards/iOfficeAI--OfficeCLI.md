@@ -2,22 +2,21 @@
 repo_id: iOfficeAI/OfficeCLI
 full_name: iOfficeAI/OfficeCLI
 language: C#
-stars: 15873
-weekly_growth: 6978
-daily_growth: 996
-forks: 1073
-open_issues: 25
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+stars: 16424
+weekly_growth: 7596
+daily_growth: 1085
+forks: 1103
+open_issues: 23
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
 categories:
   - AI
   - devtools
 sources:
-  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-07-13T13:01:30.350223
-last_updated: 2026-07-13T13:01:30.350225
+first_seen: 2026-07-14T10:13:41.954706
+last_updated: 2026-07-14T10:13:41.954708
 html_url: https://github.com/iOfficeAI/OfficeCLI
 aliases:
   - iOfficeAI/OfficeCLI
@@ -27,19 +26,19 @@ aliases:
 
 > OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
-#github-project #lang-c# #grade-b #ai #devtools
+#github-project #lang-c# #grade-c #ai #devtools
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | C# |
-| **Stars** | 15,873 |
-| **Weekly** | +6,978 |
-| **Forks** | 1,073 |
-| **Issues** | 25 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Stars** | 16,424 |
+| **Weekly** | +7,596 |
+| **Forks** | 1,103 |
+| **Issues** | 23 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -49,7 +48,6 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
-- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -58,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-13T13:01:30*  
-*Updated: 2026-07-13T13:01:30*
+*First seen: 2026-07-14T10:13:41*  
+*Updated: 2026-07-14T10:13:41*

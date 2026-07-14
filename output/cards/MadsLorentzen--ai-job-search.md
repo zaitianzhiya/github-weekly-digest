@@ -2,11 +2,11 @@
 repo_id: MadsLorentzen/ai-job-search
 full_name: MadsLorentzen/ai-job-search
 language: TypeScript
-stars: 16934
-weekly_growth: 9677
-daily_growth: 1382
-forks: 5037
-open_issues: 8
+stars: 22173
+weekly_growth: 15420
+daily_growth: 2202
+forks: 6807
+open_issues: 7
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-09T11:22:37.976442
-last_updated: 2026-07-09T11:22:37.976444
+first_seen: 2026-07-14T10:13:37.959906
+last_updated: 2026-07-14T10:13:37.959908
 html_url: https://github.com/MadsLorentzen/ai-job-search
 aliases:
   - MadsLorentzen/ai-job-search
@@ -23,7 +23,7 @@ aliases:
 
 # MadsLorentzen/ai-job-search
 
-> AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+> The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 #github-project #lang-typescript #grade-c #ai
 
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16,934 |
-| **Weekly** | +9,677 |
-| **Forks** | 5,037 |
-| **Issues** | 8 |
+| **Stars** | 22,173 |
+| **Weekly** | +15,420 |
+| **Forks** | 6,807 |
+| **Issues** | 7 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-09T11:22:37*  
-*Updated: 2026-07-09T11:22:37*
+*First seen: 2026-07-14T10:13:37*  
+*Updated: 2026-07-14T10:13:37*
