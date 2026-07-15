@@ -2,11 +2,11 @@
 repo_id: bradautomates/claude-video
 full_name: bradautomates/claude-video
 language: Python
-stars: 8320
-weekly_growth: 4128
-daily_growth: 589
-forks: 909
-open_issues: 51
+stars: 8585
+weekly_growth: 3554
+daily_growth: 507
+forks: 930
+open_issues: 52
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-14T10:13:43.459821
-last_updated: 2026-07-14T10:13:43.459822
+first_seen: 2026-07-15T10:17:32.047364
+last_updated: 2026-07-15T10:17:32.047365
 html_url: https://github.com/bradautomates/claude-video
 aliases:
   - bradautomates/claude-video
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 8,320 |
-| **Weekly** | +4,128 |
-| **Forks** | 909 |
-| **Issues** | 51 |
+| **Stars** | 8,585 |
+| **Weekly** | +3,554 |
+| **Forks** | 930 |
+| **Issues** | 52 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-14T10:13:43*  
-*Updated: 2026-07-14T10:13:43*
+*First seen: 2026-07-15T10:17:32*  
+*Updated: 2026-07-15T10:17:32*

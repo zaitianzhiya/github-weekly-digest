@@ -2,11 +2,11 @@
 repo_id: MadsLorentzen/ai-job-search
 full_name: MadsLorentzen/ai-job-search
 language: TypeScript
-stars: 22173
-weekly_growth: 15420
-daily_growth: 2202
-forks: 6807
-open_issues: 7
+stars: 22698
+weekly_growth: 13195
+daily_growth: 1885
+forks: 7065
+open_issues: 5
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-14T10:13:37.959906
-last_updated: 2026-07-14T10:13:37.959908
+first_seen: 2026-07-15T10:17:28.192976
+last_updated: 2026-07-15T10:17:28.192978
 html_url: https://github.com/MadsLorentzen/ai-job-search
 aliases:
   - MadsLorentzen/ai-job-search
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 22,173 |
-| **Weekly** | +15,420 |
-| **Forks** | 6,807 |
-| **Issues** | 7 |
+| **Stars** | 22,698 |
+| **Weekly** | +13,195 |
+| **Forks** | 7,065 |
+| **Issues** | 5 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-14T10:13:37*  
-*Updated: 2026-07-14T10:13:37*
+*First seen: 2026-07-15T10:17:28*  
+*Updated: 2026-07-15T10:17:28*

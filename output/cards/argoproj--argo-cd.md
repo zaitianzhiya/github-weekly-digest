@@ -2,11 +2,11 @@
 repo_id: argoproj/argo-cd
 full_name: argoproj/argo-cd
 language: Go
-stars: 23691
-weekly_growth: 342
-daily_growth: 48
-forks: 7614
-open_issues: 4255
+stars: 23716
+weekly_growth: 373
+daily_growth: 53
+forks: 7623
+open_issues: 4249
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-07-14T10:13:49.008325
-last_updated: 2026-07-14T10:13:49.008326
+first_seen: 2026-07-15T10:17:36.388361
+last_updated: 2026-07-15T10:17:36.388362
 html_url: https://github.com/argoproj/argo-cd
 aliases:
   - argoproj/argo-cd
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Go |
-| **Stars** | 23,691 |
-| **Weekly** | +342 |
-| **Forks** | 7,614 |
-| **Issues** | 4255 |
+| **Stars** | 23,716 |
+| **Weekly** | +373 |
+| **Forks** | 7,623 |
+| **Issues** | 4249 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-14T10:13:49*  
-*Updated: 2026-07-14T10:13:49*
+*First seen: 2026-07-15T10:17:36*  
+*Updated: 2026-07-15T10:17:36*

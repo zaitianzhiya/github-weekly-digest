@@ -2,11 +2,11 @@
 repo_id: facebook/astryx
 full_name: facebook/astryx
 language: TypeScript
-stars: 8841
-weekly_growth: 2255
-daily_growth: 322
-forks: 735
-open_issues: 196
+stars: 9043
+weekly_growth: 2189
+daily_growth: 312
+forks: 755
+open_issues: 237
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-14T10:13:45.493455
-last_updated: 2026-07-14T10:13:45.493456
+first_seen: 2026-07-15T10:17:33.806206
+last_updated: 2026-07-15T10:17:33.806208
 html_url: https://github.com/facebook/astryx
 aliases:
   - facebook/astryx
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8,841 |
-| **Weekly** | +2,255 |
-| **Forks** | 735 |
-| **Issues** | 196 |
+| **Stars** | 9,043 |
+| **Weekly** | +2,189 |
+| **Forks** | 755 |
+| **Issues** | 237 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-14T10:13:45*  
-*Updated: 2026-07-14T10:13:45*
+*First seen: 2026-07-15T10:17:33*  
+*Updated: 2026-07-15T10:17:33*

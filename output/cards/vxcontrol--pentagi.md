@@ -2,10 +2,10 @@
 repo_id: vxcontrol/pentagi
 full_name: vxcontrol/pentagi
 language: Go
-stars: 20496
-weekly_growth: 2199
-daily_growth: 314
-forks: 2717
+stars: 20678
+weekly_growth: 2347
+daily_growth: 335
+forks: 2725
 open_issues: 62
 confidence_score: 45
 confidence_grade: C
@@ -17,8 +17,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-07-14T10:13:48.304527
-last_updated: 2026-07-14T10:13:48.304528
+first_seen: 2026-07-15T10:17:34.930910
+last_updated: 2026-07-15T10:17:34.930912
 html_url: https://github.com/vxcontrol/pentagi
 aliases:
   - vxcontrol/pentagi
@@ -35,9 +35,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Go |
-| **Stars** | 20,496 |
-| **Weekly** | +2,199 |
-| **Forks** | 2,717 |
+| **Stars** | 20,678 |
+| **Weekly** | +2,347 |
+| **Forks** | 2,725 |
 | **Issues** | 62 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-14T10:13:48*  
-*Updated: 2026-07-14T10:13:48*
+*First seen: 2026-07-15T10:17:34*  
+*Updated: 2026-07-15T10:17:34*
