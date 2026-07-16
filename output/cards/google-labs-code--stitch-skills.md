@@ -2,11 +2,11 @@
 repo_id: google-labs-code/stitch-skills
 full_name: google-labs-code/stitch-skills
 language: TypeScript
-stars: 7196
-weekly_growth: 549
-daily_growth: 78
-forks: 953
-open_issues: 21
+stars: 7506
+weekly_growth: 992
+daily_growth: 141
+forks: 978
+open_issues: 18
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-12T10:03:05.967561
-last_updated: 2026-07-12T10:03:05.967563
+first_seen: 2026-07-16T10:22:57.906042
+last_updated: 2026-07-16T10:22:57.906044
 html_url: https://github.com/google-labs-code/stitch-skills
 aliases:
   - google-labs-code/stitch-skills
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7,196 |
-| **Weekly** | +549 |
-| **Forks** | 953 |
-| **Issues** | 21 |
+| **Stars** | 7,506 |
+| **Weekly** | +992 |
+| **Forks** | 978 |
+| **Issues** | 18 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-12T10:03:05*  
-*Updated: 2026-07-12T10:03:05*
+*First seen: 2026-07-16T10:22:57*  
+*Updated: 2026-07-16T10:22:57*

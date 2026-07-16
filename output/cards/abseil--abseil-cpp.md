@@ -2,19 +2,19 @@
 repo_id: abseil/abseil-cpp
 full_name: abseil/abseil-cpp
 language: C++
-stars: 17991
-weekly_growth: 637
-daily_growth: 91
-forks: 3224
-open_issues: 236
+stars: 18017
+weekly_growth: 648
+daily_growth: 92
+forks: 3227
+open_issues: 238
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-15T10:17:28.992970
-last_updated: 2026-07-15T10:17:28.992971
+first_seen: 2026-07-16T10:22:58.469622
+last_updated: 2026-07-16T10:22:58.469623
 html_url: https://github.com/abseil/abseil-cpp
 aliases:
   - abseil/abseil-cpp
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C++ |
-| **Stars** | 17,991 |
-| **Weekly** | +637 |
-| **Forks** | 3,224 |
-| **Issues** | 236 |
+| **Stars** | 18,017 |
+| **Weekly** | +648 |
+| **Forks** | 3,227 |
+| **Issues** | 238 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-15T10:17:28*  
-*Updated: 2026-07-15T10:17:28*
+*First seen: 2026-07-16T10:22:58*  
+*Updated: 2026-07-16T10:22:58*

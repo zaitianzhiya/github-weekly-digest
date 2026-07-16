@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: design
-total_projects: 4
+total_projects: 3
 ---
 
 # design
 
-> 4 projects
+> 3 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -18,6 +18,5 @@ SORT confidence_score DESC
 ## Projects
 
 - [[Nutlope--hallmark|Nutlope/hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [[tt-a1i--archify|tt-a1i/archify]] — Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+- [[google-labs-code--stitch-skills|google-labs-code/stitch-skills]] — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 - [[pbakaus--impeccable|pbakaus/impeccable]] — The design language that makes your AI harness better at design.
-- [[facebook--astryx|facebook/astryx]] — An open source design system that's fully customizable and agent ready

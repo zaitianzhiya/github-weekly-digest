@@ -3,8 +3,8 @@ repo_id: sponsors/ogulcancelik
 full_name: sponsors/ogulcancelik
 language: Rust
 stars: 0
-weekly_growth: 3115
-daily_growth: 445
+weekly_growth: 2636
+daily_growth: 376
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-15T10:17:30.813688
-last_updated: 2026-07-15T10:17:30.813690
+first_seen: 2026-07-16T10:23:01.844670
+last_updated: 2026-07-16T10:23:01.844672
 html_url: https://github.com/sponsors/ogulcancelik
 aliases:
   - sponsors/ogulcancelik
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | Rust |
 | **Stars** | 0 |
-| **Weekly** | +3,115 |
+| **Weekly** | +2,636 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-15T10:17:30*  
-*Updated: 2026-07-15T10:17:30*
+*First seen: 2026-07-16T10:23:01*  
+*Updated: 2026-07-16T10:23:01*

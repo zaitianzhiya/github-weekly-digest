@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[argoproj--argo-cd|argoproj/argo-cd]] — Declarative Continuous Deployment for Kubernetes
+- [[sponsors--davila7|sponsors/davila7]] — CLI tool for configuring and monitoring Claude Code
