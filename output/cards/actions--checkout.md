@@ -2,19 +2,19 @@
 repo_id: actions/checkout
 full_name: actions/checkout
 language: TypeScript
-stars: 8473
-weekly_growth: 211
-daily_growth: 30
-forks: 2605
-open_issues: 680
+stars: 8492
+weekly_growth: 159
+daily_growth: 22
+forks: 2601
+open_issues: 677
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-17T10:13:56.353404
-last_updated: 2026-07-17T10:13:56.353406
+first_seen: 2026-07-18T09:50:14.586167
+last_updated: 2026-07-18T09:50:14.586169
 html_url: https://github.com/actions/checkout
 aliases:
   - actions/checkout
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8,473 |
-| **Weekly** | +211 |
-| **Forks** | 2,605 |
-| **Issues** | 680 |
+| **Stars** | 8,492 |
+| **Weekly** | +159 |
+| **Forks** | 2,601 |
+| **Issues** | 677 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-17T10:13:56*  
-*Updated: 2026-07-17T10:13:56*
+*First seen: 2026-07-18T09:50:14*  
+*Updated: 2026-07-18T09:50:14*

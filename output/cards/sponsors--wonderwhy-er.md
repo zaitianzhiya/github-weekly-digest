@@ -3,8 +3,8 @@ repo_id: sponsors/wonderwhy-er
 full_name: sponsors/wonderwhy-er
 language: TypeScript
 stars: 0
-weekly_growth: 1991
-daily_growth: 284
+weekly_growth: 1657
+daily_growth: 236
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-17T10:13:50.140871
-last_updated: 2026-07-17T10:13:50.140873
+first_seen: 2026-07-18T09:50:10.637935
+last_updated: 2026-07-18T09:50:10.637936
 html_url: https://github.com/sponsors/wonderwhy-er
 aliases:
   - sponsors/wonderwhy-er
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +1,991 |
+| **Weekly** | +1,657 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-17T10:13:50*  
-*Updated: 2026-07-17T10:13:50*
+*First seen: 2026-07-18T09:50:10*  
+*Updated: 2026-07-18T09:50:10*
