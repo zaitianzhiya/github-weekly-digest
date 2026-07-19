@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[bradautomates--claude-video|bradautomates/claude-video]] — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+- [[Graphify-Labs--graphify|Graphify-Labs/graphify]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.

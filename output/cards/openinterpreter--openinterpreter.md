@@ -1,0 +1,58 @@
+---
+repo_id: openinterpreter/openinterpreter
+full_name: openinterpreter/openinterpreter
+language: Rust
+stars: 66743
+weekly_growth: 2344
+daily_growth: 334
+forks: 5736
+open_issues: 285
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
+categories:
+  - AI
+sources:
+  - GitHub Trending
+first_seen: 2026-07-19T10:02:20.914403
+last_updated: 2026-07-19T10:02:20.914404
+html_url: https://github.com/openinterpreter/openinterpreter
+aliases:
+  - openinterpreter/openinterpreter
+---
+
+# openinterpreter/openinterpreter
+
+> A coding agent for open models like Kimi K3
+
+#github-project #lang-rust #grade-c #ai
+
+## Info
+
+| Metric | Value |
+|--------|-------|
+| **Language** | Rust |
+| **Stars** | 66,743 |
+| **Weekly** | +2,344 |
+| **Forks** | 5,736 |
+| **Issues** | 285 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
+
+## Links
+
+- [GitHub](https://github.com/openinterpreter/openinterpreter)
+- [Star History](https://star-history.com/#openinterpreter/openinterpreter)
+
+## Sources
+
+- GitHub Trending (Tier 1)
+
+## Categories
+
+- [[AI]]
+
+---
+
+*First seen: 2026-07-19T10:02:20*  
+*Updated: 2026-07-19T10:02:20*

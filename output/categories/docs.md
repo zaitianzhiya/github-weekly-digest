@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: docs
-total_projects: 2
+total_projects: 1
 ---
 
 # docs
 
-> 2 projects
+> 1 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,5 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[anthropics--claude-cookbooks|anthropics/claude-cookbooks]] — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [[sponsors--Zackriya-Solutions|sponsors/Zackriya-Solutions]] — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes
+- [[Graphify-Labs--graphify|Graphify-Labs/graphify]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.

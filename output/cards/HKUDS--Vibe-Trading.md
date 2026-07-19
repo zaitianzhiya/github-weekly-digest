@@ -2,11 +2,11 @@
 repo_id: HKUDS/Vibe-Trading
 full_name: HKUDS/Vibe-Trading
 language: Python
-stars: 24795
-weekly_growth: 5616
-daily_growth: 802
-forks: 4100
-open_issues: 75
+stars: 25109
+weekly_growth: 5635
+daily_growth: 805
+forks: 4138
+open_issues: 71
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-18T09:50:10.481665
-last_updated: 2026-07-18T09:50:10.481667
+first_seen: 2026-07-19T10:02:17.039426
+last_updated: 2026-07-19T10:02:17.039428
 html_url: https://github.com/HKUDS/Vibe-Trading
 aliases:
   - HKUDS/Vibe-Trading
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 24,795 |
-| **Weekly** | +5,616 |
-| **Forks** | 4,100 |
-| **Issues** | 75 |
+| **Stars** | 25,109 |
+| **Weekly** | +5,635 |
+| **Forks** | 4,138 |
+| **Issues** | 71 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-18T09:50:10*  
-*Updated: 2026-07-18T09:50:10*
+*First seen: 2026-07-19T10:02:17*  
+*Updated: 2026-07-19T10:02:17*

@@ -2,11 +2,11 @@
 repo_id: iOfficeAI/OfficeCLI
 full_name: iOfficeAI/OfficeCLI
 language: C#
-stars: 19028
-weekly_growth: 4611
-daily_growth: 658
-forks: 1277
-open_issues: 50
+stars: 19444
+weekly_growth: 4284
+daily_growth: 612
+forks: 1310
+open_issues: 32
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-18T09:50:12.272714
-last_updated: 2026-07-18T09:50:12.272715
+first_seen: 2026-07-19T10:02:18.276852
+last_updated: 2026-07-19T10:02:18.276854
 html_url: https://github.com/iOfficeAI/OfficeCLI
 aliases:
   - iOfficeAI/OfficeCLI
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C# |
-| **Stars** | 19,028 |
-| **Weekly** | +4,611 |
-| **Forks** | 1,277 |
-| **Issues** | 50 |
+| **Stars** | 19,444 |
+| **Weekly** | +4,284 |
+| **Forks** | 1,310 |
+| **Issues** | 32 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-18T09:50:12*  
-*Updated: 2026-07-18T09:50:12*
+*First seen: 2026-07-19T10:02:18*  
+*Updated: 2026-07-19T10:02:18*
