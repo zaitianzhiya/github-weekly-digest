@@ -2,10 +2,10 @@
 repo_id: HKUDS/DeepTutor
 full_name: HKUDS/DeepTutor
 language: Python
-stars: 28217
+stars: 28247
 weekly_growth: 2375
 daily_growth: 339
-forks: 3735
+forks: 3739
 open_issues: 60
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T11:17:28.831529
-last_updated: 2026-07-20T11:17:28.831531
+first_seen: 2026-07-20T12:35:11.505419
+last_updated: 2026-07-20T12:35:11.505421
 html_url: https://github.com/HKUDS/DeepTutor
 aliases:
   - HKUDS/DeepTutor
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 28,217 |
+| **Stars** | 28,247 |
 | **Weekly** | +2,375 |
-| **Forks** | 3,735 |
+| **Forks** | 3,739 |
 | **Issues** | 60 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T11:17:28*  
-*Updated: 2026-07-20T11:17:28*
+*First seen: 2026-07-20T12:35:11*  
+*Updated: 2026-07-20T12:35:11*

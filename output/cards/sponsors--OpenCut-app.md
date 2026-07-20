@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T11:17:27.446273
-last_updated: 2026-07-20T11:17:27.446275
+first_seen: 2026-07-20T12:35:10.391357
+last_updated: 2026-07-20T12:35:10.391359
 html_url: https://github.com/sponsors/OpenCut-app
 aliases:
   - sponsors/OpenCut-app
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T11:17:27*  
-*Updated: 2026-07-20T11:17:27*
+*First seen: 2026-07-20T12:35:10*  
+*Updated: 2026-07-20T12:35:10*

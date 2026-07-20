@@ -2,7 +2,7 @@
 repo_id: anthropics/cwc-workshops
 full_name: anthropics/cwc-workshops
 language: TypeScript
-stars: 1796
+stars: 1799
 weekly_growth: 317
 daily_growth: 45
 forks: 499
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T11:17:36.948946
-last_updated: 2026-07-20T11:17:36.948948
+first_seen: 2026-07-20T12:35:18.779493
+last_updated: 2026-07-20T12:35:18.779495
 html_url: https://github.com/anthropics/cwc-workshops
 aliases:
   - anthropics/cwc-workshops
@@ -31,7 +31,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 1,796 |
+| **Stars** | 1,799 |
 | **Weekly** | +317 |
 | **Forks** | 499 |
 | **Issues** | 6 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T11:17:36*  
-*Updated: 2026-07-20T11:17:36*
+*First seen: 2026-07-20T12:35:18*  
+*Updated: 2026-07-20T12:35:18*

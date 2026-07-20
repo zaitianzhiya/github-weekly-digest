@@ -17,8 +17,8 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[MoonshotAI--kimi-cli|MoonshotAI/kimi-cli]] — Kimi Code CLI is your next CLI agent.
 - [[iOfficeAI--OfficeCLI|iOfficeAI/OfficeCLI]] — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- [[MoonshotAI--kimi-cli|MoonshotAI/kimi-cli]] — Kimi Code CLI is your next CLI agent.
 - [[HKUDS--DeepTutor|HKUDS/DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [[openai--codex|openai/codex]] — Lightweight coding agent that runs in your terminal
 - [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI

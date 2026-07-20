@@ -2,11 +2,11 @@
 repo_id: earendil-works/pi
 full_name: earendil-works/pi
 language: TypeScript
-stars: 73072
+stars: 73111
 weekly_growth: 2854
 daily_growth: 407
-forks: 9022
-open_issues: 77
+forks: 9030
+open_issues: 73
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T11:17:35.568931
-last_updated: 2026-07-20T11:17:35.568932
+first_seen: 2026-07-20T12:35:17.577958
+last_updated: 2026-07-20T12:35:17.577960
 html_url: https://github.com/earendil-works/pi
 aliases:
   - earendil-works/pi
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 73,072 |
+| **Stars** | 73,111 |
 | **Weekly** | +2,854 |
-| **Forks** | 9,022 |
-| **Issues** | 77 |
+| **Forks** | 9,030 |
+| **Issues** | 73 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T11:17:35*  
-*Updated: 2026-07-20T11:17:35*
+*First seen: 2026-07-20T12:35:17*  
+*Updated: 2026-07-20T12:35:17*
