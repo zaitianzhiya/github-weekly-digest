@@ -2,11 +2,11 @@
 repo_id: openinterpreter/openinterpreter
 full_name: openinterpreter/openinterpreter
 language: Rust
-stars: 66743
-weekly_growth: 2344
-daily_growth: 334
-forks: 5736
-open_issues: 285
+stars: 66900
+weekly_growth: 2498
+daily_growth: 356
+forks: 5750
+open_issues: 288
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-19T10:02:20.914403
-last_updated: 2026-07-19T10:02:20.914404
+first_seen: 2026-07-20T11:17:34.177508
+last_updated: 2026-07-20T11:17:34.177510
 html_url: https://github.com/openinterpreter/openinterpreter
 aliases:
   - openinterpreter/openinterpreter
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 66,743 |
-| **Weekly** | +2,344 |
-| **Forks** | 5,736 |
-| **Issues** | 285 |
+| **Stars** | 66,900 |
+| **Weekly** | +2,498 |
+| **Forks** | 5,750 |
+| **Issues** | 288 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-19T10:02:20*  
-*Updated: 2026-07-19T10:02:20*
+*First seen: 2026-07-20T11:17:34*  
+*Updated: 2026-07-20T11:17:34*

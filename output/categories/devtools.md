@@ -17,10 +17,10 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[MoonshotAI--kimi-cli|MoonshotAI/kimi-cli]] — Kimi Code CLI is your next CLI agent.
 - [[iOfficeAI--OfficeCLI|iOfficeAI/OfficeCLI]] — OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-- [[Graphify-Labs--graphify|Graphify-Labs/graphify]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 - [[HKUDS--DeepTutor|HKUDS/DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [[openai--codex|openai/codex]] — Lightweight coding agent that runs in your terminal
-- [[stablyai--orca|stablyai/orca]] — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [[sponsors--tirth8205|sponsors/tirth8205]] — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - [[sponsors--mattpocock|sponsors/mattpocock]] — Skills for Real Engineers. Straight from my .agents directory.
-- [[sponsors--wonderwhy-er|sponsors/wonderwhy-er]] — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
