@@ -3,8 +3,8 @@ repo_id: sponsors/OpenCut-app
 full_name: sponsors/OpenCut-app
 language: TypeScript
 stars: 0
-weekly_growth: 12743
-daily_growth: 1820
+weekly_growth: 11676
+daily_growth: 1668
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T12:35:10.391357
-last_updated: 2026-07-20T12:35:10.391359
+first_seen: 2026-07-21T10:35:28.180860
+last_updated: 2026-07-21T10:35:28.180862
 html_url: https://github.com/sponsors/OpenCut-app
 aliases:
   - sponsors/OpenCut-app
@@ -32,7 +32,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +12,743 |
+| **Weekly** | +11,676 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T12:35:10*  
-*Updated: 2026-07-20T12:35:10*
+*First seen: 2026-07-21T10:35:28*  
+*Updated: 2026-07-21T10:35:28*

@@ -2,11 +2,11 @@
 repo_id: MoonshotAI/kimi-cli
 full_name: MoonshotAI/kimi-cli
 language: Python
-stars: 10084
-weekly_growth: 693
-daily_growth: 99
-forks: 1211
-open_issues: 781
+stars: 10401
+weekly_growth: 974
+daily_growth: 139
+forks: 1225
+open_issues: 784
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T12:35:15.761603
-last_updated: 2026-07-20T12:35:15.761605
+first_seen: 2026-07-21T10:35:35.396154
+last_updated: 2026-07-21T10:35:35.396155
 html_url: https://github.com/MoonshotAI/kimi-cli
 aliases:
   - MoonshotAI/kimi-cli
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 10,084 |
-| **Weekly** | +693 |
-| **Forks** | 1,211 |
-| **Issues** | 781 |
+| **Stars** | 10,401 |
+| **Weekly** | +974 |
+| **Forks** | 1,225 |
+| **Issues** | 784 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T12:35:15*  
-*Updated: 2026-07-20T12:35:15*
+*First seen: 2026-07-21T10:35:35*  
+*Updated: 2026-07-21T10:35:35*

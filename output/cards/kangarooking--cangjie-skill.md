@@ -2,11 +2,11 @@
 repo_id: kangarooking/cangjie-skill
 full_name: kangarooking/cangjie-skill
 language: Python
-stars: 4024
-weekly_growth: 1284
-daily_growth: 183
-forks: 547
-open_issues: 7
+stars: 4182
+weekly_growth: 1342
+daily_growth: 191
+forks: 556
+open_issues: 9
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-20T12:35:13.806820
-last_updated: 2026-07-20T12:35:13.806822
+first_seen: 2026-07-21T10:35:33.214525
+last_updated: 2026-07-21T10:35:33.214526
 html_url: https://github.com/kangarooking/cangjie-skill
 aliases:
   - kangarooking/cangjie-skill
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 4,024 |
-| **Weekly** | +1,284 |
-| **Forks** | 547 |
-| **Issues** | 7 |
+| **Stars** | 4,182 |
+| **Weekly** | +1,342 |
+| **Forks** | 556 |
+| **Issues** | 9 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-20T12:35:13*  
-*Updated: 2026-07-20T12:35:13*
+*First seen: 2026-07-21T10:35:33*  
+*Updated: 2026-07-21T10:35:33*
