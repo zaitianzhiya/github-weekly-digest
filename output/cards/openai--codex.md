@@ -2,11 +2,11 @@
 repo_id: openai/codex
 full_name: openai/codex
 language: Rust
-stars: 100243
-weekly_growth: 2448
+stars: 100594
+weekly_growth: 2445
 daily_growth: 349
-forks: 15000
-open_issues: 10362
+forks: 15058
+open_issues: 10475
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-21T10:35:34.749531
-last_updated: 2026-07-21T10:35:34.749533
+first_seen: 2026-07-22T10:35:52.644471
+last_updated: 2026-07-22T10:35:52.644473
 html_url: https://github.com/openai/codex
 aliases:
   - openai/codex
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 100,243 |
-| **Weekly** | +2,448 |
-| **Forks** | 15,000 |
-| **Issues** | 10362 |
+| **Stars** | 100,594 |
+| **Weekly** | +2,445 |
+| **Forks** | 15,058 |
+| **Issues** | 10475 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-21T10:35:34*  
-*Updated: 2026-07-21T10:35:34*
+*First seen: 2026-07-22T10:35:52*  
+*Updated: 2026-07-22T10:35:52*

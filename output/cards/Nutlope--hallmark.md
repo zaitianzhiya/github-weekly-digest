@@ -2,11 +2,11 @@
 repo_id: Nutlope/hallmark
 full_name: Nutlope/hallmark
 language: CSS
-stars: 14588
-weekly_growth: 9173
-daily_growth: 1310
-forks: 727
-open_issues: 20
+stars: 15269
+weekly_growth: 8948
+daily_growth: 1278
+forks: 764
+open_issues: 28
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-21T10:35:27.688839
-last_updated: 2026-07-21T10:35:27.688841
+first_seen: 2026-07-22T10:35:47.880565
+last_updated: 2026-07-22T10:35:47.880566
 html_url: https://github.com/Nutlope/hallmark
 aliases:
   - Nutlope/hallmark
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | CSS |
-| **Stars** | 14,588 |
-| **Weekly** | +9,173 |
-| **Forks** | 727 |
-| **Issues** | 20 |
+| **Stars** | 15,269 |
+| **Weekly** | +8,948 |
+| **Forks** | 764 |
+| **Issues** | 28 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-21T10:35:27*  
-*Updated: 2026-07-21T10:35:27*
+*First seen: 2026-07-22T10:35:47*  
+*Updated: 2026-07-22T10:35:47*

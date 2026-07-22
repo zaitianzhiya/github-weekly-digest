@@ -2,11 +2,11 @@
 repo_id: Shubhamsaboo/awesome-llm-apps
 full_name: Shubhamsaboo/awesome-llm-apps
 language: Python
-stars: 125491
-weekly_growth: 5857
-daily_growth: 836
-forks: 18514
-open_issues: 11
+stars: 126047
+weekly_growth: 5385
+daily_growth: 769
+forks: 18594
+open_issues: 9
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-21T10:35:28.852182
-last_updated: 2026-07-21T10:35:28.852184
+first_seen: 2026-07-22T10:35:48.979499
+last_updated: 2026-07-22T10:35:48.979501
 html_url: https://github.com/Shubhamsaboo/awesome-llm-apps
 aliases:
   - Shubhamsaboo/awesome-llm-apps
@@ -23,7 +23,7 @@ aliases:
 
 # Shubhamsaboo/awesome-llm-apps
 
-> 100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.
+> 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
 #github-project #lang-python #grade-c #ai
 
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 125,491 |
-| **Weekly** | +5,857 |
-| **Forks** | 18,514 |
-| **Issues** | 11 |
+| **Stars** | 126,047 |
+| **Weekly** | +5,385 |
+| **Forks** | 18,594 |
+| **Issues** | 9 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-21T10:35:28*  
-*Updated: 2026-07-21T10:35:28*
+*First seen: 2026-07-22T10:35:48*  
+*Updated: 2026-07-22T10:35:48*

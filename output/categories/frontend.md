@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: frontend
-total_projects: 2
+total_projects: 1
 ---
 
 # frontend
 
-> 2 projects
+> 1 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -18,4 +18,3 @@ SORT confidence_score DESC
 ## Projects
 
 - [[Nutlope--hallmark|Nutlope/hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [[tt-a1i--archify|tt-a1i/archify]] — Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
