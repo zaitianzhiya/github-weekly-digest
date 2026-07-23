@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[vxcontrol--pentagi|vxcontrol/pentagi]] — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [[apache--ossie|apache/ossie]] — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data

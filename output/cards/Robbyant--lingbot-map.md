@@ -2,11 +2,11 @@
 repo_id: Robbyant/lingbot-map
 full_name: Robbyant/lingbot-map
 language: Python
-stars: 10262
-weekly_growth: 1451
-daily_growth: 207
-forks: 1027
-open_issues: 59
+stars: 14988
+weekly_growth: 4250
+daily_growth: 607
+forks: 1551
+open_issues: 68
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-07-08T10:32:34.546701
-last_updated: 2026-07-08T10:32:34.546703
+first_seen: 2026-07-23T10:36:30.749950
+last_updated: 2026-07-23T10:36:30.749951
 html_url: https://github.com/Robbyant/lingbot-map
 aliases:
   - Robbyant/lingbot-map
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 10,262 |
-| **Weekly** | +1,451 |
-| **Forks** | 1,027 |
-| **Issues** | 59 |
+| **Stars** | 14,988 |
+| **Weekly** | +4,250 |
+| **Forks** | 1,551 |
+| **Issues** | 68 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-08T10:32:34*  
-*Updated: 2026-07-08T10:32:34*
+*First seen: 2026-07-23T10:36:30*  
+*Updated: 2026-07-23T10:36:30*

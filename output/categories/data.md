@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Graphify-Labs--graphify|Graphify-Labs/graphify]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+- [[apache--ossie|apache/ossie]] — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
