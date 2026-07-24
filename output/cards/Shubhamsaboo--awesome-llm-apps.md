@@ -2,11 +2,11 @@
 repo_id: Shubhamsaboo/awesome-llm-apps
 full_name: Shubhamsaboo/awesome-llm-apps
 language: Python
-stars: 126649
-weekly_growth: 4690
-daily_growth: 670
-forks: 18684
-open_issues: 13
+stars: 127157
+weekly_growth: 4390
+daily_growth: 627
+forks: 18741
+open_issues: 18
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-23T10:36:28.025560
-last_updated: 2026-07-23T10:36:28.025562
+first_seen: 2026-07-24T10:30:44.865863
+last_updated: 2026-07-24T10:30:44.865864
 html_url: https://github.com/Shubhamsaboo/awesome-llm-apps
 aliases:
   - Shubhamsaboo/awesome-llm-apps
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 126,649 |
-| **Weekly** | +4,690 |
-| **Forks** | 18,684 |
-| **Issues** | 13 |
+| **Stars** | 127,157 |
+| **Weekly** | +4,390 |
+| **Forks** | 18,741 |
+| **Issues** | 18 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-23T10:36:28*  
-*Updated: 2026-07-23T10:36:28*
+*First seen: 2026-07-24T10:30:44*  
+*Updated: 2026-07-24T10:30:44*

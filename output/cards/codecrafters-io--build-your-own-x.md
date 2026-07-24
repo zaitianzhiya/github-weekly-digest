@@ -2,19 +2,19 @@
 repo_id: codecrafters-io/build-your-own-x
 full_name: codecrafters-io/build-your-own-x
 language: Markdown
-stars: 529670
-weekly_growth: 4863
-daily_growth: 694
-forks: 50100
-open_issues: 614
+stars: 531076
+weekly_growth: 4964
+daily_growth: 709
+forks: 50227
+open_issues: 617
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-21T10:35:38.284624
-last_updated: 2026-07-21T10:35:38.284627
+first_seen: 2026-07-24T10:30:45.260543
+last_updated: 2026-07-24T10:30:45.260544
 html_url: https://github.com/codecrafters-io/build-your-own-x
 aliases:
   - codecrafters-io/build-your-own-x
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Markdown |
-| **Stars** | 529,670 |
-| **Weekly** | +4,863 |
-| **Forks** | 50,100 |
-| **Issues** | 614 |
+| **Stars** | 531,076 |
+| **Weekly** | +4,964 |
+| **Forks** | 50,227 |
+| **Issues** | 617 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-21T10:35:38*  
-*Updated: 2026-07-21T10:35:38*
+*First seen: 2026-07-24T10:30:45*  
+*Updated: 2026-07-24T10:30:45*
