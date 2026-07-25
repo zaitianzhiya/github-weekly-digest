@@ -3,8 +3,8 @@ repo_id: sponsors/diegosouzapw
 full_name: sponsors/diegosouzapw
 language: TypeScript
 stars: 0
-weekly_growth: 4149
-daily_growth: 592
+weekly_growth: 9965
+daily_growth: 1423
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-16T10:23:01.655038
-last_updated: 2026-07-16T10:23:01.655040
+first_seen: 2026-07-25T10:03:32.904173
+last_updated: 2026-07-25T10:03:32.904174
 html_url: https://github.com/sponsors/diegosouzapw
 aliases:
   - sponsors/diegosouzapw
@@ -24,7 +24,7 @@ aliases:
 
 # sponsors/diegosouzapw
 
-> Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+> Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 
 #github-project #lang-typescript #grade-c #ai #devtools
 
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +4,149 |
+| **Weekly** | +9,965 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-16T10:23:01*  
-*Updated: 2026-07-16T10:23:01*
+*First seen: 2026-07-25T10:03:32*  
+*Updated: 2026-07-25T10:03:32*

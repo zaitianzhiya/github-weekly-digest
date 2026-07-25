@@ -2,10 +2,10 @@
 repo_id: apache/ossie
 full_name: apache/ossie
 language: Python
-stars: 1580
-weekly_growth: 764
-daily_growth: 109
-forks: 182
+stars: 1624
+weekly_growth: 471
+daily_growth: 67
+forks: 185
 open_issues: 66
 confidence_score: 45
 confidence_grade: C
@@ -17,8 +17,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-07-24T10:30:44.526889
-last_updated: 2026-07-24T10:30:44.526891
+first_seen: 2026-07-25T10:03:39.693088
+last_updated: 2026-07-25T10:03:39.693089
 html_url: https://github.com/apache/ossie
 aliases:
   - apache/ossie
@@ -35,9 +35,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 1,580 |
-| **Weekly** | +764 |
-| **Forks** | 182 |
+| **Stars** | 1,624 |
+| **Weekly** | +471 |
+| **Forks** | 185 |
 | **Issues** | 66 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-24T10:30:44*  
-*Updated: 2026-07-24T10:30:44*
+*First seen: 2026-07-25T10:03:39*  
+*Updated: 2026-07-25T10:03:39*

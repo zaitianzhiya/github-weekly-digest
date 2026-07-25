@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: devtools
-total_projects: 9
+total_projects: 11
 ---
 
 # devtools
 
-> 9 projects
+> 11 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -23,6 +23,8 @@ SORT confidence_score DESC
 - [[PrismML-Eng--Bonsai-demo|PrismML-Eng/Bonsai-demo]] — Bonsai Demo
 - [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [[apache--ossie|apache/ossie]] — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [[HKUDS--DeepTutor|HKUDS/DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [[sponsors--tirth8205|sponsors/tirth8205]] — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
 - [[sponsors--diegosouzapw|sponsors/diegosouzapw]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
+- [[sponsors--mattpocock|sponsors/mattpocock]] — Skills for Real Engineers. Straight from my .agents directory.
