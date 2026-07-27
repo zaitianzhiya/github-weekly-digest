@@ -2,21 +2,22 @@
 repo_id: stablyai/orca
 full_name: stablyai/orca
 language: TypeScript
-stars: 30340
+stars: 30431
 weekly_growth: 7392
 daily_growth: 1056
-forks: 2140
-open_issues: 2381
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 2143
+open_issues: 2390
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
   - devtools
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-07-27T11:45:37.182622
-last_updated: 2026-07-27T11:45:37.182624
+first_seen: 2026-07-27T13:26:39.541630
+last_updated: 2026-07-27T13:26:39.541632
 html_url: https://github.com/stablyai/orca
 aliases:
   - stablyai/orca
@@ -26,19 +27,19 @@ aliases:
 
 > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 
-#github-project #lang-typescript #grade-c #ai #devtools
+#github-project #lang-typescript #grade-b #ai #devtools
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 30,340 |
+| **Stars** | 30,431 |
 | **Weekly** | +7,392 |
-| **Forks** | 2,140 |
-| **Issues** | 2381 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 2,143 |
+| **Issues** | 2390 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -48,6 +49,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -56,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-27T11:45:37*  
-*Updated: 2026-07-27T11:45:37*
+*First seen: 2026-07-27T13:26:39*  
+*Updated: 2026-07-27T13:26:39*

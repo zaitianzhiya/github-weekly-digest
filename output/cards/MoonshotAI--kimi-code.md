@@ -2,11 +2,11 @@
 repo_id: MoonshotAI/kimi-code
 full_name: MoonshotAI/kimi-code
 language: TypeScript
-stars: 5287
+stars: 5297
 weekly_growth: 1380
 daily_growth: 197
-forks: 777
-open_issues: 836
+forks: 779
+open_issues: 839
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-27T11:45:33.755099
-last_updated: 2026-07-27T11:45:33.755101
+first_seen: 2026-07-27T13:26:35.814911
+last_updated: 2026-07-27T13:26:35.814912
 html_url: https://github.com/MoonshotAI/kimi-code
 aliases:
   - MoonshotAI/kimi-code
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5,287 |
+| **Stars** | 5,297 |
 | **Weekly** | +1,380 |
-| **Forks** | 777 |
-| **Issues** | 836 |
+| **Forks** | 779 |
+| **Issues** | 839 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-27T11:45:33*  
-*Updated: 2026-07-27T11:45:33*
+*First seen: 2026-07-27T13:26:35*  
+*Updated: 2026-07-27T13:26:35*
