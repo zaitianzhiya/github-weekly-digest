@@ -17,16 +17,16 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Nutlope--hallmark|Nutlope/hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [[ayghri--i-have-adhd|ayghri/i-have-adhd]] — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [[MoonshotAI--kimi-code|MoonshotAI/kimi-code]] — Kimi Code CLI — The Starting Point for Next-Gen Agents
+- [[oblien--openship|oblien/openship]] — Self-hosted deployment platform
 - [[agegr--pi-web|agegr/pi-web]] — Web UI for the pi coding agent
+- [[Nutlope--hallmark|Nutlope/hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [[bojieli--ai-agent-book|bojieli/ai-agent-book]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [[1jehuang--jcode|1jehuang/jcode]] — The most intelligent agent harness for code
-- [[MoonshotAI--kimi-cli|MoonshotAI/kimi-cli]] — Kimi Code CLI is your next CLI agent.
+- [[1jehuang--jcode|1jehuang/jcode]] — The most RAM effiecent harness
+- [[earthtojake--text-to-cad|earthtojake/text-to-cad]] — A collection of agent skills for CAD, robotics and hardware design
 - [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [[jamiepine--voicebox|jamiepine/voicebox]] — The open-source AI voice studio. Clone, dictate, create.
-- [[ComposioHQ--awesome-claude-skills|ComposioHQ/awesome-claude-skills]] — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [[stablyai--orca|stablyai/orca]] — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [[HKUDS--DeepTutor|HKUDS/DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [[sponsors--tirth8205|sponsors/tirth8205]] — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.

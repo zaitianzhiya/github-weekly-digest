@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[apache--ossie|apache/ossie]] — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+- [[oblien--openship|oblien/openship]] — Self-hosted deployment platform
