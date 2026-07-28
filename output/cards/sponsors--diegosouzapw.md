@@ -3,8 +3,8 @@ repo_id: sponsors/diegosouzapw
 full_name: sponsors/diegosouzapw
 language: TypeScript
 stars: 0
-weekly_growth: 9965
-daily_growth: 1423
+weekly_growth: 11057
+daily_growth: 1579
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-25T10:03:32.904173
-last_updated: 2026-07-25T10:03:32.904174
+first_seen: 2026-07-28T10:47:18.514214
+last_updated: 2026-07-28T10:47:18.514216
 html_url: https://github.com/sponsors/diegosouzapw
 aliases:
   - sponsors/diegosouzapw
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +9,965 |
+| **Weekly** | +11,057 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-25T10:03:32*  
-*Updated: 2026-07-25T10:03:32*
+*First seen: 2026-07-28T10:47:18*  
+*Updated: 2026-07-28T10:47:18*

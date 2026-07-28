@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[apache--ossie|apache/ossie]] — Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
+- [[sponsors--CoreBunch|sponsors/CoreBunch]] — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.

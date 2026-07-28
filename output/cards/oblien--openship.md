@@ -2,22 +2,21 @@
 repo_id: oblien/openship
 full_name: oblien/openship
 language: TypeScript
-stars: 8836
-weekly_growth: 5844
-daily_growth: 834
-forks: 717
-open_issues: 69
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+stars: 9120
+weekly_growth: 4911
+daily_growth: 701
+forks: 737
+open_issues: 73
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
 categories:
   - AI
   - backend
 sources:
-  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-07-27T13:26:30.190118
-last_updated: 2026-07-27T13:26:30.190119
+first_seen: 2026-07-28T10:47:19.132873
+last_updated: 2026-07-28T10:47:19.132875
 html_url: https://github.com/oblien/openship
 aliases:
   - oblien/openship
@@ -27,19 +26,19 @@ aliases:
 
 > Self-hosted deployment platform
 
-#github-project #lang-typescript #grade-b #ai #backend
+#github-project #lang-typescript #grade-c #ai #backend
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 8,836 |
-| **Weekly** | +5,844 |
-| **Forks** | 717 |
-| **Issues** | 69 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Stars** | 9,120 |
+| **Weekly** | +4,911 |
+| **Forks** | 737 |
+| **Issues** | 73 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -49,7 +48,6 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
-- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -58,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-27T13:26:30*  
-*Updated: 2026-07-27T13:26:30*
+*First seen: 2026-07-28T10:47:19*  
+*Updated: 2026-07-28T10:47:19*

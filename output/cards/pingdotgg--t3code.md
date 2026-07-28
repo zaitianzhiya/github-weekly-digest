@@ -2,19 +2,19 @@
 repo_id: pingdotgg/t3code
 full_name: pingdotgg/t3code
 language: TypeScript
-stars: 15220
-weekly_growth: 793
-daily_growth: 113
-forks: 3328
-open_issues: 858
+stars: 15362
+weekly_growth: 1050
+daily_growth: 150
+forks: 3357
+open_issues: 883
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-27T13:26:37.532315
-last_updated: 2026-07-27T13:26:37.532316
+first_seen: 2026-07-28T10:47:25.913882
+last_updated: 2026-07-28T10:47:25.913884
 html_url: https://github.com/pingdotgg/t3code
 aliases:
   - pingdotgg/t3code
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 15,220 |
-| **Weekly** | +793 |
-| **Forks** | 3,328 |
-| **Issues** | 858 |
+| **Stars** | 15,362 |
+| **Weekly** | +1,050 |
+| **Forks** | 3,357 |
+| **Issues** | 883 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-27T13:26:37*  
-*Updated: 2026-07-27T13:26:37*
+*First seen: 2026-07-28T10:47:25*  
+*Updated: 2026-07-28T10:47:25*
