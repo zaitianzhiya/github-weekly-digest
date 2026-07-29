@@ -2,11 +2,11 @@
 repo_id: Pumpkin-MC/Pumpkin
 full_name: Pumpkin-MC/Pumpkin
 language: Rust
-stars: 10241
-weekly_growth: 2192
-daily_growth: 313
-forks: 688
-open_issues: 308
+stars: 10336
+weekly_growth: 2262
+daily_growth: 323
+forks: 691
+open_issues: 312
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - infra
 sources:
   - GitHub Trending
-first_seen: 2026-07-28T10:47:22.828493
-last_updated: 2026-07-28T10:47:22.828495
+first_seen: 2026-07-29T10:59:06.911457
+last_updated: 2026-07-29T10:59:06.911458
 html_url: https://github.com/Pumpkin-MC/Pumpkin
 aliases:
   - Pumpkin-MC/Pumpkin
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 10,241 |
-| **Weekly** | +2,192 |
-| **Forks** | 688 |
-| **Issues** | 308 |
+| **Stars** | 10,336 |
+| **Weekly** | +2,262 |
+| **Forks** | 691 |
+| **Issues** | 312 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-28T10:47:22*  
-*Updated: 2026-07-28T10:47:22*
+*First seen: 2026-07-29T10:59:06*  
+*Updated: 2026-07-29T10:59:06*

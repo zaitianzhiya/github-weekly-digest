@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: design
-total_projects: 2
+total_projects: 1
 ---
 
 # design
 
-> 2 projects
+> 1 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,5 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Nutlope--hallmark|Nutlope/hallmark]] — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [[earthtojake--text-to-cad|earthtojake/text-to-cad]] — A collection of agent skills for CAD, robotics and hardware design

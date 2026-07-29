@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: AI
-total_projects: 13
+total_projects: 14
 ---
 
 # AI
 
-> 13 projects
+> 14 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -19,14 +19,15 @@ SORT confidence_score DESC
 
 - [[ayghri--i-have-adhd|ayghri/i-have-adhd]] — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [[UditAkhourii--adhd|UditAkhourii/adhd]] — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
-- [[oblien--openship|oblien/openship]] — Self-hosted deployment platform
 - [[agegr--pi-web|agegr/pi-web]] — Web UI for the pi coding agent
+- [[oblien--openship|oblien/openship]] — Self-hosted deployment platform
+- [[alibaba--open-code-review|alibaba/open-code-review]] — Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
 - [[bojieli--ai-agent-book|bojieli/ai-agent-book]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [[1jehuang--jcode|1jehuang/jcode]] — The most RAM effiecent harness
-- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [[citrolabs--ego-lite|citrolabs/ego-lite]] — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- [[earthtojake--text-to-cad|earthtojake/text-to-cad]] — A collection of agent skills for CAD, robotics and hardware design
 - [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [[HKUDS--DeepTutor|HKUDS/DeepTutor]] — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+- [[ruvnet--RuView|ruvnet/RuView]] — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [[sponsors--diegosouzapw|sponsors/diegosouzapw]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 - [[sponsors--mattpocock|sponsors/mattpocock]] — Skills for Real Engineers. Straight from my .agents directory.
 - [[sponsors--CoreBunch|sponsors/CoreBunch]] — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
-- [[sponsors--tirth8205|sponsors/tirth8205]] — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
