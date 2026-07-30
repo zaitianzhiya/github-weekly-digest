@@ -2,11 +2,11 @@
 repo_id: agegr/pi-web
 full_name: agegr/pi-web
 language: TypeScript
-stars: 3188
-weekly_growth: 1474
-daily_growth: 210
-forks: 420
-open_issues: 27
+stars: 3290
+weekly_growth: 1260
+daily_growth: 180
+forks: 437
+open_issues: 25
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - frontend
 sources:
   - GitHub Trending
-first_seen: 2026-07-29T10:59:07.318220
-last_updated: 2026-07-29T10:59:07.318221
+first_seen: 2026-07-30T10:35:32.944965
+last_updated: 2026-07-30T10:35:32.944967
 html_url: https://github.com/agegr/pi-web
 aliases:
   - agegr/pi-web
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3,188 |
-| **Weekly** | +1,474 |
-| **Forks** | 420 |
-| **Issues** | 27 |
+| **Stars** | 3,290 |
+| **Weekly** | +1,260 |
+| **Forks** | 437 |
+| **Issues** | 25 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-29T10:59:07*  
-*Updated: 2026-07-29T10:59:07*
+*First seen: 2026-07-30T10:35:32*  
+*Updated: 2026-07-30T10:35:32*

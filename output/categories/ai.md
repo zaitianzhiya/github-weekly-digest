@@ -23,7 +23,7 @@ SORT confidence_score DESC
 - [[oblien--openship|oblien/openship]] — Self-hosted deployment platform
 - [[alibaba--open-code-review|alibaba/open-code-review]] — Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
 - [[bojieli--ai-agent-book|bojieli/ai-agent-book]] — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [[1jehuang--jcode|1jehuang/jcode]] — The most RAM effiecent harness
+- [[1jehuang--jcode|1jehuang/jcode]] — The most RAM efficient harness
 - [[citrolabs--ego-lite|citrolabs/ego-lite]] — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 - [[earthtojake--text-to-cad|earthtojake/text-to-cad]] — A collection of agent skills for CAD, robotics and hardware design
 - [[earendil-works--pi|earendil-works/pi]] — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI

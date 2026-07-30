@@ -2,10 +2,10 @@
 repo_id: UditAkhourii/adhd
 full_name: UditAkhourii/adhd
 language: TypeScript
-stars: 2652
-weekly_growth: 992
-daily_growth: 141
-forks: 209
+stars: 2789
+weekly_growth: 996
+daily_growth: 142
+forks: 215
 open_issues: 14
 confidence_score: 45
 confidence_grade: C
@@ -16,8 +16,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-07-29T10:59:05.366643
-last_updated: 2026-07-29T10:59:05.366645
+first_seen: 2026-07-30T10:35:30.992455
+last_updated: 2026-07-30T10:35:30.992457
 html_url: https://github.com/UditAkhourii/adhd
 aliases:
   - UditAkhourii/adhd
@@ -34,9 +34,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 2,652 |
-| **Weekly** | +992 |
-| **Forks** | 209 |
+| **Stars** | 2,789 |
+| **Weekly** | +996 |
+| **Forks** | 215 |
 | **Issues** | 14 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-29T10:59:05*  
-*Updated: 2026-07-29T10:59:05*
+*First seen: 2026-07-30T10:35:30*  
+*Updated: 2026-07-30T10:35:30*

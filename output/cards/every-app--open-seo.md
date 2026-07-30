@@ -2,10 +2,10 @@
 repo_id: every-app/open-seo
 full_name: every-app/open-seo
 language: TypeScript
-stars: 9157
-weekly_growth: 2596
-daily_growth: 370
-forks: 1038
+stars: 9490
+weekly_growth: 2332
+daily_growth: 333
+forks: 1080
 open_issues: 65
 confidence_score: 45
 confidence_grade: C
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-07-29T10:59:09.495364
-last_updated: 2026-07-29T10:59:09.495366
+first_seen: 2026-07-30T10:35:35.153391
+last_updated: 2026-07-30T10:35:35.153392
 html_url: https://github.com/every-app/open-seo
 aliases:
   - every-app/open-seo
@@ -31,9 +31,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 9,157 |
-| **Weekly** | +2,596 |
-| **Forks** | 1,038 |
+| **Stars** | 9,490 |
+| **Weekly** | +2,332 |
+| **Forks** | 1,080 |
 | **Issues** | 65 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-29T10:59:09*  
-*Updated: 2026-07-29T10:59:09*
+*First seen: 2026-07-30T10:35:35*  
+*Updated: 2026-07-30T10:35:35*

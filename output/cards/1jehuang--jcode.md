@@ -2,11 +2,11 @@
 repo_id: 1jehuang/jcode
 full_name: 1jehuang/jcode
 language: Rust
-stars: 13068
-weekly_growth: 2495
-daily_growth: 356
-forks: 1447
-open_issues: 158
+stars: 13814
+weekly_growth: 2594
+daily_growth: 370
+forks: 1521
+open_issues: 169
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-29T10:59:06.449940
-last_updated: 2026-07-29T10:59:06.449942
+first_seen: 2026-07-30T10:35:32.078581
+last_updated: 2026-07-30T10:35:32.078583
 html_url: https://github.com/1jehuang/jcode
 aliases:
   - 1jehuang/jcode
@@ -24,7 +24,7 @@ aliases:
 
 # 1jehuang/jcode
 
-> The most RAM effiecent harness
+> The most RAM efficient harness
 
 #github-project #lang-rust #grade-c #ai #devtools
 
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 13,068 |
-| **Weekly** | +2,495 |
-| **Forks** | 1,447 |
-| **Issues** | 158 |
+| **Stars** | 13,814 |
+| **Weekly** | +2,594 |
+| **Forks** | 1,521 |
+| **Issues** | 169 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-29T10:59:06*  
-*Updated: 2026-07-29T10:59:06*
+*First seen: 2026-07-30T10:35:32*  
+*Updated: 2026-07-30T10:35:32*
