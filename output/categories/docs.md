@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Graphify-Labs--graphify|Graphify-Labs/graphify]] — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+- [[sponsors--opengeos|sponsors/opengeos]] — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.

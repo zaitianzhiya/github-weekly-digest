@@ -2,11 +2,11 @@
 repo_id: alibaba/open-code-review
 full_name: alibaba/open-code-review
 language: Go
-stars: 16348
-weekly_growth: 4875
-daily_growth: 696
-forks: 1102
-open_issues: 60
+stars: 16836
+weekly_growth: 5322
+daily_growth: 760
+forks: 1144
+open_issues: 67
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-07-30T10:35:31.384173
-last_updated: 2026-07-30T10:35:31.384174
+first_seen: 2026-07-31T11:02:13.428226
+last_updated: 2026-07-31T11:02:13.428227
 html_url: https://github.com/alibaba/open-code-review
 aliases:
   - alibaba/open-code-review
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Go |
-| **Stars** | 16,348 |
-| **Weekly** | +4,875 |
-| **Forks** | 1,102 |
-| **Issues** | 60 |
+| **Stars** | 16,836 |
+| **Weekly** | +5,322 |
+| **Forks** | 1,144 |
+| **Issues** | 67 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-30T10:35:31*  
-*Updated: 2026-07-30T10:35:31*
+*First seen: 2026-07-31T11:02:13*  
+*Updated: 2026-07-31T11:02:13*

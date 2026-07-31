@@ -2,11 +2,11 @@
 repo_id: 1jehuang/jcode
 full_name: 1jehuang/jcode
 language: Rust
-stars: 13814
-weekly_growth: 2594
-daily_growth: 370
-forks: 1521
-open_issues: 169
+stars: 14360
+weekly_growth: 3107
+daily_growth: 443
+forks: 1587
+open_issues: 162
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-30T10:35:32.078581
-last_updated: 2026-07-30T10:35:32.078583
+first_seen: 2026-07-31T11:02:16.088161
+last_updated: 2026-07-31T11:02:16.088163
 html_url: https://github.com/1jehuang/jcode
 aliases:
   - 1jehuang/jcode
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 13,814 |
-| **Weekly** | +2,594 |
-| **Forks** | 1,521 |
-| **Issues** | 169 |
+| **Stars** | 14,360 |
+| **Weekly** | +3,107 |
+| **Forks** | 1,587 |
+| **Issues** | 162 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-30T10:35:32*  
-*Updated: 2026-07-30T10:35:32*
+*First seen: 2026-07-31T11:02:16*  
+*Updated: 2026-07-31T11:02:16*
