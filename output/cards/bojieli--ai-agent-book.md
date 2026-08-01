@@ -2,11 +2,11 @@
 repo_id: bojieli/ai-agent-book
 full_name: bojieli/ai-agent-book
 language: Python
-stars: 26991
-weekly_growth: 8998
-daily_growth: 1285
-forks: 2840
-open_issues: 10
+stars: 28830
+weekly_growth: 9454
+daily_growth: 1350
+forks: 3046
+open_issues: 6
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-07-30T10:35:29.881927
-last_updated: 2026-07-30T10:35:29.881929
+first_seen: 2026-08-01T10:13:03.193833
+last_updated: 2026-08-01T10:13:03.193835
 html_url: https://github.com/bojieli/ai-agent-book
 aliases:
   - bojieli/ai-agent-book
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 26,991 |
-| **Weekly** | +8,998 |
-| **Forks** | 2,840 |
-| **Issues** | 10 |
+| **Stars** | 28,830 |
+| **Weekly** | +9,454 |
+| **Forks** | 3,046 |
+| **Issues** | 6 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-30T10:35:29*  
-*Updated: 2026-07-30T10:35:29*
+*First seen: 2026-08-01T10:13:03*  
+*Updated: 2026-08-01T10:13:03*

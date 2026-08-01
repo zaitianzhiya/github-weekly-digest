@@ -3,8 +3,8 @@ repo_id: sponsors/mattpocock
 full_name: sponsors/mattpocock
 language: Shell
 stars: 0
-weekly_growth: 12147
-daily_growth: 1735
+weekly_growth: 11622
+daily_growth: 1660
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-07-31T11:02:16.564265
-last_updated: 2026-07-31T11:02:16.564266
+first_seen: 2026-08-01T10:13:04.325156
+last_updated: 2026-08-01T10:13:04.325157
 html_url: https://github.com/sponsors/mattpocock
 aliases:
   - sponsors/mattpocock
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | Shell |
 | **Stars** | 0 |
-| **Weekly** | +12,147 |
+| **Weekly** | +11,622 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-31T11:02:16*  
-*Updated: 2026-07-31T11:02:16*
+*First seen: 2026-08-01T10:13:04*  
+*Updated: 2026-08-01T10:13:04*

@@ -2,21 +2,20 @@
 repo_id: earthtojake/text-to-cad
 full_name: earthtojake/text-to-cad
 language: JavaScript
-stars: 12137
-weekly_growth: 2225
-daily_growth: 317
-forks: 1295
-open_issues: 16
+stars: 12306
+weekly_growth: 1901
+daily_growth: 271
+forks: 1309
+open_issues: 15
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
   - AI
-  - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-31T11:02:21.647455
-last_updated: 2026-07-31T11:02:21.647457
+first_seen: 2026-08-01T10:13:06.549992
+last_updated: 2026-08-01T10:13:06.549993
 html_url: https://github.com/earthtojake/text-to-cad
 aliases:
   - earthtojake/text-to-cad
@@ -24,19 +23,19 @@ aliases:
 
 # earthtojake/text-to-cad
 
-> A collection of agent skills for CAD, robotics and hardware design
+> A library of agent skills for CAD, CAE and CAM
 
-#github-project #lang-javascript #grade-c #ai #design
+#github-project #lang-javascript #grade-c #ai
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 12,137 |
-| **Weekly** | +2,225 |
-| **Forks** | 1,295 |
-| **Issues** | 16 |
+| **Stars** | 12,306 |
+| **Weekly** | +1,901 |
+| **Forks** | 1,309 |
+| **Issues** | 15 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -52,9 +51,8 @@ aliases:
 ## Categories
 
 - [[AI]]
-- [[design]]
 
 ---
 
-*First seen: 2026-07-31T11:02:21*  
-*Updated: 2026-07-31T11:02:21*
+*First seen: 2026-08-01T10:13:06*  
+*Updated: 2026-08-01T10:13:06*

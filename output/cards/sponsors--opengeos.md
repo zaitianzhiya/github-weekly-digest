@@ -3,8 +3,8 @@ repo_id: sponsors/opengeos
 full_name: sponsors/opengeos
 language: TypeScript
 stars: 0
-weekly_growth: 2601
-daily_growth: 371
+weekly_growth: 2765
+daily_growth: 395
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -16,8 +16,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-07-31T11:02:18.508816
-last_updated: 2026-07-31T11:02:18.508817
+first_seen: 2026-08-01T10:13:05.220693
+last_updated: 2026-08-01T10:13:05.220695
 html_url: https://github.com/sponsors/opengeos
 aliases:
   - sponsors/opengeos
@@ -35,7 +35,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +2,601 |
+| **Weekly** | +2,765 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-07-31T11:02:18*  
-*Updated: 2026-07-31T11:02:18*
+*First seen: 2026-08-01T10:13:05*  
+*Updated: 2026-08-01T10:13:05*
