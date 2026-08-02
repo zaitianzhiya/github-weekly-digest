@@ -2,10 +2,10 @@
 repo_id: pascalorg/editor
 full_name: pascalorg/editor
 language: TypeScript
-stars: 20505
-weekly_growth: 2863
-daily_growth: 409
-forks: 2645
+stars: 20668
+weekly_growth: 3028
+daily_growth: 432
+forks: 2658
 open_issues: 37
 confidence_score: 45
 confidence_grade: C
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-01T10:13:03.649896
-last_updated: 2026-08-01T10:13:03.649897
+first_seen: 2026-08-02T10:12:08.459671
+last_updated: 2026-08-02T10:12:08.459672
 html_url: https://github.com/pascalorg/editor
 aliases:
   - pascalorg/editor
@@ -31,9 +31,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 20,505 |
-| **Weekly** | +2,863 |
-| **Forks** | 2,645 |
+| **Stars** | 20,668 |
+| **Weekly** | +3,028 |
+| **Forks** | 2,658 |
 | **Issues** | 37 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-01T10:13:03*  
-*Updated: 2026-08-01T10:13:03*
+*First seen: 2026-08-02T10:12:08*  
+*Updated: 2026-08-02T10:12:08*
