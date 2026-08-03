@@ -16,8 +16,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-03T11:50:04.158844
-last_updated: 2026-08-03T11:50:04.158847
+first_seen: 2026-08-03T13:26:14.795296
+last_updated: 2026-08-03T13:26:14.795297
 html_url: https://github.com/sponsors/opengeos
 aliases:
   - sponsors/opengeos
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-03T11:50:04*  
-*Updated: 2026-08-03T11:50:04*
+*First seen: 2026-08-03T13:26:14*  
+*Updated: 2026-08-03T13:26:14*

@@ -2,10 +2,10 @@
 repo_id: moeru-ai/airi
 full_name: moeru-ai/airi
 language: TypeScript
-stars: 46658
+stars: 46666
 weekly_growth: 3431
 daily_growth: 490
-forks: 4601
+forks: 4602
 open_issues: 204
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - infra
 sources:
   - GitHub Trending
-first_seen: 2026-08-03T11:50:03.786223
-last_updated: 2026-08-03T11:50:03.786226
+first_seen: 2026-08-03T13:26:14.431470
+last_updated: 2026-08-03T13:26:14.431472
 html_url: https://github.com/moeru-ai/airi
 aliases:
   - moeru-ai/airi
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 46,658 |
+| **Stars** | 46,666 |
 | **Weekly** | +3,431 |
-| **Forks** | 4,601 |
+| **Forks** | 4,602 |
 | **Issues** | 204 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-03T11:50:03*  
-*Updated: 2026-08-03T11:50:03*
+*First seen: 2026-08-03T13:26:14*  
+*Updated: 2026-08-03T13:26:14*

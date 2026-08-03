@@ -2,20 +2,21 @@
 repo_id: block/buzz
 full_name: block/buzz
 language: Rust
-stars: 21491
+stars: 21534
 weekly_growth: 8217
 daily_growth: 1173
-forks: 2313
-open_issues: 1739
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 2320
+open_issues: 1748
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - backend
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-03T11:50:00.269313
-last_updated: 2026-08-03T11:50:00.269316
+first_seen: 2026-08-03T13:26:11.245456
+last_updated: 2026-08-03T13:26:11.245457
 html_url: https://github.com/block/buzz
 aliases:
   - block/buzz
@@ -25,19 +26,19 @@ aliases:
 
 > A hive mind communication platform
 
-#github-project #lang-rust #grade-c #backend
+#github-project #lang-rust #grade-b #backend
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 21,491 |
+| **Stars** | 21,534 |
 | **Weekly** | +8,217 |
-| **Forks** | 2,313 |
-| **Issues** | 1739 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 2,320 |
+| **Issues** | 1748 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-03T11:50:00*  
-*Updated: 2026-08-03T11:50:00*
+*First seen: 2026-08-03T13:26:11*  
+*Updated: 2026-08-03T13:26:11*

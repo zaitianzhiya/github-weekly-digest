@@ -2,7 +2,7 @@
 repo_id: andrewyng/aisuite
 full_name: andrewyng/aisuite
 language: Python
-stars: 15937
+stars: 15941
 weekly_growth: 576
 daily_growth: 82
 forks: 1684
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-03T11:50:06.060406
-last_updated: 2026-08-03T11:50:06.060408
+first_seen: 2026-08-03T13:26:16.608900
+last_updated: 2026-08-03T13:26:16.608901
 html_url: https://github.com/andrewyng/aisuite
 aliases:
   - andrewyng/aisuite
@@ -33,7 +33,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 15,937 |
+| **Stars** | 15,941 |
 | **Weekly** | +576 |
 | **Forks** | 1,684 |
 | **Issues** | 145 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-03T11:50:06*  
-*Updated: 2026-08-03T11:50:06*
+*First seen: 2026-08-03T13:26:16*  
+*Updated: 2026-08-03T13:26:16*
