@@ -17,8 +17,8 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[zhaoxuya520--reverse-skill|zhaoxuya520/reverse-skill]] — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 - [[ayghri--i-have-adhd|ayghri/i-have-adhd]] — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [[1jehuang--jcode|1jehuang/jcode]] — The most RAM efficient harness
+- [[andrewyng--aisuite|andrewyng/aisuite]] — Simple, unified interface to multiple Generative AI providers
 - [[sponsors--opengeos|sponsors/opengeos]] — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-- [[sponsors--diegosouzapw|sponsors/diegosouzapw]] — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
-- [[sponsors--CoreBunch|sponsors/CoreBunch]] — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.

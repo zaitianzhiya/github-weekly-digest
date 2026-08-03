@@ -2,11 +2,11 @@
 repo_id: earthtojake/text-to-cad
 full_name: earthtojake/text-to-cad
 language: JavaScript
-stars: 12441
-weekly_growth: 2009
-daily_growth: 287
-forks: 1319
-open_issues: 16
+stars: 12605
+weekly_growth: 2063
+daily_growth: 294
+forks: 1330
+open_issues: 15
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-02T10:12:14.614459
-last_updated: 2026-08-02T10:12:14.614460
+first_seen: 2026-08-03T11:50:09.366239
+last_updated: 2026-08-03T11:50:09.366242
 html_url: https://github.com/earthtojake/text-to-cad
 aliases:
   - earthtojake/text-to-cad
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 12,441 |
-| **Weekly** | +2,009 |
-| **Forks** | 1,319 |
-| **Issues** | 16 |
+| **Stars** | 12,605 |
+| **Weekly** | +2,063 |
+| **Forks** | 1,330 |
+| **Issues** | 15 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-02T10:12:14*  
-*Updated: 2026-08-02T10:12:14*
+*First seen: 2026-08-03T11:50:09*  
+*Updated: 2026-08-03T11:50:09*
