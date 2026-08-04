@@ -2,22 +2,21 @@
 repo_id: ayghri/i-have-adhd
 full_name: ayghri/i-have-adhd
 language: Python
-stars: 16052
-weekly_growth: 5225
-daily_growth: 746
-forks: 897
-open_issues: 19
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+stars: 16513
+weekly_growth: 5012
+daily_growth: 716
+forks: 929
+open_issues: 18
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
 categories:
   - AI
   - devtools
 sources:
-  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-03T13:26:13.336344
-last_updated: 2026-08-03T13:26:13.336345
+first_seen: 2026-08-04T10:59:44.427245
+last_updated: 2026-08-04T10:59:44.427247
 html_url: https://github.com/ayghri/i-have-adhd
 aliases:
   - ayghri/i-have-adhd
@@ -27,19 +26,19 @@ aliases:
 
 > A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
-#github-project #lang-python #grade-b #ai #devtools
+#github-project #lang-python #grade-c #ai #devtools
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 16,052 |
-| **Weekly** | +5,225 |
-| **Forks** | 897 |
-| **Issues** | 19 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Stars** | 16,513 |
+| **Weekly** | +5,012 |
+| **Forks** | 929 |
+| **Issues** | 18 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -49,7 +48,6 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
-- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -58,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-03T13:26:13*  
-*Updated: 2026-08-03T13:26:13*
+*First seen: 2026-08-04T10:59:44*  
+*Updated: 2026-08-04T10:59:44*
