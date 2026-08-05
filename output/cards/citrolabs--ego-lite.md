@@ -2,10 +2,10 @@
 repo_id: citrolabs/ego-lite
 full_name: citrolabs/ego-lite
 language: JavaScript
-stars: 8205
-weekly_growth: 2625
-daily_growth: 375
-forks: 399
+stars: 8506
+weekly_growth: 2633
+daily_growth: 376
+forks: 409
 open_issues: 64
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-04T10:59:48.780584
-last_updated: 2026-08-04T10:59:48.780586
+first_seen: 2026-08-05T10:55:56.476850
+last_updated: 2026-08-05T10:55:56.476852
 html_url: https://github.com/citrolabs/ego-lite
 aliases:
   - citrolabs/ego-lite
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 8,205 |
-| **Weekly** | +2,625 |
-| **Forks** | 399 |
+| **Stars** | 8,506 |
+| **Weekly** | +2,633 |
+| **Forks** | 409 |
 | **Issues** | 64 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-04T10:59:48*  
-*Updated: 2026-08-04T10:59:48*
+*First seen: 2026-08-05T10:55:56*  
+*Updated: 2026-08-05T10:55:56*

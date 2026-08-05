@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[alibaba--open-code-review|alibaba/open-code-review]] — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
+- [[DataExpert-io--data-engineer-handbook|DataExpert-io/data-engineer-handbook]] — This is a repo with links to everything you'd ever want to learn about data engineering
