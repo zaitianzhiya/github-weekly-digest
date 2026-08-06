@@ -2,11 +2,11 @@
 repo_id: esengine/DeepSeek-Reasonix
 full_name: esengine/DeepSeek-Reasonix
 language: Go
-stars: 31167
-weekly_growth: 2857
-daily_growth: 408
-forks: 2003
-open_issues: 788
+stars: 32041
+weekly_growth: 3408
+daily_growth: 486
+forks: 2070
+open_issues: 875
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - frontend
 sources:
   - GitHub Trending
-first_seen: 2026-08-05T10:55:53.305041
-last_updated: 2026-08-05T10:55:53.305043
+first_seen: 2026-08-06T10:57:25.554781
+last_updated: 2026-08-06T10:57:25.554782
 html_url: https://github.com/esengine/DeepSeek-Reasonix
 aliases:
   - esengine/DeepSeek-Reasonix
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Go |
-| **Stars** | 31,167 |
-| **Weekly** | +2,857 |
-| **Forks** | 2,003 |
-| **Issues** | 788 |
+| **Stars** | 32,041 |
+| **Weekly** | +3,408 |
+| **Forks** | 2,070 |
+| **Issues** | 875 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-05T10:55:53*  
-*Updated: 2026-08-05T10:55:53*
+*First seen: 2026-08-06T10:57:25*  
+*Updated: 2026-08-06T10:57:25*

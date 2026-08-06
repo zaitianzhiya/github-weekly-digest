@@ -2,11 +2,11 @@
 repo_id: zhaoxuya520/reverse-skill
 full_name: zhaoxuya520/reverse-skill
 language: PowerShell
-stars: 18732
-weekly_growth: 8386
-daily_growth: 1198
-forks: 2559
-open_issues: 12
+stars: 19495
+weekly_growth: 9904
+daily_growth: 1414
+forks: 2670
+open_issues: 14
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-05T10:55:47.457518
-last_updated: 2026-08-05T10:55:47.457519
+first_seen: 2026-08-06T10:57:22.337902
+last_updated: 2026-08-06T10:57:22.337903
 html_url: https://github.com/zhaoxuya520/reverse-skill
 aliases:
   - zhaoxuya520/reverse-skill
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | PowerShell |
-| **Stars** | 18,732 |
-| **Weekly** | +8,386 |
-| **Forks** | 2,559 |
-| **Issues** | 12 |
+| **Stars** | 19,495 |
+| **Weekly** | +9,904 |
+| **Forks** | 2,670 |
+| **Issues** | 14 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-05T10:55:47*  
-*Updated: 2026-08-05T10:55:47*
+*First seen: 2026-08-06T10:57:22*  
+*Updated: 2026-08-06T10:57:22*

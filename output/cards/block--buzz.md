@@ -2,11 +2,11 @@
 repo_id: block/buzz
 full_name: block/buzz
 language: Rust
-stars: 22767
-weekly_growth: 7262
-daily_growth: 1037
-forks: 2562
-open_issues: 1989
+stars: 23630
+weekly_growth: 6456
+daily_growth: 922
+forks: 2691
+open_issues: 2078
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-08-05T10:55:49.812244
-last_updated: 2026-08-05T10:55:49.812245
+first_seen: 2026-08-06T10:57:23.743471
+last_updated: 2026-08-06T10:57:23.743472
 html_url: https://github.com/block/buzz
 aliases:
   - block/buzz
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 22,767 |
-| **Weekly** | +7,262 |
-| **Forks** | 2,562 |
-| **Issues** | 1989 |
+| **Stars** | 23,630 |
+| **Weekly** | +6,456 |
+| **Forks** | 2,691 |
+| **Issues** | 2078 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-05T10:55:49*  
-*Updated: 2026-08-05T10:55:49*
+*First seen: 2026-08-06T10:57:23*  
+*Updated: 2026-08-06T10:57:23*
