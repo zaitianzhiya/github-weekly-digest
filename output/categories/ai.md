@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: AI
-total_projects: 7
+total_projects: 8
 ---
 
 # AI
 
-> 7 projects
+> 8 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -21,6 +21,7 @@ SORT confidence_score DESC
 - [[ayghri--i-have-adhd|ayghri/i-have-adhd]] — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [[esengine--DeepSeek-Reasonix|esengine/DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [[embabel--embabel-agent|embabel/embabel-agent]] — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+- [[unclebob--swarm-forge|unclebob/swarm-forge]] — A simple tool for coordinating several AI agents.
 - [[microsoft--AI-For-Beginners|microsoft/AI-For-Beginners]] — 12 Weeks, 24 Lessons, AI for All!
 - [[sponsors--lyogavin|sponsors/lyogavin]] — AirLLM 70B inference with single 4GB GPU
 - [[sponsors--virgiliojr94|sponsors/virgiliojr94]] — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.

@@ -18,4 +18,4 @@ SORT confidence_score DESC
 ## Projects
 
 - [[esengine--DeepSeek-Reasonix|esengine/DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [[sponsors--agavra|sponsors/agavra]] — a code review TUI with vim keybindings
+- [[tailwindlabs--tailwindcss|tailwindlabs/tailwindcss]] — A utility-first CSS framework for rapid UI development.

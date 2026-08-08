@@ -2,11 +2,11 @@
 repo_id: ayghri/i-have-adhd
 full_name: ayghri/i-have-adhd
 language: Python
-stars: 17920
-weekly_growth: 3628
-daily_growth: 518
-forks: 1039
-open_issues: 13
+stars: 18278
+weekly_growth: 3497
+daily_growth: 499
+forks: 1064
+open_issues: 14
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-07T09:27:45.416540
-last_updated: 2026-08-07T09:27:45.416541
+first_seen: 2026-08-08T09:05:08.332993
+last_updated: 2026-08-08T09:05:08.332994
 html_url: https://github.com/ayghri/i-have-adhd
 aliases:
   - ayghri/i-have-adhd
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 17,920 |
-| **Weekly** | +3,628 |
-| **Forks** | 1,039 |
-| **Issues** | 13 |
+| **Stars** | 18,278 |
+| **Weekly** | +3,497 |
+| **Forks** | 1,064 |
+| **Issues** | 14 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-07T09:27:45*  
-*Updated: 2026-08-07T09:27:45*
+*First seen: 2026-08-08T09:05:08*  
+*Updated: 2026-08-08T09:05:08*
