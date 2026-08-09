@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[block--buzz|block/buzz]] — A hive mind communication platform
+- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.

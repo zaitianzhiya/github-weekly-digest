@@ -17,5 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [[esengine--DeepSeek-Reasonix|esengine/DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [[tailwindlabs--tailwindcss|tailwindlabs/tailwindcss]] — A utility-first CSS framework for rapid UI development.
