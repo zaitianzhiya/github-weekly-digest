@@ -3,8 +3,8 @@ repo_id: sponsors/usekaneo
 full_name: sponsors/usekaneo
 language: TypeScript
 stars: 0
-weekly_growth: 2259
-daily_growth: 322
+weekly_growth: 1952
+daily_growth: 278
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-09T09:06:35.776511
-last_updated: 2026-08-09T09:06:35.776512
+first_seen: 2026-08-10T09:52:36.503960
+last_updated: 2026-08-10T09:52:36.503962
 html_url: https://github.com/sponsors/usekaneo
 aliases:
   - sponsors/usekaneo
@@ -32,7 +32,7 @@ aliases:
 |--------|-------|
 | **Language** | TypeScript |
 | **Stars** | 0 |
-| **Weekly** | +2,259 |
+| **Weekly** | +1,952 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-09T09:06:35*  
-*Updated: 2026-08-09T09:06:35*
+*First seen: 2026-08-10T09:52:36*  
+*Updated: 2026-08-10T09:52:36*

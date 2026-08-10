@@ -2,11 +2,11 @@
 repo_id: embabel/embabel-agent
 full_name: embabel/embabel-agent
 language: Kotlin
-stars: 4046
-weekly_growth: 188
-daily_growth: 26
-forks: 401
-open_issues: 71
+stars: 4078
+weekly_growth: 195
+daily_growth: 27
+forks: 402
+open_issues: 72
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-09T09:06:42.428610
-last_updated: 2026-08-09T09:06:42.428612
+first_seen: 2026-08-10T09:52:41.335760
+last_updated: 2026-08-10T09:52:41.335761
 html_url: https://github.com/embabel/embabel-agent
 aliases:
   - embabel/embabel-agent
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Kotlin |
-| **Stars** | 4,046 |
-| **Weekly** | +188 |
-| **Forks** | 401 |
-| **Issues** | 71 |
+| **Stars** | 4,078 |
+| **Weekly** | +195 |
+| **Forks** | 402 |
+| **Issues** | 72 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-09T09:06:42*  
-*Updated: 2026-08-09T09:06:42*
+*First seen: 2026-08-10T09:52:41*  
+*Updated: 2026-08-10T09:52:41*

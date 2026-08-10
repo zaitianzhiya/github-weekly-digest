@@ -2,11 +2,11 @@
 repo_id: iv-org/invidious
 full_name: iv-org/invidious
 language: Crystal
-stars: 22491
-weekly_growth: 997
-daily_growth: 142
-forks: 2512
-open_issues: 471
+stars: 22570
+weekly_growth: 778
+daily_growth: 111
+forks: 2516
+open_issues: 470
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-08-09T09:06:36.933291
-last_updated: 2026-08-09T09:06:36.933292
+first_seen: 2026-08-10T09:52:38.356893
+last_updated: 2026-08-10T09:52:38.356894
 html_url: https://github.com/iv-org/invidious
 aliases:
   - iv-org/invidious
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Crystal |
-| **Stars** | 22,491 |
-| **Weekly** | +997 |
-| **Forks** | 2,512 |
-| **Issues** | 471 |
+| **Stars** | 22,570 |
+| **Weekly** | +778 |
+| **Forks** | 2,516 |
+| **Issues** | 470 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-09T09:06:36*  
-*Updated: 2026-08-09T09:06:36*
+*First seen: 2026-08-10T09:52:38*  
+*Updated: 2026-08-10T09:52:38*

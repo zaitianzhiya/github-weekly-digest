@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[DataExpert-io--data-engineer-handbook|DataExpert-io/data-engineer-handbook]] — This is a repo with links to everything you'd ever want to learn about data engineering
+- [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.

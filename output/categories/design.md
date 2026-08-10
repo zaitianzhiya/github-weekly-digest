@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[earthtojake--text-to-cad|earthtojake/text-to-cad]] — A collection of agent skills for CAD, robotics and hardware design
+- [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.

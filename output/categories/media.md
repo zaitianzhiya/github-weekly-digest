@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: media
-total_projects: 1
+total_projects: 2
 ---
 
 # media
 
-> 1 projects
+> 2 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,4 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[livekit--agents|livekit/agents]] — A framework for building realtime voice AI agents 🤖🎙️📹
 - [[iv-org--invidious|iv-org/invidious]] — Invidious is an alternative front-end to YouTube
