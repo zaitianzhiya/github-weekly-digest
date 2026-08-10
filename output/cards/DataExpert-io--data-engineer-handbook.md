@@ -2,11 +2,11 @@
 repo_id: DataExpert-io/data-engineer-handbook
 full_name: DataExpert-io/data-engineer-handbook
 language: Jupyter Notebook
-stars: 43513
-weekly_growth: 794
-daily_growth: 113
-forks: 9024
-open_issues: 43
+stars: 43555
+weekly_growth: 824
+daily_growth: 117
+forks: 9079
+open_issues: 45
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-09T09:06:40.920574
-last_updated: 2026-08-09T09:06:40.920576
+first_seen: 2026-08-10T11:31:52.750812
+last_updated: 2026-08-10T11:31:52.750814
 html_url: https://github.com/DataExpert-io/data-engineer-handbook
 aliases:
   - DataExpert-io/data-engineer-handbook
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 43,513 |
-| **Weekly** | +794 |
-| **Forks** | 9,024 |
-| **Issues** | 43 |
+| **Stars** | 43,555 |
+| **Weekly** | +824 |
+| **Forks** | 9,079 |
+| **Issues** | 45 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-09T09:06:40*  
-*Updated: 2026-08-09T09:06:40*
+*First seen: 2026-08-10T11:31:52*  
+*Updated: 2026-08-10T11:31:52*

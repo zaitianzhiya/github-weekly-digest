@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: data
-total_projects: 1
+total_projects: 2
 ---
 
 # data
 
-> 1 projects
+> 2 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -18,3 +18,4 @@ SORT confidence_score DESC
 ## Projects
 
 - [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.
+- [[DataExpert-io--data-engineer-handbook|DataExpert-io/data-engineer-handbook]] — This is a repo with links to everything you'd ever want to learn about data engineering

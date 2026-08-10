@@ -17,6 +17,6 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [[esengine--DeepSeek-Reasonix|esengine/DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.

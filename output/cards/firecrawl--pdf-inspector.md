@@ -2,20 +2,21 @@
 repo_id: firecrawl/pdf-inspector
 full_name: firecrawl/pdf-inspector
 language: Rust
-stars: 14140
+stars: 14170
 weekly_growth: 8641
 daily_growth: 1234
 forks: 962
 open_issues: 126
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - security
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-10T09:52:33.701641
-last_updated: 2026-08-10T09:52:33.701643
+first_seen: 2026-08-10T11:31:47.437465
+last_updated: 2026-08-10T11:31:47.437467
 html_url: https://github.com/firecrawl/pdf-inspector
 aliases:
   - firecrawl/pdf-inspector
@@ -25,19 +26,19 @@ aliases:
 
 > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
-#github-project #lang-rust #grade-c #security
+#github-project #lang-rust #grade-b #security
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 14,140 |
+| **Stars** | 14,170 |
 | **Weekly** | +8,641 |
 | **Forks** | 962 |
 | **Issues** | 126 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T09:52:33*  
-*Updated: 2026-08-10T09:52:33*
+*First seen: 2026-08-10T11:31:47*  
+*Updated: 2026-08-10T11:31:47*

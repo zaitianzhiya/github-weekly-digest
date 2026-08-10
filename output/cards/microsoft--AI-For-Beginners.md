@@ -2,10 +2,10 @@
 repo_id: microsoft/AI-For-Beginners
 full_name: microsoft/AI-For-Beginners
 language: Jupyter Notebook
-stars: 64285
+stars: 64311
 weekly_growth: 5514
 daily_growth: 787
-forks: 12432
+forks: 12436
 open_issues: 27
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-10T09:52:36.158965
-last_updated: 2026-08-10T09:52:36.158966
+first_seen: 2026-08-10T11:31:51.359100
+last_updated: 2026-08-10T11:31:51.359101
 html_url: https://github.com/microsoft/AI-For-Beginners
 aliases:
   - microsoft/AI-For-Beginners
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Jupyter Notebook |
-| **Stars** | 64,285 |
+| **Stars** | 64,311 |
 | **Weekly** | +5,514 |
-| **Forks** | 12,432 |
+| **Forks** | 12,436 |
 | **Issues** | 27 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T09:52:36*  
-*Updated: 2026-08-10T09:52:36*
+*First seen: 2026-08-10T11:31:51*  
+*Updated: 2026-08-10T11:31:51*

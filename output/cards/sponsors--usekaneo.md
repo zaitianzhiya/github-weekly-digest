@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-10T09:52:36.503960
-last_updated: 2026-08-10T09:52:36.503962
+first_seen: 2026-08-10T11:31:50.791099
+last_updated: 2026-08-10T11:31:50.791100
 html_url: https://github.com/sponsors/usekaneo
 aliases:
   - sponsors/usekaneo
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T09:52:36*  
-*Updated: 2026-08-10T09:52:36*
+*First seen: 2026-08-10T11:31:50*  
+*Updated: 2026-08-10T11:31:50*
