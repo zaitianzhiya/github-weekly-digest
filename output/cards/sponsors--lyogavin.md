@@ -3,8 +3,8 @@ repo_id: sponsors/lyogavin
 full_name: sponsors/lyogavin
 language: Jupyter Notebook
 stars: 0
-weekly_growth: 5129
-daily_growth: 732
+weekly_growth: 4042
+daily_growth: 577
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-10T11:31:48.874216
-last_updated: 2026-08-10T11:31:48.874218
+first_seen: 2026-08-11T09:17:51.452115
+last_updated: 2026-08-11T09:17:51.452117
 html_url: https://github.com/sponsors/lyogavin
 aliases:
   - sponsors/lyogavin
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | Jupyter Notebook |
 | **Stars** | 0 |
-| **Weekly** | +5,129 |
+| **Weekly** | +4,042 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T11:31:48*  
-*Updated: 2026-08-10T11:31:48*
+*First seen: 2026-08-11T09:17:51*  
+*Updated: 2026-08-11T09:17:51*

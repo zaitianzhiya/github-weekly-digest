@@ -2,11 +2,11 @@
 repo_id: huangruiteng/loopx
 full_name: huangruiteng/loopx
 language: Python
-stars: 3859
-weekly_growth: 3518
-daily_growth: 502
-forks: 313
-open_issues: 22
+stars: 4058
+weekly_growth: 2947
+daily_growth: 421
+forks: 325
+open_issues: 24
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-10T11:31:47.019658
-last_updated: 2026-08-10T11:31:47.019659
+first_seen: 2026-08-11T09:17:48.309796
+last_updated: 2026-08-11T09:17:48.309798
 html_url: https://github.com/huangruiteng/loopx
 aliases:
   - huangruiteng/loopx
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 3,859 |
-| **Weekly** | +3,518 |
-| **Forks** | 313 |
-| **Issues** | 22 |
+| **Stars** | 4,058 |
+| **Weekly** | +2,947 |
+| **Forks** | 325 |
+| **Issues** | 24 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T11:31:47*  
-*Updated: 2026-08-10T11:31:47*
+*First seen: 2026-08-11T09:17:48*  
+*Updated: 2026-08-11T09:17:48*
