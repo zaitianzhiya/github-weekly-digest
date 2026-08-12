@@ -2,10 +2,10 @@
 repo_id: unclebob/swarm-forge
 full_name: unclebob/swarm-forge
 language: Clojure
-stars: 2139
-weekly_growth: 627
-daily_growth: 89
-forks: 224
+stars: 2194
+weekly_growth: 671
+daily_growth: 95
+forks: 231
 open_issues: 20
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-11T09:17:53.793040
-last_updated: 2026-08-11T09:17:53.793042
+first_seen: 2026-08-12T09:34:52.774347
+last_updated: 2026-08-12T09:34:52.774349
 html_url: https://github.com/unclebob/swarm-forge
 aliases:
   - unclebob/swarm-forge
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Clojure |
-| **Stars** | 2,139 |
-| **Weekly** | +627 |
-| **Forks** | 224 |
+| **Stars** | 2,194 |
+| **Weekly** | +671 |
+| **Forks** | 231 |
 | **Issues** | 20 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-11T09:17:53*  
-*Updated: 2026-08-11T09:17:53*
+*First seen: 2026-08-12T09:34:52*  
+*Updated: 2026-08-12T09:34:52*

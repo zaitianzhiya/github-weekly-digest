@@ -2,11 +2,11 @@
 repo_id: Comfy-Org/ComfyUI
 full_name: Comfy-Org/ComfyUI
 language: Python
-stars: 126608
-weekly_growth: 2842
-daily_growth: 406
-forks: 14916
-open_issues: 4512
+stars: 126958
+weekly_growth: 3252
+daily_growth: 464
+forks: 14949
+open_issues: 4542
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-08-11T09:17:56.432463
-last_updated: 2026-08-11T09:17:56.432465
+first_seen: 2026-08-12T09:34:53.888802
+last_updated: 2026-08-12T09:34:53.888803
 html_url: https://github.com/Comfy-Org/ComfyUI
 aliases:
   - Comfy-Org/ComfyUI
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 126,608 |
-| **Weekly** | +2,842 |
-| **Forks** | 14,916 |
-| **Issues** | 4512 |
+| **Stars** | 126,958 |
+| **Weekly** | +3,252 |
+| **Forks** | 14,949 |
+| **Issues** | 4542 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-11T09:17:56*  
-*Updated: 2026-08-11T09:17:56*
+*First seen: 2026-08-12T09:34:53*  
+*Updated: 2026-08-12T09:34:53*
