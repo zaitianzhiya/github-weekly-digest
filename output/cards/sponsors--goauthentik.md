@@ -3,8 +3,8 @@ repo_id: sponsors/goauthentik
 full_name: sponsors/goauthentik
 language: Python
 stars: 0
-weekly_growth: 1579
-daily_growth: 225
+weekly_growth: 2020
+daily_growth: 288
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -14,8 +14,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-08-10T09:52:38.673598
-last_updated: 2026-08-10T09:52:38.673600
+first_seen: 2026-08-13T09:36:08.949247
+last_updated: 2026-08-13T09:36:08.949249
 html_url: https://github.com/sponsors/goauthentik
 aliases:
   - sponsors/goauthentik
@@ -33,7 +33,7 @@ aliases:
 |--------|-------|
 | **Language** | Python |
 | **Stars** | 0 |
-| **Weekly** | +1,579 |
+| **Weekly** | +2,020 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-10T09:52:38*  
-*Updated: 2026-08-10T09:52:38*
+*First seen: 2026-08-13T09:36:08*  
+*Updated: 2026-08-13T09:36:08*

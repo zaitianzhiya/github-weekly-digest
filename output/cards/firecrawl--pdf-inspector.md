@@ -2,11 +2,11 @@
 repo_id: firecrawl/pdf-inspector
 full_name: firecrawl/pdf-inspector
 language: Rust
-stars: 14849
-weekly_growth: 5367
-daily_growth: 766
-forks: 1024
-open_issues: 144
+stars: 15168
+weekly_growth: 4043
+daily_growth: 577
+forks: 1045
+open_issues: 150
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-08-12T09:34:48.575808
-last_updated: 2026-08-12T09:34:48.575809
+first_seen: 2026-08-13T09:36:05.337951
+last_updated: 2026-08-13T09:36:05.337952
 html_url: https://github.com/firecrawl/pdf-inspector
 aliases:
   - firecrawl/pdf-inspector
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 14,849 |
-| **Weekly** | +5,367 |
-| **Forks** | 1,024 |
-| **Issues** | 144 |
+| **Stars** | 15,168 |
+| **Weekly** | +4,043 |
+| **Forks** | 1,045 |
+| **Issues** | 150 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-12T09:34:48*  
-*Updated: 2026-08-12T09:34:48*
+*First seen: 2026-08-13T09:36:05*  
+*Updated: 2026-08-13T09:36:05*
