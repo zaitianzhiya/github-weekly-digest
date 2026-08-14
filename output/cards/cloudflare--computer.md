@@ -2,11 +2,11 @@
 repo_id: cloudflare/computer
 full_name: cloudflare/computer
 language: TypeScript
-stars: 7886
-weekly_growth: 6020
-daily_growth: 860
-forks: 435
-open_issues: 13
+stars: 8044
+weekly_growth: 3599
+daily_growth: 514
+forks: 444
+open_issues: 15
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-13T09:36:03.843101
-last_updated: 2026-08-13T09:36:03.843103
+first_seen: 2026-08-14T09:30:31.447242
+last_updated: 2026-08-14T09:30:31.447243
 html_url: https://github.com/cloudflare/computer
 aliases:
   - cloudflare/computer
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7,886 |
-| **Weekly** | +6,020 |
-| **Forks** | 435 |
-| **Issues** | 13 |
+| **Stars** | 8,044 |
+| **Weekly** | +3,599 |
+| **Forks** | 444 |
+| **Issues** | 15 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-13T09:36:03*  
-*Updated: 2026-08-13T09:36:03*
+*First seen: 2026-08-14T09:30:31*  
+*Updated: 2026-08-14T09:30:31*

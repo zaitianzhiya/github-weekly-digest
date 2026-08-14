@@ -2,11 +2,11 @@
 repo_id: drawdb-io/drawdb
 full_name: drawdb-io/drawdb
 language: JavaScript
-stars: 38971
-weekly_growth: 665
-daily_growth: 95
-forks: 3176
-open_issues: 226
+stars: 39076
+weekly_growth: 693
+daily_growth: 99
+forks: 3185
+open_issues: 229
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-13T09:36:07.215266
-last_updated: 2026-08-13T09:36:07.215267
+first_seen: 2026-08-14T09:30:34.627587
+last_updated: 2026-08-14T09:30:34.627588
 html_url: https://github.com/drawdb-io/drawdb
 aliases:
   - drawdb-io/drawdb
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 38,971 |
-| **Weekly** | +665 |
-| **Forks** | 3,176 |
-| **Issues** | 226 |
+| **Stars** | 39,076 |
+| **Weekly** | +693 |
+| **Forks** | 3,185 |
+| **Issues** | 229 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-13T09:36:07*  
-*Updated: 2026-08-13T09:36:07*
+*First seen: 2026-08-14T09:30:34*  
+*Updated: 2026-08-14T09:30:34*

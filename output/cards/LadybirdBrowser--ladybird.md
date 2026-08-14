@@ -2,19 +2,19 @@
 repo_id: LadybirdBrowser/ladybird
 full_name: LadybirdBrowser/ladybird
 language: C++
-stars: 65508
-weekly_growth: 743
-daily_growth: 106
-forks: 3130
-open_issues: 533
+stars: 65590
+weekly_growth: 775
+daily_growth: 110
+forks: 3133
+open_issues: 529
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-13T09:36:08.383614
-last_updated: 2026-08-13T09:36:08.383616
+first_seen: 2026-08-14T09:30:35.931532
+last_updated: 2026-08-14T09:30:35.931533
 html_url: https://github.com/LadybirdBrowser/ladybird
 aliases:
   - LadybirdBrowser/ladybird
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C++ |
-| **Stars** | 65,508 |
-| **Weekly** | +743 |
-| **Forks** | 3,130 |
-| **Issues** | 533 |
+| **Stars** | 65,590 |
+| **Weekly** | +775 |
+| **Forks** | 3,133 |
+| **Issues** | 529 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-13T09:36:08*  
-*Updated: 2026-08-13T09:36:08*
+*First seen: 2026-08-14T09:30:35*  
+*Updated: 2026-08-14T09:30:35*

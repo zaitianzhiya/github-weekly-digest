@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: design
-total_projects: 1
+total_projects: 2
 ---
 
 # design
 
-> 1 projects
+> 2 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,4 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[3b1b--manim|3b1b/manim]] — Animation engine for explanatory math videos
 - [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.
