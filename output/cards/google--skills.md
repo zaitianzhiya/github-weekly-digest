@@ -2,10 +2,10 @@
 repo_id: google/skills
 full_name: google/skills
 language: Python
-stars: 18127
-weekly_growth: 2359
-daily_growth: 337
-forks: 1432
+stars: 18243
+weekly_growth: 2186
+daily_growth: 312
+forks: 1440
 open_issues: 31
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-14T09:30:30.741233
-last_updated: 2026-08-14T09:30:30.741235
+first_seen: 2026-08-15T08:49:05.419717
+last_updated: 2026-08-15T08:49:05.419719
 html_url: https://github.com/google/skills
 aliases:
   - google/skills
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 18,127 |
-| **Weekly** | +2,359 |
-| **Forks** | 1,432 |
+| **Stars** | 18,243 |
+| **Weekly** | +2,186 |
+| **Forks** | 1,440 |
 | **Issues** | 31 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-14T09:30:30*  
-*Updated: 2026-08-14T09:30:30*
+*First seen: 2026-08-15T08:49:05*  
+*Updated: 2026-08-15T08:49:05*

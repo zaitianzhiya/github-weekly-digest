@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
