@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: frontend
-total_projects: 3
+total_projects: 1
 ---
 
 # frontend
 
-> 3 projects
+> 1 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,6 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Comfy-Org--ComfyUI|Comfy-Org/ComfyUI]] — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [[esengine--DeepSeek-Reasonix|esengine/DeepSeek-Reasonix]] — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [[drawdb-io--drawdb|drawdb-io/drawdb]] — Free, simple, and intuitive online database diagram editor and SQL generator.
+- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.

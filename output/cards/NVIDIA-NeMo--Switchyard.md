@@ -2,11 +2,11 @@
 repo_id: NVIDIA-NeMo/Switchyard
 full_name: NVIDIA-NeMo/Switchyard
 language: Rust
-stars: 1504
-weekly_growth: 1195
-daily_growth: 170
-forks: 134
-open_issues: 90
+stars: 1609
+weekly_growth: 1326
+daily_growth: 189
+forks: 144
+open_issues: 100
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-08-15T08:49:07.491872
-last_updated: 2026-08-15T08:49:07.491873
+first_seen: 2026-08-16T08:51:12.509930
+last_updated: 2026-08-16T08:51:12.509931
 html_url: https://github.com/NVIDIA-NeMo/Switchyard
 aliases:
   - NVIDIA-NeMo/Switchyard
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 1,504 |
-| **Weekly** | +1,195 |
-| **Forks** | 134 |
-| **Issues** | 90 |
+| **Stars** | 1,609 |
+| **Weekly** | +1,326 |
+| **Forks** | 144 |
+| **Issues** | 100 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-15T08:49:07*  
-*Updated: 2026-08-15T08:49:07*
+*First seen: 2026-08-16T08:51:12*  
+*Updated: 2026-08-16T08:51:12*

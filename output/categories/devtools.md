@@ -18,5 +18,5 @@ SORT confidence_score DESC
 ## Projects
 
 - [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-- [[huangruiteng--loopx|huangruiteng/loopx]] — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 - [[3b1b--manim|3b1b/manim]] — Animation engine for explanatory math videos
+- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.

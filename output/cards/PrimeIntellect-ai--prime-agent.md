@@ -2,10 +2,10 @@
 repo_id: PrimeIntellect-ai/prime-agent
 full_name: PrimeIntellect-ai/prime-agent
 language: TypeScript
-stars: 16064
-weekly_growth: 10739
-daily_growth: 1534
-forks: 1724
+stars: 16398
+weekly_growth: 8488
+daily_growth: 1212
+forks: 1762
 open_issues: 73
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-15T08:49:04.416813
-last_updated: 2026-08-15T08:49:04.416814
+first_seen: 2026-08-16T08:51:11.473183
+last_updated: 2026-08-16T08:51:11.473185
 html_url: https://github.com/PrimeIntellect-ai/prime-agent
 aliases:
   - PrimeIntellect-ai/prime-agent
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16,064 |
-| **Weekly** | +10,739 |
-| **Forks** | 1,724 |
+| **Stars** | 16,398 |
+| **Weekly** | +8,488 |
+| **Forks** | 1,762 |
 | **Issues** | 73 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-15T08:49:04*  
-*Updated: 2026-08-15T08:49:04*
+*First seen: 2026-08-16T08:51:11*  
+*Updated: 2026-08-16T08:51:11*

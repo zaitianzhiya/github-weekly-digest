@@ -2,10 +2,10 @@
 repo_id: cactus-compute/needle
 full_name: cactus-compute/needle
 language: Python
-stars: 5762
-weekly_growth: 1929
-daily_growth: 275
-forks: 385
+stars: 6206
+weekly_growth: 2488
+daily_growth: 355
+forks: 414
 open_issues: 25
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-15T08:49:09.818314
-last_updated: 2026-08-15T08:49:09.818316
+first_seen: 2026-08-16T08:51:13.297119
+last_updated: 2026-08-16T08:51:13.297122
 html_url: https://github.com/cactus-compute/needle
 aliases:
   - cactus-compute/needle
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 5,762 |
-| **Weekly** | +1,929 |
-| **Forks** | 385 |
+| **Stars** | 6,206 |
+| **Weekly** | +2,488 |
+| **Forks** | 414 |
 | **Issues** | 25 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-15T08:49:09*  
-*Updated: 2026-08-15T08:49:09*
+*First seen: 2026-08-16T08:51:13*  
+*Updated: 2026-08-16T08:51:13*
