@@ -2,11 +2,11 @@
 repo_id: cathrynlavery/diagram-design
 full_name: cathrynlavery/diagram-design
 language: HTML
-stars: 18999
-weekly_growth: 14735
-daily_growth: 2105
-forks: 1152
-open_issues: 21
+stars: 20021
+weekly_growth: 15600
+daily_growth: 2228
+forks: 1223
+open_issues: 23
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-16T08:51:10.676583
-last_updated: 2026-08-16T08:51:10.676585
+first_seen: 2026-08-17T09:04:24.779325
+last_updated: 2026-08-17T09:04:24.779327
 html_url: https://github.com/cathrynlavery/diagram-design
 aliases:
   - cathrynlavery/diagram-design
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | HTML |
-| **Stars** | 18,999 |
-| **Weekly** | +14,735 |
-| **Forks** | 1,152 |
-| **Issues** | 21 |
+| **Stars** | 20,021 |
+| **Weekly** | +15,600 |
+| **Forks** | 1,223 |
+| **Issues** | 23 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-16T08:51:10*  
-*Updated: 2026-08-16T08:51:10*
+*First seen: 2026-08-17T09:04:24*  
+*Updated: 2026-08-17T09:04:24*

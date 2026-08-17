@@ -3,8 +3,8 @@ repo_id: sponsors/ToolJet
 full_name: sponsors/ToolJet
 language: JavaScript
 stars: 0
-weekly_growth: 1047
-daily_growth: 149
+weekly_growth: 1518
+daily_growth: 216
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-08-16T08:51:14.125824
-last_updated: 2026-08-16T08:51:14.125825
+first_seen: 2026-08-17T09:04:27.715891
+last_updated: 2026-08-17T09:04:27.715893
 html_url: https://github.com/sponsors/ToolJet
 aliases:
   - sponsors/ToolJet
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | JavaScript |
 | **Stars** | 0 |
-| **Weekly** | +1,047 |
+| **Weekly** | +1,518 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-16T08:51:14*  
-*Updated: 2026-08-16T08:51:14*
+*First seen: 2026-08-17T09:04:27*  
+*Updated: 2026-08-17T09:04:27*
