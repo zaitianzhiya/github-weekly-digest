@@ -2,10 +2,10 @@
 repo_id: macro-inc/macro
 full_name: macro-inc/macro
 language: Rust
-stars: 3462
+stars: 3475
 weekly_growth: 2588
 daily_growth: 369
-forks: 347
+forks: 348
 open_issues: 66
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - docs
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:27.230203
-last_updated: 2026-08-17T09:04:27.230204
+first_seen: 2026-08-17T10:59:22.020783
+last_updated: 2026-08-17T10:59:22.020785
 html_url: https://github.com/macro-inc/macro
 aliases:
   - macro-inc/macro
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 3,462 |
+| **Stars** | 3,475 |
 | **Weekly** | +2,588 |
-| **Forks** | 347 |
+| **Forks** | 348 |
 | **Issues** | 66 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:27*  
-*Updated: 2026-08-17T09:04:27*
+*First seen: 2026-08-17T10:59:22*  
+*Updated: 2026-08-17T10:59:22*

@@ -2,10 +2,10 @@
 repo_id: 3b1b/manim
 full_name: 3b1b/manim
 language: Python
-stars: 91412
+stars: 91427
 weekly_growth: 1978
 daily_growth: 282
-forks: 7558
+forks: 7560
 open_issues: 495
 confidence_score: 45
 confidence_grade: C
@@ -16,8 +16,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:28.493586
-last_updated: 2026-08-17T09:04:28.493588
+first_seen: 2026-08-17T10:59:24.429474
+last_updated: 2026-08-17T10:59:24.429475
 html_url: https://github.com/3b1b/manim
 aliases:
   - 3b1b/manim
@@ -34,9 +34,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 91,412 |
+| **Stars** | 91,427 |
 | **Weekly** | +1,978 |
-| **Forks** | 7,558 |
+| **Forks** | 7,560 |
 | **Issues** | 495 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:28*  
-*Updated: 2026-08-17T09:04:28*
+*First seen: 2026-08-17T10:59:24*  
+*Updated: 2026-08-17T10:59:24*

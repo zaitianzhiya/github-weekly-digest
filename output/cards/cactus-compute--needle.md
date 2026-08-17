@@ -2,20 +2,21 @@
 repo_id: cactus-compute/needle
 full_name: cactus-compute/needle
 language: Python
-stars: 6896
+stars: 6967
 weekly_growth: 2950
 daily_growth: 421
-forks: 443
-open_issues: 27
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 449
+open_issues: 22
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:26.826317
-last_updated: 2026-08-17T09:04:26.826319
+  - OpenGithubs 周榜
+first_seen: 2026-08-17T10:59:21.212458
+last_updated: 2026-08-17T10:59:21.212459
 html_url: https://github.com/cactus-compute/needle
 aliases:
   - cactus-compute/needle
@@ -25,19 +26,19 @@ aliases:
 
 > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
-#github-project #lang-python #grade-c #ai
+#github-project #lang-python #grade-b #ai
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 6,896 |
+| **Stars** | 6,967 |
 | **Weekly** | +2,950 |
-| **Forks** | 443 |
-| **Issues** | 27 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 449 |
+| **Issues** | 22 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:26*  
-*Updated: 2026-08-17T09:04:26*
+*First seen: 2026-08-17T10:59:21*  
+*Updated: 2026-08-17T10:59:21*

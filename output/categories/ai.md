@@ -17,12 +17,12 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 - [[cactus-compute--needle|cactus-compute/needle]] — 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - [[PrimeIntellect-ai--prime-agent|PrimeIntellect-ai/prime-agent]] — A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 - [[paperclipai--paperclip|paperclipai/paperclip]] — The open-source app everyone uses to manage agents at work
 - [[addyosmani--agent-skills|addyosmani/agent-skills]] — Production-grade engineering skills for AI coding agents.
-- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [[macro-inc--macro|macro-inc/macro]] — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [[sponsors--semantica-agi|sponsors/semantica-agi]] — Graph-Native Infrastructure for Context and Accountable AI Systems
 - [[sponsors--vitali87|sponsors/vitali87]] — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs

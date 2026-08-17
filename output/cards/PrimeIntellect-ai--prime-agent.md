@@ -2,20 +2,21 @@
 repo_id: PrimeIntellect-ai/prime-agent
 full_name: PrimeIntellect-ai/prime-agent
 language: TypeScript
-stars: 16720
+stars: 16757
 weekly_growth: 6435
 daily_growth: 919
-forks: 1800
-open_issues: 71
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 1802
+open_issues: 70
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:25.493816
-last_updated: 2026-08-17T09:04:25.493817
+  - OpenGithubs 周榜
+first_seen: 2026-08-17T10:59:18.953398
+last_updated: 2026-08-17T10:59:18.953400
 html_url: https://github.com/PrimeIntellect-ai/prime-agent
 aliases:
   - PrimeIntellect-ai/prime-agent
@@ -25,19 +26,19 @@ aliases:
 
 > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
-#github-project #lang-typescript #grade-c #ai
+#github-project #lang-typescript #grade-b #ai
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 16,720 |
+| **Stars** | 16,757 |
 | **Weekly** | +6,435 |
-| **Forks** | 1,800 |
-| **Issues** | 71 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 1,802 |
+| **Issues** | 70 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:25*  
-*Updated: 2026-08-17T09:04:25*
+*First seen: 2026-08-17T10:59:18*  
+*Updated: 2026-08-17T10:59:18*

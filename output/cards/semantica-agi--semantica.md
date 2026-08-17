@@ -1,6 +1,6 @@
 ---
-repo_id: zhaoxuya520/reverse-skill
-full_name: zhaoxuya520/reverse-skill
+repo_id: semantica-agi/semantica
+full_name: semantica-agi/semantica
 language: 
 stars: 0
 weekly_growth: 0
@@ -13,14 +13,14 @@ citation_count: 1
 categories:
 sources:
   - OpenGithubs 周榜
-first_seen: 2026-08-17T10:59:28.518019
-last_updated: 2026-08-17T10:59:28.518020
-html_url: https://github.com/zhaoxuya520/reverse-skill
+first_seen: 2026-08-17T10:59:28.518015
+last_updated: 2026-08-17T10:59:28.518016
+html_url: https://github.com/semantica-agi/semantica
 aliases:
-  - zhaoxuya520/reverse-skill
+  - semantica-agi/semantica
 ---
 
-# zhaoxuya520/reverse-skill
+# semantica-agi/semantica
 
 > from citation
 
@@ -40,8 +40,8 @@ aliases:
 
 ## Links
 
-- [GitHub](https://github.com/zhaoxuya520/reverse-skill)
-- [Star History](https://star-history.com/#zhaoxuya520/reverse-skill)
+- [GitHub](https://github.com/semantica-agi/semantica)
+- [Star History](https://star-history.com/#semantica-agi/semantica)
 
 ## Sources
 

@@ -2,11 +2,11 @@
 repo_id: addyosmani/agent-skills
 full_name: addyosmani/agent-skills
 language: JavaScript
-stars: 87885
+stars: 87910
 weekly_growth: 2882
 daily_growth: 411
-forks: 9413
-open_issues: 107
+forks: 9415
+open_issues: 108
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:28.110952
-last_updated: 2026-08-17T09:04:28.110953
+first_seen: 2026-08-17T10:59:23.799863
+last_updated: 2026-08-17T10:59:23.799865
 html_url: https://github.com/addyosmani/agent-skills
 aliases:
   - addyosmani/agent-skills
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 87,885 |
+| **Stars** | 87,910 |
 | **Weekly** | +2,882 |
-| **Forks** | 9,413 |
-| **Issues** | 107 |
+| **Forks** | 9,415 |
+| **Issues** | 108 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:28*  
-*Updated: 2026-08-17T09:04:28*
+*First seen: 2026-08-17T10:59:23*  
+*Updated: 2026-08-17T10:59:23*

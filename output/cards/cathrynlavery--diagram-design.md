@@ -2,14 +2,14 @@
 repo_id: cathrynlavery/diagram-design
 full_name: cathrynlavery/diagram-design
 language: HTML
-stars: 20021
+stars: 20117
 weekly_growth: 15600
 daily_growth: 2228
-forks: 1223
+forks: 1227
 open_issues: 23
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
   - devtools
@@ -17,8 +17,9 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T09:04:24.779325
-last_updated: 2026-08-17T09:04:24.779327
+  - OpenGithubs 周榜
+first_seen: 2026-08-17T10:59:17.727409
+last_updated: 2026-08-17T10:59:17.727411
 html_url: https://github.com/cathrynlavery/diagram-design
 aliases:
   - cathrynlavery/diagram-design
@@ -28,19 +29,19 @@ aliases:
 
 > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
-#github-project #lang-html #grade-c #ai #devtools #frontend #design
+#github-project #lang-html #grade-b #ai #devtools #frontend #design
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | HTML |
-| **Stars** | 20,021 |
+| **Stars** | 20,117 |
 | **Weekly** | +15,600 |
-| **Forks** | 1,223 |
+| **Forks** | 1,227 |
 | **Issues** | 23 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -50,6 +51,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -60,5 +62,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T09:04:24*  
-*Updated: 2026-08-17T09:04:24*
+*First seen: 2026-08-17T10:59:17*  
+*Updated: 2026-08-17T10:59:17*
