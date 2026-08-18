@@ -3,8 +3,8 @@ repo_id: sponsors/unslothai
 full_name: sponsors/unslothai
 language: Python
 stars: 0
-weekly_growth: 2645
-daily_growth: 377
+weekly_growth: 3329
+daily_growth: 475
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - frontend
 sources:
   - GitHub Trending
-first_seen: 2026-08-17T10:59:25.700334
-last_updated: 2026-08-17T10:59:25.700335
+first_seen: 2026-08-18T08:58:04.001660
+last_updated: 2026-08-18T08:58:04.001662
 html_url: https://github.com/sponsors/unslothai
 aliases:
   - sponsors/unslothai
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | Python |
 | **Stars** | 0 |
-| **Weekly** | +2,645 |
+| **Weekly** | +3,329 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-17T10:59:25*  
-*Updated: 2026-08-17T10:59:25*
+*First seen: 2026-08-18T08:58:04*  
+*Updated: 2026-08-18T08:58:04*
