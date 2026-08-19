@@ -2,11 +2,11 @@
 repo_id: basecamp/omarchy
 full_name: basecamp/omarchy
 language: Shell
-stars: 26123
-weekly_growth: 1477
-daily_growth: 211
-forks: 2664
-open_issues: 886
+stars: 26590
+weekly_growth: 1802
+daily_growth: 257
+forks: 2700
+open_issues: 961
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-18T08:58:05.333943
-last_updated: 2026-08-18T08:58:05.333945
+first_seen: 2026-08-19T08:58:52.300777
+last_updated: 2026-08-19T08:58:52.300779
 html_url: https://github.com/basecamp/omarchy
 aliases:
   - basecamp/omarchy
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Shell |
-| **Stars** | 26,123 |
-| **Weekly** | +1,477 |
-| **Forks** | 2,664 |
-| **Issues** | 886 |
+| **Stars** | 26,590 |
+| **Weekly** | +1,802 |
+| **Forks** | 2,700 |
+| **Issues** | 961 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-18T08:58:05*  
-*Updated: 2026-08-18T08:58:05*
+*First seen: 2026-08-19T08:58:52*  
+*Updated: 2026-08-19T08:58:52*
