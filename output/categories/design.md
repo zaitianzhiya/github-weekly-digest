@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: design
-total_projects: 2
+total_projects: 1
 ---
 
 # design
 
-> 2 projects
+> 1 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,5 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[3b1b--manim|3b1b/manim]] — Animation engine for explanatory math videos
-- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.

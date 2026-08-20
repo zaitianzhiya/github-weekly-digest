@@ -2,11 +2,11 @@
 repo_id: cathrynlavery/diagram-design
 full_name: cathrynlavery/diagram-design
 language: HTML
-stars: 22401
-weekly_growth: 15812
-daily_growth: 2258
-forks: 1374
-open_issues: 38
+stars: 23805
+weekly_growth: 14397
+daily_growth: 2056
+forks: 1454
+open_issues: 23
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,11 +14,12 @@ categories:
   - AI
   - devtools
   - frontend
+  - data
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-19T08:58:50.312410
-last_updated: 2026-08-19T08:58:50.312412
+first_seen: 2026-08-20T09:00:27.799416
+last_updated: 2026-08-20T09:00:27.799417
 html_url: https://github.com/cathrynlavery/diagram-design
 aliases:
   - cathrynlavery/diagram-design
@@ -26,19 +27,19 @@ aliases:
 
 # cathrynlavery/diagram-design
 
-> 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+> 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-#github-project #lang-html #grade-c #ai #devtools #frontend #design
+#github-project #lang-html #grade-c #ai #devtools #frontend #data #design
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | HTML |
-| **Stars** | 22,401 |
-| **Weekly** | +15,812 |
-| **Forks** | 1,374 |
-| **Issues** | 38 |
+| **Stars** | 23,805 |
+| **Weekly** | +14,397 |
+| **Forks** | 1,454 |
+| **Issues** | 23 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,9 +57,10 @@ aliases:
 - [[AI]]
 - [[devtools]]
 - [[frontend]]
+- [[data]]
 - [[design]]
 
 ---
 
-*First seen: 2026-08-19T08:58:50*  
-*Updated: 2026-08-19T08:58:50*
+*First seen: 2026-08-20T09:00:27*  
+*Updated: 2026-08-20T09:00:27*

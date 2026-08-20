@@ -2,11 +2,11 @@
 repo_id: superradcompany/microsandbox
 full_name: superradcompany/microsandbox
 language: Rust
-stars: 7728
-weekly_growth: 350
-daily_growth: 50
-forks: 409
-open_issues: 73
+stars: 7812
+weekly_growth: 460
+daily_growth: 65
+forks: 410
+open_issues: 70
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-08-19T08:58:56.672281
-last_updated: 2026-08-19T08:58:56.672283
+first_seen: 2026-08-20T09:00:36.301913
+last_updated: 2026-08-20T09:00:36.301914
 html_url: https://github.com/superradcompany/microsandbox
 aliases:
   - superradcompany/microsandbox
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 7,728 |
-| **Weekly** | +350 |
-| **Forks** | 409 |
-| **Issues** | 73 |
+| **Stars** | 7,812 |
+| **Weekly** | +460 |
+| **Forks** | 410 |
+| **Issues** | 70 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-19T08:58:56*  
-*Updated: 2026-08-19T08:58:56*
+*First seen: 2026-08-20T09:00:36*  
+*Updated: 2026-08-20T09:00:36*

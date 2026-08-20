@@ -17,5 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[3b1b--manim|3b1b/manim]] — Animation engine for explanatory math videos
+- [[harry0703--MoneyPrinterTurbo|harry0703/MoneyPrinterTurbo]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [[sponsors--lightningpixel|sponsors/lightningpixel]] — Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
