@@ -2,11 +2,11 @@
 repo_id: CodebuffAI/freebuff
 full_name: CodebuffAI/freebuff
 language: TypeScript
-stars: 10165
-weekly_growth: 1037
-daily_growth: 148
-forks: 1124
-open_issues: 299
+stars: 10341
+weekly_growth: 1133
+daily_growth: 161
+forks: 1135
+open_issues: 293
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-20T09:00:37.793012
-last_updated: 2026-08-20T09:00:37.793013
+first_seen: 2026-08-21T09:02:31.979718
+last_updated: 2026-08-21T09:02:31.979719
 html_url: https://github.com/CodebuffAI/freebuff
 aliases:
   - CodebuffAI/freebuff
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 10,165 |
-| **Weekly** | +1,037 |
-| **Forks** | 1,124 |
-| **Issues** | 299 |
+| **Stars** | 10,341 |
+| **Weekly** | +1,133 |
+| **Forks** | 1,135 |
+| **Issues** | 293 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-20T09:00:37*  
-*Updated: 2026-08-20T09:00:37*
+*First seen: 2026-08-21T09:02:31*  
+*Updated: 2026-08-21T09:02:31*

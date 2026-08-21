@@ -3,8 +3,8 @@ repo_id: sponsors/semantica-agi
 full_name: sponsors/semantica-agi
 language: Python
 stars: 0
-weekly_growth: 4005
-daily_growth: 572
+weekly_growth: 3674
+daily_growth: 524
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-20T09:00:29.040285
-last_updated: 2026-08-20T09:00:29.040286
+first_seen: 2026-08-21T09:02:25.689952
+last_updated: 2026-08-21T09:02:25.689954
 html_url: https://github.com/sponsors/semantica-agi
 aliases:
   - sponsors/semantica-agi
@@ -33,7 +33,7 @@ aliases:
 |--------|-------|
 | **Language** | Python |
 | **Stars** | 0 |
-| **Weekly** | +4,005 |
+| **Weekly** | +3,674 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-20T09:00:29*  
-*Updated: 2026-08-20T09:00:29*
+*First seen: 2026-08-21T09:02:25*  
+*Updated: 2026-08-21T09:02:25*
