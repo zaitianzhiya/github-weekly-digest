@@ -3,8 +3,8 @@ repo_id: sponsors/AlexsJones
 full_name: sponsors/AlexsJones
 language: Rust
 stars: 0
-weekly_growth: 1545
-daily_growth: 220
+weekly_growth: 1991
+daily_growth: 284
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-20T09:00:35.519009
-last_updated: 2026-08-20T09:00:35.519011
+first_seen: 2026-08-22T08:52:21.248359
+last_updated: 2026-08-22T08:52:21.248360
 html_url: https://github.com/sponsors/AlexsJones
 aliases:
   - sponsors/AlexsJones
@@ -33,7 +33,7 @@ aliases:
 |--------|-------|
 | **Language** | Rust |
 | **Stars** | 0 |
-| **Weekly** | +1,545 |
+| **Weekly** | +1,991 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-20T09:00:35*  
-*Updated: 2026-08-20T09:00:35*
+*First seen: 2026-08-22T08:52:21*  
+*Updated: 2026-08-22T08:52:21*
