@@ -3,8 +3,8 @@ repo_id: sponsors/AprilNEA
 full_name: sponsors/AprilNEA
 language: Rust
 stars: 0
-weekly_growth: 4054
-daily_growth: 579
+weekly_growth: 4993
+daily_growth: 713
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-22T08:52:18.924202
-last_updated: 2026-08-22T08:52:18.924203
+first_seen: 2026-08-23T08:53:07.984283
+last_updated: 2026-08-23T08:53:07.984285
 html_url: https://github.com/sponsors/AprilNEA
 aliases:
   - sponsors/AprilNEA
@@ -32,7 +32,7 @@ aliases:
 |--------|-------|
 | **Language** | Rust |
 | **Stars** | 0 |
-| **Weekly** | +4,054 |
+| **Weekly** | +4,993 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-22T08:52:18*  
-*Updated: 2026-08-22T08:52:18*
+*First seen: 2026-08-23T08:53:07*  
+*Updated: 2026-08-23T08:53:07*
