@@ -2,11 +2,11 @@
 repo_id: jundot/omlx
 full_name: jundot/omlx
 language: Python
-stars: 20489
+stars: 20501
 weekly_growth: 1671
 daily_growth: 238
 forks: 1736
-open_issues: 1098
+open_issues: 1103
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-24T09:08:41.163856
-last_updated: 2026-08-24T09:08:41.163857
+first_seen: 2026-08-24T11:03:54.886226
+last_updated: 2026-08-24T11:03:54.886228
 html_url: https://github.com/jundot/omlx
 aliases:
   - jundot/omlx
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 20,489 |
+| **Stars** | 20,501 |
 | **Weekly** | +1,671 |
 | **Forks** | 1,736 |
-| **Issues** | 1098 |
+| **Issues** | 1103 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-24T09:08:41*  
-*Updated: 2026-08-24T09:08:41*
+*First seen: 2026-08-24T11:03:54*  
+*Updated: 2026-08-24T11:03:54*

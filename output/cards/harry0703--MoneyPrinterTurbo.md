@@ -2,11 +2,11 @@
 repo_id: harry0703/MoneyPrinterTurbo
 full_name: harry0703/MoneyPrinterTurbo
 language: Python
-stars: 115606
+stars: 115660
 weekly_growth: 11167
 daily_growth: 1595
-forks: 17557
-open_issues: 13
+forks: 17568
+open_issues: 15
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-08-24T09:08:37.679584
-last_updated: 2026-08-24T09:08:37.679585
+first_seen: 2026-08-24T11:03:52.112883
+last_updated: 2026-08-24T11:03:52.112885
 html_url: https://github.com/harry0703/MoneyPrinterTurbo
 aliases:
   - harry0703/MoneyPrinterTurbo
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 115,606 |
+| **Stars** | 115,660 |
 | **Weekly** | +11,167 |
-| **Forks** | 17,557 |
-| **Issues** | 13 |
+| **Forks** | 17,568 |
+| **Issues** | 15 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-24T09:08:37*  
-*Updated: 2026-08-24T09:08:37*
+*First seen: 2026-08-24T11:03:52*  
+*Updated: 2026-08-24T11:03:52*

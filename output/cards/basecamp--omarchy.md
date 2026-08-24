@@ -2,20 +2,21 @@
 repo_id: basecamp/omarchy
 full_name: basecamp/omarchy
 language: Shell
-stars: 29539
+stars: 29610
 weekly_growth: 3660
 daily_growth: 522
-forks: 2988
-open_issues: 1381
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 2997
+open_issues: 1390
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - devtools
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-24T09:08:38.219566
-last_updated: 2026-08-24T09:08:38.219568
+first_seen: 2026-08-24T11:03:52.761186
+last_updated: 2026-08-24T11:03:52.761187
 html_url: https://github.com/basecamp/omarchy
 aliases:
   - basecamp/omarchy
@@ -25,19 +26,19 @@ aliases:
 
 > Beautiful, Modern &amp; Opinionated Linux
 
-#github-project #lang-shell #grade-c #devtools
+#github-project #lang-shell #grade-b #devtools
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Shell |
-| **Stars** | 29,539 |
+| **Stars** | 29,610 |
 | **Weekly** | +3,660 |
-| **Forks** | 2,988 |
-| **Issues** | 1381 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 2,997 |
+| **Issues** | 1390 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-24T09:08:38*  
-*Updated: 2026-08-24T09:08:38*
+*First seen: 2026-08-24T11:03:52*  
+*Updated: 2026-08-24T11:03:52*

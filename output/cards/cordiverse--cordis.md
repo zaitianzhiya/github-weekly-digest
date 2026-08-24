@@ -2,20 +2,21 @@
 repo_id: cordiverse/cordis
 full_name: cordiverse/cordis
 language: TypeScript
-stars: 7328
+stars: 7341
 weekly_growth: 2725
 daily_growth: 389
 forks: 428
 open_issues: 49
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - devtools
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-24T09:08:39.248848
-last_updated: 2026-08-24T09:08:39.248850
+first_seen: 2026-08-24T11:03:54.115563
+last_updated: 2026-08-24T11:03:54.115564
 html_url: https://github.com/cordiverse/cordis
 aliases:
   - cordiverse/cordis
@@ -25,19 +26,19 @@ aliases:
 
 > Meta-Framework of Spatiotemporal Composability
 
-#github-project #lang-typescript #grade-c #devtools
+#github-project #lang-typescript #grade-b #devtools
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7,328 |
+| **Stars** | 7,341 |
 | **Weekly** | +2,725 |
 | **Forks** | 428 |
 | **Issues** | 49 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-24T09:08:39*  
-*Updated: 2026-08-24T09:08:39*
+*First seen: 2026-08-24T11:03:54*  
+*Updated: 2026-08-24T11:03:54*

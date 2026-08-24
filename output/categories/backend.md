@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+- [[Tencent--AI-Infra-Guard|Tencent/AI-Infra-Guard]] — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.

@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[superradcompany--microsandbox|superradcompany/microsandbox]] — 🧱 easy fast local-first microVM runtime and library
+- [[Tencent--AI-Infra-Guard|Tencent/AI-Infra-Guard]] — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
