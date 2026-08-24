@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: AI
-total_projects: 7
+total_projects: 5
 ---
 
 # AI
 
-> 7 projects
+> 5 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -17,10 +17,8 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[apache--maka|apache/maka]] — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 - [[volcengine--OpenViking|volcengine/OpenViking]] — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- [[akitaonrails--ai-memory|akitaonrails/ai-memory]] — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-- [[NVIDIA-NeMo--Switchyard|NVIDIA-NeMo/Switchyard]] — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+- [[anthropics--claude-plugins-community|anthropics/claude-plugins-community]] — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 - [[harry0703--MoneyPrinterTurbo|harry0703/MoneyPrinterTurbo]] — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [[jundot--omlx|jundot/omlx]] — LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar
-- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-- [[sponsors--semantica-agi|sponsors/semantica-agi]] — Graph-Native Infrastructure for Context and Accountable AI Systems

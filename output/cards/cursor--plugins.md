@@ -2,11 +2,11 @@
 repo_id: cursor/plugins
 full_name: cursor/plugins
 language: TypeScript
-stars: 4725
-weekly_growth: 1693
-daily_growth: 241
-forks: 385
-open_issues: 54
+stars: 4861
+weekly_growth: 1761
+daily_growth: 251
+forks: 397
+open_issues: 58
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-23T08:53:05.134952
-last_updated: 2026-08-23T08:53:05.134954
+first_seen: 2026-08-24T09:08:42.445379
+last_updated: 2026-08-24T09:08:42.445380
 html_url: https://github.com/cursor/plugins
 aliases:
   - cursor/plugins
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4,725 |
-| **Weekly** | +1,693 |
-| **Forks** | 385 |
-| **Issues** | 54 |
+| **Stars** | 4,861 |
+| **Weekly** | +1,761 |
+| **Forks** | 397 |
+| **Issues** | 58 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-23T08:53:05*  
-*Updated: 2026-08-23T08:53:05*
+*First seen: 2026-08-24T09:08:42*  
+*Updated: 2026-08-24T09:08:42*

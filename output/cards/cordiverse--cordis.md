@@ -2,10 +2,10 @@
 repo_id: cordiverse/cordis
 full_name: cordiverse/cordis
 language: TypeScript
-stars: 7165
-weekly_growth: 3364
-daily_growth: 480
-forks: 418
+stars: 7328
+weekly_growth: 2725
+daily_growth: 389
+forks: 428
 open_issues: 49
 confidence_score: 45
 confidence_grade: C
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-23T08:53:05.595391
-last_updated: 2026-08-23T08:53:05.595392
+first_seen: 2026-08-24T09:08:39.248848
+last_updated: 2026-08-24T09:08:39.248850
 html_url: https://github.com/cordiverse/cordis
 aliases:
   - cordiverse/cordis
@@ -32,9 +32,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 7,165 |
-| **Weekly** | +3,364 |
-| **Forks** | 418 |
+| **Stars** | 7,328 |
+| **Weekly** | +2,725 |
+| **Forks** | 428 |
 | **Issues** | 49 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-23T08:53:05*  
-*Updated: 2026-08-23T08:53:05*
+*First seen: 2026-08-24T09:08:39*  
+*Updated: 2026-08-24T09:08:39*
