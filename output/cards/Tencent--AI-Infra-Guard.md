@@ -2,11 +2,11 @@
 repo_id: Tencent/AI-Infra-Guard
 full_name: Tencent/AI-Infra-Guard
 language: Python
-stars: 5815
-weekly_growth: 1212
-daily_growth: 173
-forks: 539
-open_issues: 25
+stars: 5952
+weekly_growth: 1247
+daily_growth: 178
+forks: 544
+open_issues: 30
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-08-25T09:03:46.329217
-last_updated: 2026-08-25T09:03:46.329218
+first_seen: 2026-08-26T09:06:24.841219
+last_updated: 2026-08-26T09:06:24.841221
 html_url: https://github.com/Tencent/AI-Infra-Guard
 aliases:
   - Tencent/AI-Infra-Guard
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 5,815 |
-| **Weekly** | +1,212 |
-| **Forks** | 539 |
-| **Issues** | 25 |
+| **Stars** | 5,952 |
+| **Weekly** | +1,247 |
+| **Forks** | 544 |
+| **Issues** | 30 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-25T09:03:46*  
-*Updated: 2026-08-25T09:03:46*
+*First seen: 2026-08-26T09:06:24*  
+*Updated: 2026-08-26T09:06:24*

@@ -2,11 +2,11 @@
 repo_id: public-apis/public-apis
 full_name: public-apis/public-apis
 language: Python
-stars: 470093
-weekly_growth: 7069
-daily_growth: 1009
-forks: 51834
-open_issues: 1774
+stars: 470672
+weekly_growth: 6747
+daily_growth: 963
+forks: 51903
+open_issues: 1782
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-25T09:03:42.852111
-last_updated: 2026-08-25T09:03:42.852112
+first_seen: 2026-08-26T09:06:24.303348
+last_updated: 2026-08-26T09:06:24.303350
 html_url: https://github.com/public-apis/public-apis
 aliases:
   - public-apis/public-apis
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 470,093 |
-| **Weekly** | +7,069 |
-| **Forks** | 51,834 |
-| **Issues** | 1774 |
+| **Stars** | 470,672 |
+| **Weekly** | +6,747 |
+| **Forks** | 51,903 |
+| **Issues** | 1782 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-25T09:03:42*  
-*Updated: 2026-08-25T09:03:42*
+*First seen: 2026-08-26T09:06:24*  
+*Updated: 2026-08-26T09:06:24*
