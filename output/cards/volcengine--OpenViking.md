@@ -2,11 +2,11 @@
 repo_id: volcengine/OpenViking
 full_name: volcengine/OpenViking
 language: Python
-stars: 33431
-weekly_growth: 4211
-daily_growth: 601
-forks: 2546
-open_issues: 505
+stars: 33846
+weekly_growth: 3691
+daily_growth: 527
+forks: 2566
+open_issues: 536
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-08-26T09:06:21.689279
-last_updated: 2026-08-26T09:06:21.689281
+first_seen: 2026-08-27T19:09:18.692825
+last_updated: 2026-08-27T19:09:18.692826
 html_url: https://github.com/volcengine/OpenViking
 aliases:
   - volcengine/OpenViking
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 33,431 |
-| **Weekly** | +4,211 |
-| **Forks** | 2,546 |
-| **Issues** | 505 |
+| **Stars** | 33,846 |
+| **Weekly** | +3,691 |
+| **Forks** | 2,566 |
+| **Issues** | 536 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-26T09:06:21*  
-*Updated: 2026-08-26T09:06:21*
+*First seen: 2026-08-27T19:09:18*  
+*Updated: 2026-08-27T19:09:18*

@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [[bookorbit--bookorbit|bookorbit/bookorbit]] — BookOrbit: Your Reading Space
