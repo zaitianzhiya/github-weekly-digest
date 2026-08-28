@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[cathrynlavery--diagram-design|cathrynlavery/diagram-design]] — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [[tt-a1i--archify|tt-a1i/archify]] — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.

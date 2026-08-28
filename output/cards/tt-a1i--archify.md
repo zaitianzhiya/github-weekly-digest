@@ -1,23 +1,25 @@
 ---
 repo_id: tt-a1i/archify
 full_name: tt-a1i/archify
-language: HTML
-stars: 6440
-weekly_growth: 2102
-daily_growth: 300
-forks: 433
-open_issues: 5
+language: JavaScript
+stars: 26917
+weekly_growth: 8530
+daily_growth: 1218
+forks: 1706
+open_issues: 58
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
   - AI
+  - devtools
   - frontend
+  - data
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-07-21T10:35:36.807902
-last_updated: 2026-07-21T10:35:36.807904
+first_seen: 2026-08-28T20:14:39.362403
+last_updated: 2026-08-28T20:14:39.362405
 html_url: https://github.com/tt-a1i/archify
 aliases:
   - tt-a1i/archify
@@ -25,19 +27,19 @@ aliases:
 
 # tt-a1i/archify
 
-> Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+> Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
-#github-project #lang-html #grade-c #ai #frontend #design
+#github-project #lang-javascript #grade-c #ai #devtools #frontend #data #design
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | HTML |
-| **Stars** | 6,440 |
-| **Weekly** | +2,102 |
-| **Forks** | 433 |
-| **Issues** | 5 |
+| **Language** | JavaScript |
+| **Stars** | 26,917 |
+| **Weekly** | +8,530 |
+| **Forks** | 1,706 |
+| **Issues** | 58 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -53,10 +55,12 @@ aliases:
 ## Categories
 
 - [[AI]]
+- [[devtools]]
 - [[frontend]]
+- [[data]]
 - [[design]]
 
 ---
 
-*First seen: 2026-07-21T10:35:36*  
-*Updated: 2026-07-21T10:35:36*
+*First seen: 2026-08-28T20:14:39*  
+*Updated: 2026-08-28T20:14:39*

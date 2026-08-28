@@ -2,11 +2,11 @@
 repo_id: tashfeenahmed/freellmapi
 full_name: tashfeenahmed/freellmapi
 language: TypeScript
-stars: 21000
-weekly_growth: 1700
-daily_growth: 242
-forks: 3012
-open_issues: 63
+stars: 21534
+weekly_growth: 2014
+daily_growth: 287
+forks: 3050
+open_issues: 66
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-08-27T19:09:17.397911
-last_updated: 2026-08-27T19:09:17.397913
+first_seen: 2026-08-28T20:14:40.481895
+last_updated: 2026-08-28T20:14:40.481897
 html_url: https://github.com/tashfeenahmed/freellmapi
 aliases:
   - tashfeenahmed/freellmapi
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 21,000 |
-| **Weekly** | +1,700 |
-| **Forks** | 3,012 |
-| **Issues** | 63 |
+| **Stars** | 21,534 |
+| **Weekly** | +2,014 |
+| **Forks** | 3,050 |
+| **Issues** | 66 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-27T19:09:17*  
-*Updated: 2026-08-27T19:09:17*
+*First seen: 2026-08-28T20:14:40*  
+*Updated: 2026-08-28T20:14:40*

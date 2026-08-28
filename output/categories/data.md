@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[volcengine--OpenViking|volcengine/OpenViking]] — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [[tt-a1i--archify|tt-a1i/archify]] — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
