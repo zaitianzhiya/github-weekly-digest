@@ -2,11 +2,11 @@
 repo_id: bookorbit/bookorbit
 full_name: bookorbit/bookorbit
 language: TypeScript
-stars: 3487
-weekly_growth: 803
-daily_growth: 114
-forks: 211
-open_issues: 300
+stars: 3580
+weekly_growth: 806
+daily_growth: 115
+forks: 213
+open_issues: 307
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-08-28T20:14:44.730534
-last_updated: 2026-08-28T20:14:44.730536
+first_seen: 2026-08-29T13:52:39.323651
+last_updated: 2026-08-29T13:52:39.323653
 html_url: https://github.com/bookorbit/bookorbit
 aliases:
   - bookorbit/bookorbit
@@ -34,10 +34,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 3,487 |
-| **Weekly** | +803 |
-| **Forks** | 211 |
-| **Issues** | 300 |
+| **Stars** | 3,580 |
+| **Weekly** | +806 |
+| **Forks** | 213 |
+| **Issues** | 307 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-28T20:14:44*  
-*Updated: 2026-08-28T20:14:44*
+*First seen: 2026-08-29T13:52:39*  
+*Updated: 2026-08-29T13:52:39*

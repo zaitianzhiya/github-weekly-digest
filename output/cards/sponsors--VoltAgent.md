@@ -3,8 +3,8 @@ repo_id: sponsors/VoltAgent
 full_name: sponsors/VoltAgent
 language: 
 stars: 0
-weekly_growth: 2324
-daily_growth: 332
+weekly_growth: 2372
+daily_growth: 338
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-28T20:14:42.842568
-last_updated: 2026-08-28T20:14:42.842569
+first_seen: 2026-08-29T13:52:37.482315
+last_updated: 2026-08-29T13:52:37.482316
 html_url: https://github.com/sponsors/VoltAgent
 aliases:
   - sponsors/VoltAgent
@@ -34,7 +34,7 @@ aliases:
 |--------|-------|
 | **Language** | ? |
 | **Stars** | 0 |
-| **Weekly** | +2,324 |
+| **Weekly** | +2,372 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-28T20:14:42*  
-*Updated: 2026-08-28T20:14:42*
+*First seen: 2026-08-29T13:52:37*  
+*Updated: 2026-08-29T13:52:37*

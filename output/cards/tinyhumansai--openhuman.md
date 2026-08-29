@@ -2,11 +2,11 @@
 repo_id: tinyhumansai/openhuman
 full_name: tinyhumansai/openhuman
 language: Rust
-stars: 38706
-weekly_growth: 2178
-daily_growth: 311
-forks: 3799
-open_issues: 324
+stars: 38796
+weekly_growth: 2353
+daily_growth: 336
+forks: 3810
+open_issues: 326
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-28T20:14:42.107547
-last_updated: 2026-08-28T20:14:42.107549
+first_seen: 2026-08-29T13:52:36.775657
+last_updated: 2026-08-29T13:52:36.775658
 html_url: https://github.com/tinyhumansai/openhuman
 aliases:
   - tinyhumansai/openhuman
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 38,706 |
-| **Weekly** | +2,178 |
-| **Forks** | 3,799 |
-| **Issues** | 324 |
+| **Stars** | 38,796 |
+| **Weekly** | +2,353 |
+| **Forks** | 3,810 |
+| **Issues** | 326 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-28T20:14:42*  
-*Updated: 2026-08-28T20:14:42*
+*First seen: 2026-08-29T13:52:36*  
+*Updated: 2026-08-29T13:52:36*

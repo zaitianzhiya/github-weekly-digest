@@ -3,8 +3,8 @@ repo_id: sponsors/MadsLorentzen
 full_name: sponsors/MadsLorentzen
 language: Python
 stars: 0
-weekly_growth: 4706
-daily_growth: 672
+weekly_growth: 4828
+daily_growth: 689
 forks: 0
 open_issues: 0
 confidence_score: 45
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-08-28T20:14:41.686504
-last_updated: 2026-08-28T20:14:41.686505
+first_seen: 2026-08-29T13:52:36.321167
+last_updated: 2026-08-29T13:52:36.321168
 html_url: https://github.com/sponsors/MadsLorentzen
 aliases:
   - sponsors/MadsLorentzen
@@ -33,7 +33,7 @@ aliases:
 |--------|-------|
 | **Language** | Python |
 | **Stars** | 0 |
-| **Weekly** | +4,706 |
+| **Weekly** | +4,828 |
 | **Forks** | 0 |
 | **Issues** | 0 |
 | **Confidence** | C (45/100) |
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-28T20:14:41*  
-*Updated: 2026-08-28T20:14:41*
+*First seen: 2026-08-29T13:52:36*  
+*Updated: 2026-08-29T13:52:36*
