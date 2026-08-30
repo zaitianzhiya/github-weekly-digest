@@ -2,11 +2,11 @@
 repo_id: anthropics/claude-plugins-official
 full_name: anthropics/claude-plugins-official
 language: Python
-stars: 35228
-weekly_growth: 1281
-daily_growth: 183
-forks: 3948
-open_issues: 1056
+stars: 35570
+weekly_growth: 1603
+daily_growth: 229
+forks: 3966
+open_issues: 1057
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-29T13:52:37.250219
-last_updated: 2026-08-29T13:52:37.250221
+first_seen: 2026-08-30T13:50:56.049881
+last_updated: 2026-08-30T13:50:56.049883
 html_url: https://github.com/anthropics/claude-plugins-official
 aliases:
   - anthropics/claude-plugins-official
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 35,228 |
-| **Weekly** | +1,281 |
-| **Forks** | 3,948 |
-| **Issues** | 1056 |
+| **Stars** | 35,570 |
+| **Weekly** | +1,603 |
+| **Forks** | 3,966 |
+| **Issues** | 1057 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-29T13:52:37*  
-*Updated: 2026-08-29T13:52:37*
+*First seen: 2026-08-30T13:50:56*  
+*Updated: 2026-08-30T13:50:56*

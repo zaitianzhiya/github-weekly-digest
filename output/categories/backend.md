@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Tencent--AI-Infra-Guard|Tencent/AI-Infra-Guard]] — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+- [[K-Dense-AI--scientific-agent-skills|K-Dense-AI/scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.

@@ -2,11 +2,11 @@
 repo_id: Alishahryar1/free-claude-code
 full_name: Alishahryar1/free-claude-code
 language: Python
-stars: 51320
-weekly_growth: 4769
-daily_growth: 681
-forks: 8266
-open_issues: 361
+stars: 51779
+weekly_growth: 4942
+daily_growth: 706
+forks: 8327
+open_issues: 363
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-29T13:52:38.552697
-last_updated: 2026-08-29T13:52:38.552699
+first_seen: 2026-08-30T13:50:59.666102
+last_updated: 2026-08-30T13:50:59.666104
 html_url: https://github.com/Alishahryar1/free-claude-code
 aliases:
   - Alishahryar1/free-claude-code
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 51,320 |
-| **Weekly** | +4,769 |
-| **Forks** | 8,266 |
-| **Issues** | 361 |
+| **Stars** | 51,779 |
+| **Weekly** | +4,942 |
+| **Forks** | 8,327 |
+| **Issues** | 363 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-29T13:52:38*  
-*Updated: 2026-08-29T13:52:38*
+*First seen: 2026-08-30T13:50:59*  
+*Updated: 2026-08-30T13:50:59*

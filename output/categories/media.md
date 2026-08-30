@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: media
-total_projects: 2
+total_projects: 3
 ---
 
 # media
 
-> 2 projects
+> 3 projects
 
 ```dataview
 TABLE language, stargazers_count, confidence_grade
@@ -18,4 +18,5 @@ SORT confidence_score DESC
 ## Projects
 
 - [[freestylefly--awesome-gpt-image-2|freestylefly/awesome-gpt-image-2]] — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [[bookorbit--bookorbit|bookorbit/bookorbit]] — BookOrbit: Your Reading Space
+- [[ConardLi--garden-skills|ConardLi/garden-skills]] — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+- [[sponsors--abi|sponsors/abi]] — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
