@@ -2,20 +2,21 @@
 repo_id: tinyhumansai/openhuman
 full_name: tinyhumansai/openhuman
 language: Rust
-stars: 39161
+stars: 39174
 weekly_growth: 2526
 daily_growth: 360
-forks: 3849
-open_issues: 334
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+forks: 3851
+open_issues: 336
+confidence_score: 65
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-31T16:13:43.575273
-last_updated: 2026-08-31T16:13:43.575275
+first_seen: 2026-08-31T17:41:54.381866
+last_updated: 2026-08-31T17:41:54.381868
 html_url: https://github.com/tinyhumansai/openhuman
 aliases:
   - tinyhumansai/openhuman
@@ -25,19 +26,19 @@ aliases:
 
 > Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 
-#github-project #lang-rust #grade-c #ai
+#github-project #lang-rust #grade-b #ai
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 39,161 |
+| **Stars** | 39,174 |
 | **Weekly** | +2,526 |
-| **Forks** | 3,849 |
-| **Issues** | 334 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Forks** | 3,851 |
+| **Issues** | 336 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:43*  
-*Updated: 2026-08-31T16:13:43*
+*First seen: 2026-08-31T17:41:54*  
+*Updated: 2026-08-31T17:41:54*

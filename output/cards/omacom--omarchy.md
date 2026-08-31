@@ -2,11 +2,11 @@
 repo_id: omacom/omarchy
 full_name: omacom/omarchy
 language: Shell
-stars: 35975
+stars: 36018
 weekly_growth: 6692
 daily_growth: 956
-forks: 3719
-open_issues: 2416
+forks: 3722
+open_issues: 2432
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T16:13:33.123840
-last_updated: 2026-08-31T16:13:33.123841
+first_seen: 2026-08-31T17:41:46.753666
+last_updated: 2026-08-31T17:41:46.753668
 html_url: https://github.com/omacom/omarchy
 aliases:
   - omacom/omarchy
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Shell |
-| **Stars** | 35,975 |
+| **Stars** | 36,018 |
 | **Weekly** | +6,692 |
-| **Forks** | 3,719 |
-| **Issues** | 2416 |
+| **Forks** | 3,722 |
+| **Issues** | 2432 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:33*  
-*Updated: 2026-08-31T16:13:33*
+*First seen: 2026-08-31T17:41:46*  
+*Updated: 2026-08-31T17:41:46*

@@ -2,11 +2,11 @@
 repo_id: apache/maka
 full_name: apache/maka
 language: TypeScript
-stars: 4296
+stars: 4303
 weekly_growth: 1973
 daily_growth: 281
 forks: 404
-open_issues: 370
+open_issues: 369
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T16:13:35.447822
-last_updated: 2026-08-31T16:13:35.447824
+first_seen: 2026-08-31T17:41:48.353439
+last_updated: 2026-08-31T17:41:48.353440
 html_url: https://github.com/apache/maka
 aliases:
   - apache/maka
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 4,296 |
+| **Stars** | 4,303 |
 | **Weekly** | +1,973 |
 | **Forks** | 404 |
-| **Issues** | 370 |
+| **Issues** | 369 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:35*  
-*Updated: 2026-08-31T16:13:35*
+*First seen: 2026-08-31T17:41:48*  
+*Updated: 2026-08-31T17:41:48*

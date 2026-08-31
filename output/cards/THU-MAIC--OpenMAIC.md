@@ -2,11 +2,11 @@
 repo_id: THU-MAIC/OpenMAIC
 full_name: THU-MAIC/OpenMAIC
 language: TypeScript
-stars: 26356
+stars: 26510
 weekly_growth: 2085
 daily_growth: 297
-forks: 4698
-open_issues: 232
+forks: 4713
+open_issues: 234
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T16:13:34.021890
-last_updated: 2026-08-31T16:13:34.021892
+first_seen: 2026-08-31T17:41:47.286678
+last_updated: 2026-08-31T17:41:47.286680
 html_url: https://github.com/THU-MAIC/OpenMAIC
 aliases:
   - THU-MAIC/OpenMAIC
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 26,356 |
+| **Stars** | 26,510 |
 | **Weekly** | +2,085 |
-| **Forks** | 4,698 |
-| **Issues** | 232 |
+| **Forks** | 4,713 |
+| **Issues** | 234 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:34*  
-*Updated: 2026-08-31T16:13:34*
+*First seen: 2026-08-31T17:41:47*  
+*Updated: 2026-08-31T17:41:47*

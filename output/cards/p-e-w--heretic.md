@@ -2,10 +2,10 @@
 repo_id: p-e-w/heretic
 full_name: p-e-w/heretic
 language: Python
-stars: 29503
+stars: 29522
 weekly_growth: 992
 daily_growth: 141
-forks: 3234
+forks: 3237
 open_issues: 81
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - backend
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T16:13:44.275228
-last_updated: 2026-08-31T16:13:44.275229
+first_seen: 2026-08-31T17:41:54.884193
+last_updated: 2026-08-31T17:41:54.884195
 html_url: https://github.com/p-e-w/heretic
 aliases:
   - p-e-w/heretic
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 29,503 |
+| **Stars** | 29,522 |
 | **Weekly** | +992 |
-| **Forks** | 3,234 |
+| **Forks** | 3,237 |
 | **Issues** | 81 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:44*  
-*Updated: 2026-08-31T16:13:44*
+*First seen: 2026-08-31T17:41:54*  
+*Updated: 2026-08-31T17:41:54*

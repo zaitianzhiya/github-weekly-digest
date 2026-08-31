@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T16:13:41.389148
-last_updated: 2026-08-31T16:13:41.389150
+first_seen: 2026-08-31T17:41:52.734856
+last_updated: 2026-08-31T17:41:52.734858
 html_url: https://github.com/google/googletest
 aliases:
   - google/googletest
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T16:13:41*  
-*Updated: 2026-08-31T16:13:41*
+*First seen: 2026-08-31T17:41:52*  
+*Updated: 2026-08-31T17:41:52*
