@@ -2,11 +2,11 @@
 repo_id: ConardLi/garden-skills
 full_name: ConardLi/garden-skills
 language: CSS
-stars: 11720
-weekly_growth: 1154
-daily_growth: 164
-forks: 1452
-open_issues: 16
+stars: 11888
+weekly_growth: 1222
+daily_growth: 174
+forks: 1459
+open_issues: 18
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-30T13:50:58.604029
-last_updated: 2026-08-30T13:50:58.604030
+first_seen: 2026-08-31T16:13:40.563043
+last_updated: 2026-08-31T16:13:40.563044
 html_url: https://github.com/ConardLi/garden-skills
 aliases:
   - ConardLi/garden-skills
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | CSS |
-| **Stars** | 11,720 |
-| **Weekly** | +1,154 |
-| **Forks** | 1,452 |
-| **Issues** | 16 |
+| **Stars** | 11,888 |
+| **Weekly** | +1,222 |
+| **Forks** | 1,459 |
+| **Issues** | 18 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-30T13:50:58*  
-*Updated: 2026-08-30T13:50:58*
+*First seen: 2026-08-31T16:13:40*  
+*Updated: 2026-08-31T16:13:40*

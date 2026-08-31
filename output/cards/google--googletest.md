@@ -2,19 +2,19 @@
 repo_id: google/googletest
 full_name: google/googletest
 language: C++
-stars: 39367
-weekly_growth: 335
-daily_growth: 47
-forks: 10881
-open_issues: 495
+stars: 39403
+weekly_growth: 441
+daily_growth: 63
+forks: 10884
+open_issues: 496
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-08-30T13:50:59.197642
-last_updated: 2026-08-30T13:50:59.197644
+first_seen: 2026-08-31T16:13:41.389148
+last_updated: 2026-08-31T16:13:41.389150
 html_url: https://github.com/google/googletest
 aliases:
   - google/googletest
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C++ |
-| **Stars** | 39,367 |
-| **Weekly** | +335 |
-| **Forks** | 10,881 |
-| **Issues** | 495 |
+| **Stars** | 39,403 |
+| **Weekly** | +441 |
+| **Forks** | 10,884 |
+| **Issues** | 496 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-30T13:50:59*  
-*Updated: 2026-08-30T13:50:59*
+*First seen: 2026-08-31T16:13:41*  
+*Updated: 2026-08-31T16:13:41*
