@@ -2,23 +2,22 @@
 repo_id: tashfeenahmed/freellmapi
 full_name: tashfeenahmed/freellmapi
 language: TypeScript
-stars: 23276
-weekly_growth: 3037
-daily_growth: 433
-forks: 3194
-open_issues: 88
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+stars: 23503
+weekly_growth: 3640
+daily_growth: 520
+forks: 3219
+open_issues: 83
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
 categories:
   - AI
   - devtools
   - security
 sources:
-  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-08-31T17:41:49.543151
-last_updated: 2026-08-31T17:41:49.543153
+first_seen: 2026-09-01T13:33:04.589538
+last_updated: 2026-09-01T13:33:04.589539
 html_url: https://github.com/tashfeenahmed/freellmapi
 aliases:
   - tashfeenahmed/freellmapi
@@ -28,19 +27,19 @@ aliases:
 
 > 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
-#github-project #lang-typescript #grade-b #ai #devtools #security
+#github-project #lang-typescript #grade-c #ai #devtools #security
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 23,276 |
-| **Weekly** | +3,037 |
-| **Forks** | 3,194 |
-| **Issues** | 88 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Stars** | 23,503 |
+| **Weekly** | +3,640 |
+| **Forks** | 3,219 |
+| **Issues** | 83 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -50,7 +49,6 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
-- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -60,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T17:41:49*  
-*Updated: 2026-08-31T17:41:49*
+*First seen: 2026-09-01T13:33:04*  
+*Updated: 2026-09-01T13:33:04*

@@ -2,11 +2,11 @@
 repo_id: tt-a1i/archify
 full_name: tt-a1i/archify
 language: JavaScript
-stars: 37894
-weekly_growth: 18103
-daily_growth: 2586
-forks: 2438
-open_issues: 88
+stars: 41028
+weekly_growth: 22095
+daily_growth: 3156
+forks: 2604
+open_issues: 89
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -18,8 +18,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-08-31T17:41:44.989128
-last_updated: 2026-08-31T17:41:44.989131
+first_seen: 2026-09-01T13:33:01.930867
+last_updated: 2026-09-01T13:33:01.930868
 html_url: https://github.com/tt-a1i/archify
 aliases:
   - tt-a1i/archify
@@ -36,10 +36,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 37,894 |
-| **Weekly** | +18,103 |
-| **Forks** | 2,438 |
-| **Issues** | 88 |
+| **Stars** | 41,028 |
+| **Weekly** | +22,095 |
+| **Forks** | 2,604 |
+| **Issues** | 89 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -62,5 +62,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-31T17:41:44*  
-*Updated: 2026-08-31T17:41:44*
+*First seen: 2026-09-01T13:33:01*  
+*Updated: 2026-09-01T13:33:01*
