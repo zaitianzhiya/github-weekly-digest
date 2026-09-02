@@ -18,5 +18,5 @@ SORT confidence_score DESC
 ## Projects
 
 - [[freestylefly--awesome-gpt-image-2|freestylefly/awesome-gpt-image-2]] — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [[ConardLi--garden-skills|ConardLi/garden-skills]] — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 - [[sponsors--abi|sponsors/abi]] — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [[sponsors--calesthio|sponsors/calesthio]] — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
