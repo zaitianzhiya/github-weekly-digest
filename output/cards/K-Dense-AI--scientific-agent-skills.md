@@ -2,11 +2,11 @@
 repo_id: K-Dense-AI/scientific-agent-skills
 full_name: K-Dense-AI/scientific-agent-skills
 language: Python
-stars: 41985
-weekly_growth: 6962
-daily_growth: 994
-forks: 3862
-open_issues: 31
+stars: 42286
+weekly_growth: 7558
+daily_growth: 1079
+forks: 3879
+open_issues: 32
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -17,8 +17,8 @@ categories:
   - data
 sources:
   - GitHub Trending
-first_seen: 2026-09-02T12:50:05.901487
-last_updated: 2026-09-02T12:50:05.901489
+first_seen: 2026-09-03T12:53:14.917372
+last_updated: 2026-09-03T12:53:14.917374
 html_url: https://github.com/K-Dense-AI/scientific-agent-skills
 aliases:
   - K-Dense-AI/scientific-agent-skills
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 41,985 |
-| **Weekly** | +6,962 |
-| **Forks** | 3,862 |
-| **Issues** | 31 |
+| **Stars** | 42,286 |
+| **Weekly** | +7,558 |
+| **Forks** | 3,879 |
+| **Issues** | 32 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-02T12:50:05*  
-*Updated: 2026-09-02T12:50:05*
+*First seen: 2026-09-03T12:53:14*  
+*Updated: 2026-09-03T12:53:14*

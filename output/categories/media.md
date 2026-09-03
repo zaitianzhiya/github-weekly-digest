@@ -17,6 +17,6 @@ SORT confidence_score DESC
 
 ## Projects
 
+- [[debpalash--VoiceStudio|debpalash/VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
 - [[freestylefly--awesome-gpt-image-2|freestylefly/awesome-gpt-image-2]] — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [[sponsors--abi|sponsors/abi]] — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [[sponsors--calesthio|sponsors/calesthio]] — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.

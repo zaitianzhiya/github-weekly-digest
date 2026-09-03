@@ -2,19 +2,19 @@
 repo_id: google-research/timesfm
 full_name: google-research/timesfm
 language: Python
-stars: 28997
-weekly_growth: 681
-daily_growth: 97
-forks: 2823
-open_issues: 228
+stars: 30558
+weekly_growth: 787
+daily_growth: 112
+forks: 2915
+open_issues: 237
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-09-02T12:50:16.035902
-last_updated: 2026-09-02T12:50:16.035903
+first_seen: 2026-09-03T12:53:16.771526
+last_updated: 2026-09-03T12:53:16.771528
 html_url: https://github.com/google-research/timesfm
 aliases:
   - google-research/timesfm
@@ -31,10 +31,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 28,997 |
-| **Weekly** | +681 |
-| **Forks** | 2,823 |
-| **Issues** | 228 |
+| **Stars** | 30,558 |
+| **Weekly** | +787 |
+| **Forks** | 2,915 |
+| **Issues** | 237 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-02T12:50:16*  
-*Updated: 2026-09-02T12:50:16*
+*First seen: 2026-09-03T12:53:16*  
+*Updated: 2026-09-03T12:53:16*

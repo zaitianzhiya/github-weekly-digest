@@ -2,11 +2,11 @@
 repo_id: punkpeye/awesome-mcp-servers
 full_name: punkpeye/awesome-mcp-servers
 language: 
-stars: 93794
-weekly_growth: 919
-daily_growth: 131
-forks: 15472
-open_issues: 3703
+stars: 93942
+weekly_growth: 1017
+daily_growth: 145
+forks: 15551
+open_issues: 3795
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-09-02T12:50:14.722933
-last_updated: 2026-09-02T12:50:14.722934
+first_seen: 2026-09-03T12:53:19.963891
+last_updated: 2026-09-03T12:53:19.963893
 html_url: https://github.com/punkpeye/awesome-mcp-servers
 aliases:
   - punkpeye/awesome-mcp-servers
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | ? |
-| **Stars** | 93,794 |
-| **Weekly** | +919 |
-| **Forks** | 15,472 |
-| **Issues** | 3703 |
+| **Stars** | 93,942 |
+| **Weekly** | +1,017 |
+| **Forks** | 15,551 |
+| **Issues** | 3795 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-02T12:50:14*  
-*Updated: 2026-09-02T12:50:14*
+*First seen: 2026-09-03T12:53:19*  
+*Updated: 2026-09-03T12:53:19*

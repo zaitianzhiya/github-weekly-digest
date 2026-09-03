@@ -2,10 +2,10 @@
 repo_id: freestylefly/awesome-gpt-image-2
 full_name: freestylefly/awesome-gpt-image-2
 language: JavaScript
-stars: 27258
-weekly_growth: 10669
-daily_growth: 1524
-forks: 2644
+stars: 27650
+weekly_growth: 7006
+daily_growth: 1000
+forks: 2672
 open_issues: 23
 confidence_score: 45
 confidence_grade: C
@@ -16,8 +16,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-09-02T12:50:04.302154
-last_updated: 2026-09-02T12:50:04.302156
+first_seen: 2026-09-03T12:53:17.581768
+last_updated: 2026-09-03T12:53:17.581770
 html_url: https://github.com/freestylefly/awesome-gpt-image-2
 aliases:
   - freestylefly/awesome-gpt-image-2
@@ -34,9 +34,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 27,258 |
-| **Weekly** | +10,669 |
-| **Forks** | 2,644 |
+| **Stars** | 27,650 |
+| **Weekly** | +7,006 |
+| **Forks** | 2,672 |
 | **Issues** | 23 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-02T12:50:04*  
-*Updated: 2026-09-02T12:50:04*
+*First seen: 2026-09-03T12:53:17*  
+*Updated: 2026-09-03T12:53:17*
