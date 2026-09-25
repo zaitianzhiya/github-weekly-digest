@@ -2,7 +2,7 @@
 repo_id: anthropics/financial-services
 full_name: anthropics/financial-services
 language: Python
-stars: 37396
+stars: 37424
 weekly_growth: 2382
 daily_growth: 340
 forks: 5422
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T04:10:50.647877
-last_updated: 2026-09-25T04:10:50.647878
+first_seen: 2026-09-25T06:11:02.101563
+last_updated: 2026-09-25T06:11:02.101564
 html_url: https://github.com/anthropics/financial-services
 aliases:
   - anthropics/financial-services
@@ -31,7 +31,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 37,396 |
+| **Stars** | 37,424 |
 | **Weekly** | +2,382 |
 | **Forks** | 5,422 |
 | **Issues** | 222 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T04:10:50*  
-*Updated: 2026-09-25T04:10:50*
+*First seen: 2026-09-25T06:11:02*  
+*Updated: 2026-09-25T06:11:02*

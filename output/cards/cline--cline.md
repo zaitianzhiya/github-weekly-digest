@@ -2,11 +2,11 @@
 repo_id: cline/cline
 full_name: cline/cline
 language: TypeScript
-stars: 69262
+stars: 69270
 weekly_growth: 855
 daily_growth: 122
 forks: 7515
-open_issues: 1446
+open_issues: 1448
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T04:10:57.544157
-last_updated: 2026-09-25T04:10:57.544158
+first_seen: 2026-09-25T06:11:10.009345
+last_updated: 2026-09-25T06:11:10.009347
 html_url: https://github.com/cline/cline
 aliases:
   - cline/cline
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 69,262 |
+| **Stars** | 69,270 |
 | **Weekly** | +855 |
 | **Forks** | 7,515 |
-| **Issues** | 1446 |
+| **Issues** | 1448 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T04:10:57*  
-*Updated: 2026-09-25T04:10:57*
+*First seen: 2026-09-25T06:11:10*  
+*Updated: 2026-09-25T06:11:10*
