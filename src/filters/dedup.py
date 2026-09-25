@@ -1,6 +1,7 @@
 """Dedup module: in-memory + JSON file persistence."""
 
 import os
+import re
 import json
 from datetime import datetime
 from pathlib import Path
@@ -18,8 +19,8 @@ class Deduplicator:
             self.data_dir = Path("data")
         self.data_dir.mkdir(parents=True, exist_ok=True)
         self.state_file = self.data_dir / "dedup_state.json"
-        week_override = os.environ.get("REPORT_WEEK")
-        if week_override:
+        week_override = os.environ.get("REPORT_WEEK", "")
+        if week_override and re.fullmatch(r"\d{4}-W\d{2}", week_override):
             self.state_file = self.data_dir / f"dedup_state_{week_override}.json"
 
         self.state = self._load_state()
@@ -27,20 +28,33 @@ class Deduplicator:
     def _load_state(self):
         if self.state_file.exists():
             try:
-                return json.loads(self.state_file.read_text(encoding="utf-8"))
-            except (json.JSONDecodeError, IOError):
-                pass
+                data = json.loads(self.state_file.read_text(encoding="utf-8"))
+                if isinstance(data, dict) and isinstance(data.get("repos"), dict):
+                    return data
+                raise ValueError("unexpected schema")
+            except (json.JSONDecodeError, IOError, ValueError):
+                backup = self.state_file.with_name(
+                    f"{self.state_file.name}.corrupt-{int(datetime.now().timestamp())}"
+                )
+                try:
+                    self.state_file.replace(backup)
+                    print(f"[Dedup] Corrupt state file backed up to {backup.name}")
+                except OSError:
+                    pass
         return {"repos": {}}
 
-    def _save_state(self):
-        self.state_file.write_text(
+    def save(self):
+        """Persist state atomically (tmp file + os.replace)."""
+        tmp = self.state_file.with_suffix(".json.tmp")
+        tmp.write_text(
             json.dumps(self.state, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
+        os.replace(tmp, self.state_file)
 
     def deduplicate(self, records):
         now = datetime.utcnow()
-        current_week = now.strftime("%Y-W%V")
+        current_week = now.strftime("%G-W%V")
         new_records = []
         already_seen = 0
 
@@ -62,12 +76,11 @@ class Deduplicator:
                 }
                 new_records.append(record)
 
-        self._save_state()
         return new_records, already_seen
 
     def get_stats(self):
         now = datetime.utcnow()
-        current_week = now.strftime("%Y-W%V")
+        current_week = now.strftime("%G-W%V")
         total = len(self.state["repos"])
         new_this_week = sum(
             1

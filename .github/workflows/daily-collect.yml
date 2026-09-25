@@ -4,7 +4,7 @@ on:
     - cron: '23 8 * * *'
   workflow_dispatch:
 concurrency:
-  group: daily-digest
+  group: weekly-digest
   cancel-in-progress: false
 jobs:
   collect:
@@ -28,6 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add -f output/
+          git add -f output/ data/
           git diff --cached --quiet || git commit -m "Daily: $(date +%Y-%m-%d)"
+          git pull --rebase origin main 2>/dev/null || echo "(first push)"
           git push

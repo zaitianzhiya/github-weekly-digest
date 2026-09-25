@@ -15,7 +15,7 @@ class FeedbackLoader:
     def get_recent_feedback(self, weeks=4):
         """Get feedback from the last N weeks."""
         now = datetime.utcnow()
-        current_week = now.strftime("%Y-W%V")
+        current_week = now.strftime("%G-W%V")
         results = []
         for _ in range(weeks):
             fpath = self.feedback_dir / f"{current_week}.md"

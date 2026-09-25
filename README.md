@@ -11,7 +11,7 @@
 
 1. Fork 或克隆本仓库
 2. 在 Settings → Secrets and variables → Actions 中添加：
-   - `GITHUB_TOKEN`：用于 API 速率限制（自动创建 PAT 即可）
+   - `GH_TOKEN`：用于 API 速率限制（自动创建 PAT 即可）
    - `GEMINI_API_KEY`：从 https://aistudio.google.com/apikey 获取
 3. 启用 Actions（Settings → Actions → Allow all）
 4. 手动触发一次 `Daily Collection` workflow 验证

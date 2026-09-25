@@ -22,20 +22,24 @@ class Scorer:
 
     def _compute_confidence(self, record: RepoRecord):
         """计算可信度评分"""
-        score = 0
+        score = 0.0
         seen_ecosystems = set()
+        tier2_acc = 0.0
+        tier1_bonus = self.confidence_cfg.get("tier1_bonus", 40)
+        per_citation = self.confidence_cfg.get("tier2_per_citation", 15)
+        max_tier2 = self.confidence_cfg.get("tier2_max", 45)
 
         for citation in record.citations:
-            source_key = citation.source_key
+            eco_weight = self.ecosystems.get(citation.ecosystem, {}).get("independence_weight", 1.0)
 
             if citation.tier == 1:
-                # Tier 1 原始来源基础分
-                score += self.confidence_cfg.get("tier1_bonus", 40)
+                # Tier 1 原始来源基础分（按生态独立性加权）
+                score += tier1_bonus * eco_weight
             else:
-                # Tier 2 每个引用 +15（上限 45）
-                per_citation = self.confidence_cfg.get("tier2_per_citation", 15)
-                max_tier2 = self.confidence_cfg.get("tier2_max", 45)
-                score += per_citation
+                # Tier 2 每个引用 +15（按生态加权，累计上限 max_tier2）
+                add = per_citation * eco_weight
+                score += min(add, max(0.0, max_tier2 - tier2_acc))
+                tier2_acc += add
 
             # 跨生态加分
             if citation.ecosystem not in seen_ecosystems:
@@ -49,9 +53,9 @@ class Scorer:
 
         # 计算等级
         grades = self.confidence_cfg.get("grades", {})
+        defaults = {"A": 80, "B": 60, "C": 40, "D": 0}
         for grade in ["A", "B", "C", "D"]:
-            cfg = grades.get(grade, {})
-            if score >= cfg.get("min", 0):
+            if score >= grades.get(grade, {}).get("min", defaults[grade]):
                 record.confidence_score = min(score, 100)
                 record.confidence_grade = grade
                 break

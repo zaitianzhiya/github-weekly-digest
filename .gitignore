@@ -10,3 +10,4 @@ output/*
 !output/.gitkeep
 verify_phase2.py
 verify_phase3.py
+data/*.json-journal

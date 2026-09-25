@@ -72,7 +72,7 @@ class GitHubTrendingCollector(BaseCollector):
             m = re.search(r'href="/([^/"]+)/([^/"]+)"', section)
             if not m: continue
             owner, name = m.groups()
-            if name in ("trending","explore","sponsors"): continue
+            if owner == "sponsors" or name in ("trending","explore","sponsors"): continue
             fn = f"{owner}/{name}"
             dm = re.search(r'<p\s+class="[^"]*col-9[^"]*"[^>]*>(.*?)</p>', section, re.DOTALL)
             desc = re.sub(r'<[^>]+>','', dm.group(1).strip()) if dm else ""

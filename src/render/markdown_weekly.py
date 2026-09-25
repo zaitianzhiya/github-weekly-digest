@@ -1,7 +1,7 @@
 """Markdown renderer - weekly report, project cards, category index."""
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from src.collectors.base import RepoRecord
 
@@ -32,10 +32,20 @@ class MarkdownRenderer:
             desc = desc[:maxlen-3] + "..."
         return desc or "-"
 
-    def render_weekly_report(self, records, daily_summary="", deep_analysis="", stats=None):
+    @staticmethod
+    def _week_range(week_str: str) -> str:
+        try:
+            iso_year, iso_week = (int(x) for x in week_str.split("-W"))
+            monday = datetime.fromisocalendar(iso_year, iso_week, 1)
+            sunday = monday + timedelta(days=6)
+            return f"{monday.strftime('%Y-%m-%d')} ~ {sunday.strftime('%Y-%m-%d')}"
+        except ValueError:
+            return week_str
+
+    def render_weekly_report(self, records, daily_summary="", deep_analysis="", stats=None, output_path=None):
         now = datetime.utcnow()
-        week_str = os.environ.get("REPORT_WEEK") or now.strftime("%Y-W%V")
-        week_start = now.strftime("%Y.%m.%d")
+        week_str = os.environ.get("REPORT_WEEK") or now.strftime("%G-W%V")
+        week_start = self._week_range(week_str)
 
         lines = [
             "---",
@@ -132,9 +142,14 @@ class MarkdownRenderer:
         ])
 
         content = "\n".join(lines)
-        week_dir = self.output_dir / "weekly" / now.strftime("%Y")
-        week_dir.mkdir(parents=True, exist_ok=True)
-        (week_dir / f"{week_str}.md").write_text(content, encoding="utf-8")
+        if output_path:
+            out = self.output_dir / output_path
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_text(content, encoding="utf-8")
+        else:
+            week_dir = self.output_dir / "weekly" / week_str.split("-")[0]
+            week_dir.mkdir(parents=True, exist_ok=True)
+            (week_dir / f"{week_str}.md").write_text(content, encoding="utf-8")
         return content
 
     def render_card(self, record):
@@ -229,8 +244,8 @@ class MarkdownRenderer:
                 f"> {len(crecs)} projects",
                 "",
                 "```dataview",
-                "TABLE language, stargazers_count, confidence_grade",
-                'FROM "10 - GitHub Trending/项目卡片"',
+                "TABLE language, stars, confidence_grade",
+                'FROM "output/cards"',
                 f'WHERE contains(categories, "{cat}")',
                 "SORT confidence_score DESC",
                 "```",

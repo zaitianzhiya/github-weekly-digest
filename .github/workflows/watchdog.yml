@@ -5,20 +5,23 @@ name: Watchdog (防漏发)
 
 on:
   schedule:
-    - cron: '43 11 * * 1'     # 周一 UTC 11:43
-    - cron: '43 13 * * 1'     # 周一 UTC 13:43
-    - cron: '43 15 * * 1'     # 周一 UTC 15:43
+    - cron: '37 12 * * 1'
+    - cron: '37 16 * * 1'
+    - cron: '37 2 * * 2'
 
 jobs:
   check:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
     steps:
       - uses: actions/checkout@v4
 
       - name: Check if weekly report already exists for this week
         id: check
         run: |
-          WEEK=$(date +%Y-W%V)
+          WEEK=$(date +%G-W%V)
           if ls output/weekly/${WEEK:0:4}/${WEEK}.md 2>/dev/null; then
             echo "exists=true" >> $GITHUB_OUTPUT
             echo "Weekly report already published for $WEEK, skipping."
@@ -28,10 +31,10 @@ jobs:
           fi
 
       - name: Trigger weekly publish
-        if: steps.check.outputs.exists == 'true'
+        if: steps.check.outputs.exists == 'false'
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GH_TOKEN }}
           script: |
             await github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
