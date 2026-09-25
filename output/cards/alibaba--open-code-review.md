@@ -2,23 +2,22 @@
 repo_id: alibaba/open-code-review
 full_name: alibaba/open-code-review
 language: Go
-stars: 40938
+stars: 41137
 weekly_growth: 6920
 daily_growth: 988
-forks: 2943
+forks: 2957
 open_issues: 217
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+confidence_score: 45
+confidence_grade: C
+citation_count: 1
 categories:
   - AI
   - infra
   - data
 sources:
   - GitHub Trending
-  - OpenGithubs 周榜
-first_seen: 2026-09-25T06:11:02.622353
-last_updated: 2026-09-25T06:11:02.622355
+first_seen: 2026-09-25T13:56:18.100638
+last_updated: 2026-09-25T13:56:18.100640
 html_url: https://github.com/alibaba/open-code-review
 aliases:
   - alibaba/open-code-review
@@ -28,19 +27,19 @@ aliases:
 
 > Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
 
-#github-project #lang-go #grade-b #ai #infra #data
+#github-project #lang-go #grade-c #ai #infra #data
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Go |
-| **Stars** | 40,938 |
+| **Stars** | 41,137 |
 | **Weekly** | +6,920 |
-| **Forks** | 2,943 |
+| **Forks** | 2,957 |
 | **Issues** | 217 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Confidence** | C (45/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -50,7 +49,6 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
-- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -60,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T06:11:02*  
-*Updated: 2026-09-25T06:11:02*
+*First seen: 2026-09-25T13:56:18*  
+*Updated: 2026-09-25T13:56:18*
