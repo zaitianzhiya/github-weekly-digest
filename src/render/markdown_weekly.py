@@ -1,5 +1,6 @@
 """Markdown renderer - weekly report, project cards, category index."""
 
+import os
 from datetime import datetime
 from pathlib import Path
 from src.collectors.base import RepoRecord
@@ -33,7 +34,7 @@ class MarkdownRenderer:
 
     def render_weekly_report(self, records, daily_summary="", deep_analysis="", stats=None):
         now = datetime.utcnow()
-        week_str = now.strftime("%Y-W%V")
+        week_str = os.environ.get("REPORT_WEEK") or now.strftime("%Y-W%V")
         week_start = now.strftime("%Y.%m.%d")
 
         lines = [
