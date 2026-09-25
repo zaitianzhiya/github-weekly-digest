@@ -2,11 +2,11 @@
 repo_id: akitaonrails/ai-memory
 full_name: akitaonrails/ai-memory
 language: Rust
-stars: 4723
-weekly_growth: 2073
-daily_growth: 296
-forks: 337
-open_issues: 7
+stars: 8345
+weekly_growth: 1243
+daily_growth: 177
+forks: 565
+open_issues: 21
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-08-26T09:06:23.264362
-last_updated: 2026-08-26T09:06:23.264364
+first_seen: 2026-09-25T00:09:59.060865
+last_updated: 2026-09-25T00:09:59.060867
 html_url: https://github.com/akitaonrails/ai-memory
 aliases:
   - akitaonrails/ai-memory
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 4,723 |
-| **Weekly** | +2,073 |
-| **Forks** | 337 |
-| **Issues** | 7 |
+| **Stars** | 8,345 |
+| **Weekly** | +1,243 |
+| **Forks** | 565 |
+| **Issues** | 21 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-26T09:06:23*  
-*Updated: 2026-08-26T09:06:23*
+*First seen: 2026-09-25T00:09:59*  
+*Updated: 2026-09-25T00:09:59*
