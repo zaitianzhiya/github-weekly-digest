@@ -2,11 +2,11 @@
 repo_id: Fission-AI/OpenSpec
 full_name: Fission-AI/OpenSpec
 language: TypeScript
-stars: 70231
+stars: 70236
 weekly_growth: 1415
 daily_growth: 202
 forks: 4803
-open_issues: 222
+open_issues: 224
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T00:09:58.586674
-last_updated: 2026-09-25T00:09:58.586676
+first_seen: 2026-09-25T02:10:23.128442
+last_updated: 2026-09-25T02:10:23.128443
 html_url: https://github.com/Fission-AI/OpenSpec
 aliases:
   - Fission-AI/OpenSpec
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 70,231 |
+| **Stars** | 70,236 |
 | **Weekly** | +1,415 |
 | **Forks** | 4,803 |
-| **Issues** | 222 |
+| **Issues** | 224 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T00:09:58*  
-*Updated: 2026-09-25T00:09:58*
+*First seen: 2026-09-25T02:10:23*  
+*Updated: 2026-09-25T02:10:23*

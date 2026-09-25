@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T00:09:58.093457
-last_updated: 2026-09-25T00:09:58.093459
+first_seen: 2026-09-25T02:10:22.559716
+last_updated: 2026-09-25T02:10:22.559717
 html_url: https://github.com/cloudflare/quiche
 aliases:
   - cloudflare/quiche
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T00:09:58*  
-*Updated: 2026-09-25T00:09:58*
+*First seen: 2026-09-25T02:10:22*  
+*Updated: 2026-09-25T02:10:22*

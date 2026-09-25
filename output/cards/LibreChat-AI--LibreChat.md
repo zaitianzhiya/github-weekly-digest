@@ -2,10 +2,10 @@
 repo_id: LibreChat-AI/LibreChat
 full_name: LibreChat-AI/LibreChat
 language: TypeScript
-stars: 44896
+stars: 44901
 weekly_growth: 743
 daily_growth: 106
-forks: 9200
+forks: 9201
 open_issues: 801
 confidence_score: 45
 confidence_grade: C
@@ -16,8 +16,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T00:10:00.791376
-last_updated: 2026-09-25T00:10:00.791378
+first_seen: 2026-09-25T02:10:25.436558
+last_updated: 2026-09-25T02:10:25.436559
 html_url: https://github.com/LibreChat-AI/LibreChat
 aliases:
   - LibreChat-AI/LibreChat
@@ -34,9 +34,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 44,896 |
+| **Stars** | 44,901 |
 | **Weekly** | +743 |
-| **Forks** | 9,200 |
+| **Forks** | 9,201 |
 | **Issues** | 801 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -58,5 +58,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T00:10:00*  
-*Updated: 2026-09-25T00:10:00*
+*First seen: 2026-09-25T02:10:25*  
+*Updated: 2026-09-25T02:10:25*

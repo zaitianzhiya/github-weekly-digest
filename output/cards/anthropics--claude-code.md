@@ -2,11 +2,11 @@
 repo_id: anthropics/claude-code
 full_name: anthropics/claude-code
 language: TypeScript
-stars: 147965
+stars: 147975
 weekly_growth: 2384
 daily_growth: 340
-forks: 24391
-open_issues: 12725
+forks: 24412
+open_issues: 12756
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T00:09:53.210247
-last_updated: 2026-09-25T00:09:53.210248
+first_seen: 2026-09-25T02:10:16.758911
+last_updated: 2026-09-25T02:10:16.758912
 html_url: https://github.com/anthropics/claude-code
 aliases:
   - anthropics/claude-code
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 147,965 |
+| **Stars** | 147,975 |
 | **Weekly** | +2,384 |
-| **Forks** | 24,391 |
-| **Issues** | 12725 |
+| **Forks** | 24,412 |
+| **Issues** | 12756 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T00:09:53*  
-*Updated: 2026-09-25T00:09:53*
+*First seen: 2026-09-25T02:10:16*  
+*Updated: 2026-09-25T02:10:16*
