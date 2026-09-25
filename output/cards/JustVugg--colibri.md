@@ -2,10 +2,10 @@
 repo_id: JustVugg/colibri
 full_name: JustVugg/colibri
 language: C
-stars: 37544
+stars: 37562
 weekly_growth: 2055
 daily_growth: 293
-forks: 4065
+forks: 4068
 open_issues: 90
 confidence_score: 65
 confidence_grade: B
@@ -15,8 +15,8 @@ categories:
 sources:
   - GitHub Trending
   - OpenGithubs 周榜
-first_seen: 2026-09-25T02:10:21.218597
-last_updated: 2026-09-25T02:10:21.218598
+first_seen: 2026-09-25T04:10:54.797334
+last_updated: 2026-09-25T04:10:54.797335
 html_url: https://github.com/JustVugg/colibri
 aliases:
   - JustVugg/colibri
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | C |
-| **Stars** | 37,544 |
+| **Stars** | 37,562 |
 | **Weekly** | +2,055 |
-| **Forks** | 4,065 |
+| **Forks** | 4,068 |
 | **Issues** | 90 |
 | **Confidence** | B (65/100) |
 | **Citations** | 2 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T02:10:21*  
-*Updated: 2026-09-25T02:10:21*
+*First seen: 2026-09-25T04:10:54*  
+*Updated: 2026-09-25T04:10:54*

@@ -2,7 +2,7 @@
 repo_id: anthropics/knowledge-work-plugins
 full_name: anthropics/knowledge-work-plugins
 language: Python
-stars: 25559
+stars: 25565
 weekly_growth: 1118
 daily_growth: 159
 forks: 3026
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T02:10:19.108767
-last_updated: 2026-09-25T02:10:19.108768
+first_seen: 2026-09-25T04:10:53.390459
+last_updated: 2026-09-25T04:10:53.390461
 html_url: https://github.com/anthropics/knowledge-work-plugins
 aliases:
   - anthropics/knowledge-work-plugins
@@ -33,7 +33,7 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 25,559 |
+| **Stars** | 25,565 |
 | **Weekly** | +1,118 |
 | **Forks** | 3,026 |
 | **Issues** | 98 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T02:10:19*  
-*Updated: 2026-09-25T02:10:19*
+*First seen: 2026-09-25T04:10:53*  
+*Updated: 2026-09-25T04:10:53*

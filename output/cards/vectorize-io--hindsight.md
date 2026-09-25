@@ -2,11 +2,11 @@
 repo_id: vectorize-io/hindsight
 full_name: vectorize-io/hindsight
 language: Python
-stars: 27832
+stars: 27970
 weekly_growth: 3363
 daily_growth: 480
-forks: 2687
-open_issues: 197
+forks: 2710
+open_issues: 198
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T02:10:21.914954
-last_updated: 2026-09-25T02:10:21.914955
+first_seen: 2026-09-25T04:10:55.254399
+last_updated: 2026-09-25T04:10:55.254401
 html_url: https://github.com/vectorize-io/hindsight
 aliases:
   - vectorize-io/hindsight
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 27,832 |
+| **Stars** | 27,970 |
 | **Weekly** | +3,363 |
-| **Forks** | 2,687 |
-| **Issues** | 197 |
+| **Forks** | 2,710 |
+| **Issues** | 198 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T02:10:21*  
-*Updated: 2026-09-25T02:10:21*
+*First seen: 2026-09-25T04:10:55*  
+*Updated: 2026-09-25T04:10:55*
