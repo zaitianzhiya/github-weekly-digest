@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[macro-inc--macro|macro-inc/macro]] — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [[dream-num--univer|dream-num/univer]] — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.

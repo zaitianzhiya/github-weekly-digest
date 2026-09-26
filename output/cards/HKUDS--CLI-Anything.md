@@ -2,11 +2,11 @@
 repo_id: HKUDS/CLI-Anything
 full_name: HKUDS/CLI-Anything
 language: Python
-stars: 50488
-weekly_growth: 964
-daily_growth: 137
-forks: 4624
-open_issues: 108
+stars: 50583
+weekly_growth: 972
+daily_growth: 138
+forks: 4630
+open_issues: 109
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -15,8 +15,8 @@ categories:
   - devtools
 sources:
   - GitHub Trending
-first_seen: 2026-09-25T13:56:29.007484
-last_updated: 2026-09-25T13:56:29.007485
+first_seen: 2026-09-26T13:13:24.518989
+last_updated: 2026-09-26T13:13:24.518990
 html_url: https://github.com/HKUDS/CLI-Anything
 aliases:
   - HKUDS/CLI-Anything
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 50,488 |
-| **Weekly** | +964 |
-| **Forks** | 4,624 |
-| **Issues** | 108 |
+| **Stars** | 50,583 |
+| **Weekly** | +972 |
+| **Forks** | 4,630 |
+| **Issues** | 109 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-25T13:56:29*  
-*Updated: 2026-09-25T13:56:29*
+*First seen: 2026-09-26T13:13:24*  
+*Updated: 2026-09-26T13:13:24*
