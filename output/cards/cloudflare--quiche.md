@@ -2,10 +2,10 @@
 repo_id: cloudflare/quiche
 full_name: cloudflare/quiche
 language: Rust
-stars: 12620
-weekly_growth: 769
-daily_growth: 109
-forks: 1149
+stars: 12638
+weekly_growth: 736
+daily_growth: 105
+forks: 1150
 open_issues: 370
 confidence_score: 45
 confidence_grade: C
@@ -13,8 +13,8 @@ citation_count: 1
 categories:
 sources:
   - GitHub Trending
-first_seen: 2026-09-26T13:13:25.137320
-last_updated: 2026-09-26T13:13:25.137321
+first_seen: 2026-09-27T14:05:14.559411
+last_updated: 2026-09-27T14:05:14.559412
 html_url: https://github.com/cloudflare/quiche
 aliases:
   - cloudflare/quiche
@@ -31,9 +31,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Rust |
-| **Stars** | 12,620 |
-| **Weekly** | +769 |
-| **Forks** | 1,149 |
+| **Stars** | 12,638 |
+| **Weekly** | +736 |
+| **Forks** | 1,150 |
 | **Issues** | 370 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-26T13:13:25*  
-*Updated: 2026-09-26T13:13:25*
+*First seen: 2026-09-27T14:05:14*  
+*Updated: 2026-09-27T14:05:14*

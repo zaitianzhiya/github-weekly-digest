@@ -2,11 +2,11 @@
 repo_id: paperclipai/paperclip
 full_name: paperclipai/paperclip
 language: TypeScript
-stars: 86073
-weekly_growth: 2616
-daily_growth: 373
-forks: 15319
-open_issues: 5736
+stars: 88691
+weekly_growth: 5376
+daily_growth: 768
+forks: 15559
+open_issues: 5806
 confidence_score: 45
 confidence_grade: C
 citation_count: 1
@@ -14,8 +14,8 @@ categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-09-26T13:13:19.178204
-last_updated: 2026-09-26T13:13:19.178205
+first_seen: 2026-09-27T14:05:08.210474
+last_updated: 2026-09-27T14:05:08.210475
 html_url: https://github.com/paperclipai/paperclip
 aliases:
   - paperclipai/paperclip
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 86,073 |
-| **Weekly** | +2,616 |
-| **Forks** | 15,319 |
-| **Issues** | 5736 |
+| **Stars** | 88,691 |
+| **Weekly** | +5,376 |
+| **Forks** | 15,559 |
+| **Issues** | 5806 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-26T13:13:19*  
-*Updated: 2026-09-26T13:13:19*
+*First seen: 2026-09-27T14:05:08*  
+*Updated: 2026-09-27T14:05:08*

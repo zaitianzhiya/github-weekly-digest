@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[JustVugg--colibri|JustVugg/colibri]] — Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [[FxEmbed--FxEmbed|FxEmbed/FxEmbed]] — Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others

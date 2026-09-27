@@ -2,10 +2,10 @@
 repo_id: cloudflare/security-audit-skill
 full_name: cloudflare/security-audit-skill
 language: JavaScript
-stars: 21853
-weekly_growth: 9547
-daily_growth: 1363
-forks: 1258
+stars: 22209
+weekly_growth: 6474
+daily_growth: 924
+forks: 1289
 open_issues: 50
 confidence_score: 45
 confidence_grade: C
@@ -15,8 +15,8 @@ categories:
   - security
 sources:
   - GitHub Trending
-first_seen: 2026-09-26T13:13:17.975026
-last_updated: 2026-09-26T13:13:17.975027
+first_seen: 2026-09-27T14:05:09.289588
+last_updated: 2026-09-27T14:05:09.289589
 html_url: https://github.com/cloudflare/security-audit-skill
 aliases:
   - cloudflare/security-audit-skill
@@ -33,9 +33,9 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | JavaScript |
-| **Stars** | 21,853 |
-| **Weekly** | +9,547 |
-| **Forks** | 1,258 |
+| **Stars** | 22,209 |
+| **Weekly** | +6,474 |
+| **Forks** | 1,289 |
 | **Issues** | 50 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-26T13:13:17*  
-*Updated: 2026-09-26T13:13:17*
+*First seen: 2026-09-27T14:05:09*  
+*Updated: 2026-09-27T14:05:09*
