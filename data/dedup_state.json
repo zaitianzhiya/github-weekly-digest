@@ -1,0 +1,76 @@
+{
+  "repos": {
+    "TencentCloud/Octop": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "cloudflare/security-audit-skill": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "debpalash/VoiceStudio": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "anthropics/financial-services": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "paperclipai/paperclip": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "vectorize-io/hindsight": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "HKUDS/CLI-Anything": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "FxEmbed/FxEmbed": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "cloudflare/quiche": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "akitaonrails/ai-memory": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "vercel/next.js": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    },
+    "stablyai/orca": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-28T16:49:15.603105",
+      "last_seen_at": "2026-09-28T16:49:15.603105",
+      "seen_count": 1
+    }
+  }
+}
