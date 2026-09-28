@@ -1,25 +1,24 @@
 ---
 type: category-moc
 category: devtools
-total_projects: 6
+total_projects: 5
 ---
 
 # devtools
 
-> 6 projects
+> 5 projects
 
 ```dataview
-TABLE language, stargazers_count, confidence_grade
-FROM "10 - GitHub Trending/项目卡片"
+TABLE language, stars, confidence_grade
+FROM "output/cards"
 WHERE contains(categories, "devtools")
 SORT confidence_score DESC
 ```
 
 ## Projects
 
-- [[anthropics--claude-code|anthropics/claude-code]] — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [[debpalash--VoiceStudio|debpalash/VoiceStudio]] — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
 - [[HKUDS--CLI-Anything|HKUDS/CLI-Anything]] — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [[anthropics--knowledge-work-plugins|anthropics/knowledge-work-plugins]] — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [[FxEmbed--FxEmbed|FxEmbed/FxEmbed]] — Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+- [[akitaonrails--ai-memory|akitaonrails/ai-memory]] — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 - [[stablyai--orca|stablyai/orca]] — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-- [[sponsors--davila7|sponsors/davila7]] — CLI tool for configuring and monitoring Claude Code

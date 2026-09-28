@@ -9,8 +9,8 @@ total_projects: 1
 > 1 projects
 
 ```dataview
-TABLE language, stargazers_count, confidence_grade
-FROM "10 - GitHub Trending/项目卡片"
+TABLE language, stars, confidence_grade
+FROM "output/cards"
 WHERE contains(categories, "frontend")
 SORT confidence_score DESC
 ```

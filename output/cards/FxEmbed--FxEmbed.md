@@ -2,12 +2,12 @@
 repo_id: FxEmbed/FxEmbed
 full_name: FxEmbed/FxEmbed
 language: TypeScript
-stars: 5485
-weekly_growth: 417
-daily_growth: 59
-forks: 260
-open_issues: 77
-confidence_score: 45
+stars: 5542
+weekly_growth: 432
+daily_growth: 61
+forks: 265
+open_issues: 70
+confidence_score: 45.0
 confidence_grade: C
 citation_count: 1
 categories:
@@ -15,8 +15,8 @@ categories:
   - media
 sources:
   - GitHub Trending
-first_seen: 2026-09-27T14:05:16.177218
-last_updated: 2026-09-27T14:05:16.177219
+first_seen: 2026-09-28T18:14:36.418414
+last_updated: 2026-09-28T18:14:36.418415
 html_url: https://github.com/FxEmbed/FxEmbed
 aliases:
   - FxEmbed/FxEmbed
@@ -33,10 +33,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | TypeScript |
-| **Stars** | 5,485 |
-| **Weekly** | +417 |
-| **Forks** | 260 |
-| **Issues** | 77 |
+| **Stars** | 5,542 |
+| **Weekly** | +432 |
+| **Forks** | 265 |
+| **Issues** | 70 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -56,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-27T14:05:16*  
-*Updated: 2026-09-27T14:05:16*
+*First seen: 2026-09-28T18:14:36*  
+*Updated: 2026-09-28T18:14:36*

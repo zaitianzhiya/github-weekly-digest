@@ -2,12 +2,12 @@
 repo_id: debpalash/VoiceStudio
 full_name: debpalash/VoiceStudio
 language: Python
-stars: 15684
-weekly_growth: 2511
-daily_growth: 358
-forks: 2166
-open_issues: 16
-confidence_score: 45
+stars: 43170
+weekly_growth: 7793
+daily_growth: 1113
+forks: 5033
+open_issues: 43
+confidence_score: 45.0
 confidence_grade: C
 citation_count: 1
 categories:
@@ -17,8 +17,8 @@ categories:
   - design
 sources:
   - GitHub Trending
-first_seen: 2026-09-03T12:53:19.596848
-last_updated: 2026-09-03T12:53:19.596850
+first_seen: 2026-09-28T18:14:35.180945
+last_updated: 2026-09-28T18:14:35.180946
 html_url: https://github.com/debpalash/VoiceStudio
 aliases:
   - debpalash/VoiceStudio
@@ -35,10 +35,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 15,684 |
-| **Weekly** | +2,511 |
-| **Forks** | 2,166 |
-| **Issues** | 16 |
+| **Stars** | 43,170 |
+| **Weekly** | +7,793 |
+| **Forks** | 5,033 |
+| **Issues** | 43 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -60,5 +60,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-03T12:53:19*  
-*Updated: 2026-09-03T12:53:19*
+*First seen: 2026-09-28T18:14:35*  
+*Updated: 2026-09-28T18:14:35*

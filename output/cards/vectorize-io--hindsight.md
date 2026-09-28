@@ -2,20 +2,21 @@
 repo_id: vectorize-io/hindsight
 full_name: vectorize-io/hindsight
 language: Python
-stars: 35599
-weekly_growth: 7282
-daily_growth: 1040
-forks: 4504
-open_issues: 163
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+stars: 40661
+weekly_growth: 11089
+daily_growth: 1584
+forks: 5499
+open_issues: 180
+confidence_score: 65.0
+confidence_grade: B
+citation_count: 2
 categories:
   - AI
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-09-27T14:05:08.761639
-last_updated: 2026-09-27T14:05:08.761641
+first_seen: 2026-09-28T18:14:30.196423
+last_updated: 2026-09-28T18:14:30.196424
 html_url: https://github.com/vectorize-io/hindsight
 aliases:
   - vectorize-io/hindsight
@@ -25,19 +26,19 @@ aliases:
 
 > Hindsight: Agent Memory That Learns
 
-#github-project #lang-python #grade-c #ai
+#github-project #lang-python #grade-b #ai
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 35,599 |
-| **Weekly** | +7,282 |
-| **Forks** | 4,504 |
-| **Issues** | 163 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Stars** | 40,661 |
+| **Weekly** | +11,089 |
+| **Forks** | 5,499 |
+| **Issues** | 180 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -47,6 +48,7 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ## Categories
 
@@ -54,5 +56,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-27T14:05:08*  
-*Updated: 2026-09-27T14:05:08*
+*First seen: 2026-09-28T18:14:30*  
+*Updated: 2026-09-28T18:14:30*

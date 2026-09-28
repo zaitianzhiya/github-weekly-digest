@@ -2,20 +2,20 @@
 repo_id: TencentCloud/Octop
 full_name: TencentCloud/Octop
 language: Python
-stars: 5205
-weekly_growth: 951
-daily_growth: 135
-forks: 630
-open_issues: 508
-confidence_score: 45
+stars: 5487
+weekly_growth: 869
+daily_growth: 124
+forks: 673
+open_issues: 569
+confidence_score: 45.0
 confidence_grade: C
 citation_count: 1
 categories:
   - AI
 sources:
   - GitHub Trending
-first_seen: 2026-09-27T14:05:15.093491
-last_updated: 2026-09-27T14:05:15.093493
+first_seen: 2026-09-28T18:14:37.037402
+last_updated: 2026-09-28T18:14:37.037403
 html_url: https://github.com/TencentCloud/Octop
 aliases:
   - TencentCloud/Octop
@@ -32,10 +32,10 @@ aliases:
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 5,205 |
-| **Weekly** | +951 |
-| **Forks** | 630 |
-| **Issues** | 508 |
+| **Stars** | 5,487 |
+| **Weekly** | +869 |
+| **Forks** | 673 |
+| **Issues** | 569 |
 | **Confidence** | C (45/100) |
 | **Citations** | 1 |
 
@@ -54,5 +54,5 @@ aliases:
 
 ---
 
-*First seen: 2026-09-27T14:05:15*  
-*Updated: 2026-09-27T14:05:15*
+*First seen: 2026-09-28T18:14:37*  
+*Updated: 2026-09-28T18:14:37*

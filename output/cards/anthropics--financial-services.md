@@ -2,19 +2,20 @@
 repo_id: anthropics/financial-services
 full_name: anthropics/financial-services
 language: Python
-stars: 37779
-weekly_growth: 2633
-daily_growth: 376
-forks: 5457
-open_issues: 223
-confidence_score: 45
-confidence_grade: C
-citation_count: 1
+stars: 38014
+weekly_growth: 2606
+daily_growth: 372
+forks: 5479
+open_issues: 224
+confidence_score: 65.0
+confidence_grade: B
+citation_count: 2
 categories:
 sources:
+  - OpenGithubs 周榜
   - GitHub Trending
-first_seen: 2026-09-27T14:05:07.682115
-last_updated: 2026-09-27T14:05:07.682117
+first_seen: 2026-09-28T18:14:28.799175
+last_updated: 2026-09-28T18:14:28.799176
 html_url: https://github.com/anthropics/financial-services
 aliases:
   - anthropics/financial-services
@@ -22,21 +23,21 @@ aliases:
 
 # anthropics/financial-services
 
-> (no description)
+> from citation
 
-#github-project #lang-python #grade-c
+#github-project #lang-python #grade-b
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
 | **Language** | Python |
-| **Stars** | 37,779 |
-| **Weekly** | +2,633 |
-| **Forks** | 5,457 |
-| **Issues** | 223 |
-| **Confidence** | C (45/100) |
-| **Citations** | 1 |
+| **Stars** | 38,014 |
+| **Weekly** | +2,606 |
+| **Forks** | 5,479 |
+| **Issues** | 224 |
+| **Confidence** | B (65/100) |
+| **Citations** | 2 |
 
 ## Links
 
@@ -46,8 +47,9 @@ aliases:
 ## Sources
 
 - GitHub Trending (Tier 1)
+- OpenGithubs 周榜 (Tier 2)
 
 ---
 
-*First seen: 2026-09-27T14:05:07*  
-*Updated: 2026-09-27T14:05:07*
+*First seen: 2026-09-28T18:14:28*  
+*Updated: 2026-09-28T18:14:28*
