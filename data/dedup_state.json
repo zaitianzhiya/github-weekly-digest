@@ -3,50 +3,50 @@
     "TencentCloud/Octop": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "anthropics/financial-services": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "paperclipai/paperclip": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "vectorize-io/hindsight": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "HKUDS/CLI-Anything": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "FxEmbed/FxEmbed": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "cloudflare/quiche": {
       "first_seen_week": "2026-W40",
@@ -63,14 +63,14 @@
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 3
     },
     "NandhaKishorM/laya": {
       "first_seen_week": "2026-W40",
@@ -244,6 +244,18 @@
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
       "last_seen_at": "2026-09-28T18:14:39.901436",
+      "seen_count": 1
+    },
+    "pbakaus/impeccable": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-29T14:53:38.895102",
+      "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 1
+    },
+    "PrismML-Eng/Bonsai-demo": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-29T14:53:38.895102",
+      "last_seen_at": "2026-09-29T14:53:38.895102",
       "seen_count": 1
     }
   }
