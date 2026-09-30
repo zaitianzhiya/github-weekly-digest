@@ -3,8 +3,8 @@
     "TencentCloud/Octop": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
@@ -15,38 +15,38 @@
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "anthropics/financial-services": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "paperclipai/paperclip": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "vectorize-io/hindsight": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "HKUDS/CLI-Anything": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "FxEmbed/FxEmbed": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "cloudflare/quiche": {
       "first_seen_week": "2026-W40",
@@ -63,14 +63,14 @@
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 3
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 4
     },
     "NandhaKishorM/laya": {
       "first_seen_week": "2026-W40",
@@ -105,8 +105,8 @@
     "dream-num/univer": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 1
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 2
     },
     "robbietilton/Compositor": {
       "first_seen_week": "2026-W40",
@@ -249,13 +249,25 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-09-29T14:53:38.895102",
-      "seen_count": 1
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 2
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
       "last_seen_at": "2026-09-29T14:53:38.895102",
+      "seen_count": 1
+    },
+    "alirezarezvani/claude-skills": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-30T14:59:25.410984",
+      "last_seen_at": "2026-09-30T14:59:25.410984",
+      "seen_count": 1
+    },
+    "anthropics/claude-code-action": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-09-30T14:59:25.410984",
+      "last_seen_at": "2026-09-30T14:59:25.410984",
       "seen_count": 1
     }
   }
