@@ -3,8 +3,8 @@
     "TencentCloud/Octop": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
@@ -15,26 +15,26 @@
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "anthropics/financial-services": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "paperclipai/paperclip": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "vectorize-io/hindsight": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "HKUDS/CLI-Anything": {
       "first_seen_week": "2026-W40",
@@ -63,8 +63,8 @@
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 6
     },
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
@@ -99,8 +99,8 @@
     "google/ax": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 1
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 2
     },
     "dream-num/univer": {
       "first_seen_week": "2026-W40",
@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 3
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 4
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -261,20 +261,20 @@
     "alirezarezvani/claude-skills": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-30T14:59:25.410984",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 2
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 3
     },
     "anthropics/claude-code-action": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-30T14:59:25.410984",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 2
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 3
     },
     "flutter/flutter": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-01T15:30:48.687928",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 1
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 2
     },
     "agent-substrate/substrate": {
       "first_seen_week": "2026-W40",
@@ -286,6 +286,24 @@
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-01T15:30:48.687928",
       "last_seen_at": "2026-10-01T15:30:48.687928",
+      "seen_count": 1
+    },
+    "pablostanley/yoinks": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-02T14:47:41.377107",
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 1
+    },
+    "heygen-com/hyperframes": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-02T14:47:41.377107",
+      "last_seen_at": "2026-10-02T14:47:41.377107",
+      "seen_count": 1
+    },
+    "harry0703/MoneyPrinterTurbo": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-02T14:47:41.377107",
+      "last_seen_at": "2026-10-02T14:47:41.377107",
       "seen_count": 1
     }
   }
