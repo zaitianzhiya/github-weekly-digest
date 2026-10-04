@@ -3,8 +3,8 @@
     "TencentCloud/Octop": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 7
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 8
     },
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
@@ -15,8 +15,8 @@
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 7
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 8
     },
     "anthropics/financial-services": {
       "first_seen_week": "2026-W40",
@@ -27,14 +27,14 @@
     "paperclipai/paperclip": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 7
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 8
     },
     "vectorize-io/hindsight": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 7
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 8
     },
     "HKUDS/CLI-Anything": {
       "first_seen_week": "2026-W40",
@@ -63,8 +63,8 @@
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 7
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 8
     },
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 5
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 6
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -261,8 +261,8 @@
     "alirezarezvani/claude-skills": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-30T14:59:25.410984",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 4
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 5
     },
     "anthropics/claude-code-action": {
       "first_seen_week": "2026-W40",
@@ -291,31 +291,55 @@
     "pablostanley/yoinks": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 2
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 3
     },
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 2
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 3
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 2
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 3
     },
     "Effect-TS/effect": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-03T13:30:39.610556",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
-      "seen_count": 1
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 2
     },
     "Panniantong/Agent-Reach": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-03T13:30:39.610556",
-      "last_seen_at": "2026-10-03T13:30:39.610556",
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 2
+    },
+    "NVIDIA/OpenShell": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-04T14:08:34.661180",
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 1
+    },
+    "pingdotgg/t3code": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-04T14:08:34.661180",
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 1
+    },
+    "mvschwarz/openrig": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-04T14:08:34.661180",
+      "last_seen_at": "2026-10-04T14:08:34.661180",
+      "seen_count": 1
+    },
+    "cs341-illinois/coursebook": {
+      "first_seen_week": "2026-W40",
+      "first_seen_at": "2026-10-04T14:08:34.661180",
+      "last_seen_at": "2026-10-04T14:08:34.661180",
       "seen_count": 1
     }
   }
