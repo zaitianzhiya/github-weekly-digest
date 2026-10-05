@@ -1,6 +1,6 @@
 ---
-repo_id: zhaoxuya520/reverse-skill
-full_name: zhaoxuya520/reverse-skill
+repo_id: mobile-next/mobile-mcp
+full_name: mobile-next/mobile-mcp
 language: 
 stars: 0
 weekly_growth: 0
@@ -13,14 +13,14 @@ citation_count: 1
 categories:
 sources:
   - OpenGithubs 周榜
-first_seen: 2026-10-05T19:22:48.105716
-last_updated: 2026-10-05T19:22:48.105717
-html_url: https://github.com/zhaoxuya520/reverse-skill
+first_seen: 2026-10-05T19:22:48.105753
+last_updated: 2026-10-05T19:22:48.105753
+html_url: https://github.com/mobile-next/mobile-mcp
 aliases:
-  - zhaoxuya520/reverse-skill
+  - mobile-next/mobile-mcp
 ---
 
-# zhaoxuya520/reverse-skill
+# mobile-next/mobile-mcp
 
 > from citation
 
@@ -40,8 +40,8 @@ aliases:
 
 ## Links
 
-- [GitHub](https://github.com/zhaoxuya520/reverse-skill)
-- [Star History](https://star-history.com/#zhaoxuya520/reverse-skill)
+- [GitHub](https://github.com/mobile-next/mobile-mcp)
+- [Star History](https://star-history.com/#mobile-next/mobile-mcp)
 
 ## Sources
 

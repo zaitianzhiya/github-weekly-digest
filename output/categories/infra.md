@@ -1,21 +1,20 @@
 ---
 type: category-moc
 category: infra
-total_projects: 2
+total_projects: 1
 ---
 
 # infra
 
-> 2 projects
+> 1 projects
 
 ```dataview
-TABLE language, stargazers_count, confidence_grade
-FROM "10 - GitHub Trending/项目卡片"
+TABLE language, stars, confidence_grade
+FROM "output/cards"
 WHERE contains(categories, "infra")
 SORT confidence_score DESC
 ```
 
 ## Projects
 
-- [[alibaba--open-code-review|alibaba/open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
-- [[sponsors--davila7|sponsors/davila7]] — CLI tool for configuring and monitoring Claude Code
+- [[caddyserver--caddy|caddyserver/caddy]] — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS

@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[vercel--next.js|vercel/next.js]] — The React Framework
+- [[Gaurav-Gosain--tuios|Gaurav-Gosain/tuios]] — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.

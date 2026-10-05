@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[cloudflare--security-audit-skill|cloudflare/security-audit-skill]] — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+- [[caddyserver--caddy|caddyserver/caddy]] — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS

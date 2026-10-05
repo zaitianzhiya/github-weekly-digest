@@ -1,6 +1,6 @@
 ---
-repo_id: zhaoxuya520/reverse-skill
-full_name: zhaoxuya520/reverse-skill
+repo_id: liquidslr/system-design-notes
+full_name: liquidslr/system-design-notes
 language: 
 stars: 0
 weekly_growth: 0
@@ -13,14 +13,14 @@ citation_count: 1
 categories:
 sources:
   - OpenGithubs 周榜
-first_seen: 2026-10-05T19:22:48.105716
-last_updated: 2026-10-05T19:22:48.105717
-html_url: https://github.com/zhaoxuya520/reverse-skill
+first_seen: 2026-10-05T19:22:48.105751
+last_updated: 2026-10-05T19:22:48.105751
+html_url: https://github.com/liquidslr/system-design-notes
 aliases:
-  - zhaoxuya520/reverse-skill
+  - liquidslr/system-design-notes
 ---
 
-# zhaoxuya520/reverse-skill
+# liquidslr/system-design-notes
 
 > from citation
 
@@ -40,8 +40,8 @@ aliases:
 
 ## Links
 
-- [GitHub](https://github.com/zhaoxuya520/reverse-skill)
-- [Star History](https://star-history.com/#zhaoxuya520/reverse-skill)
+- [GitHub](https://github.com/liquidslr/system-design-notes)
+- [Star History](https://star-history.com/#liquidslr/system-design-notes)
 
 ## Sources
 

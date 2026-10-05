@@ -1,22 +1,20 @@
 ---
 repo_id: JustVugg/colibri
 full_name: JustVugg/colibri
-language: C
-stars: 37576
-weekly_growth: 2055
-daily_growth: 293
-forks: 4070
-open_issues: 90
-confidence_score: 65
-confidence_grade: B
-citation_count: 2
+language: 
+stars: 0
+weekly_growth: 0
+daily_growth: 0
+forks: 0
+open_issues: 0
+confidence_score: 20.0
+confidence_grade: D
+citation_count: 1
 categories:
-  - media
 sources:
-  - GitHub Trending
   - OpenGithubs 周榜
-first_seen: 2026-09-25T06:11:06.837238
-last_updated: 2026-09-25T06:11:06.837240
+first_seen: 2026-10-05T19:22:48.105739
+last_updated: 2026-10-05T19:22:48.105740
 html_url: https://github.com/JustVugg/colibri
 aliases:
   - JustVugg/colibri
@@ -24,21 +22,21 @@ aliases:
 
 # JustVugg/colibri
 
-> Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+> from citation
 
-#github-project #lang-c #grade-b #media
+#github-project #lang-unknown #grade-d
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | C |
-| **Stars** | 37,576 |
-| **Weekly** | +2,055 |
-| **Forks** | 4,070 |
-| **Issues** | 90 |
-| **Confidence** | B (65/100) |
-| **Citations** | 2 |
+| **Language** | ? |
+| **Stars** | 0 |
+| **Weekly** | +0 |
+| **Forks** | 0 |
+| **Issues** | 0 |
+| **Confidence** | D (20/100) |
+| **Citations** | 1 |
 
 ## Links
 
@@ -47,14 +45,9 @@ aliases:
 
 ## Sources
 
-- GitHub Trending (Tier 1)
 - OpenGithubs 周榜 (Tier 2)
-
-## Categories
-
-- [[media]]
 
 ---
 
-*First seen: 2026-09-25T06:11:06*  
-*Updated: 2026-09-25T06:11:06*
+*First seen: 2026-10-05T19:22:48*  
+*Updated: 2026-10-05T19:22:48*

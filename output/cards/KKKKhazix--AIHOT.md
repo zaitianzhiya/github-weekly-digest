@@ -1,6 +1,6 @@
 ---
-repo_id: zhaoxuya520/reverse-skill
-full_name: zhaoxuya520/reverse-skill
+repo_id: KKKKhazix/AIHOT
+full_name: KKKKhazix/AIHOT
 language: 
 stars: 0
 weekly_growth: 0
@@ -13,14 +13,14 @@ citation_count: 1
 categories:
 sources:
   - OpenGithubs 周榜
-first_seen: 2026-10-05T19:22:48.105716
-last_updated: 2026-10-05T19:22:48.105717
-html_url: https://github.com/zhaoxuya520/reverse-skill
+first_seen: 2026-10-05T19:22:48.105709
+last_updated: 2026-10-05T19:22:48.105709
+html_url: https://github.com/KKKKhazix/AIHOT
 aliases:
-  - zhaoxuya520/reverse-skill
+  - KKKKhazix/AIHOT
 ---
 
-# zhaoxuya520/reverse-skill
+# KKKKhazix/AIHOT
 
 > from citation
 
@@ -40,8 +40,8 @@ aliases:
 
 ## Links
 
-- [GitHub](https://github.com/zhaoxuya520/reverse-skill)
-- [Star History](https://star-history.com/#zhaoxuya520/reverse-skill)
+- [GitHub](https://github.com/KKKKhazix/AIHOT)
+- [Star History](https://star-history.com/#KKKKhazix/AIHOT)
 
 ## Sources
 
