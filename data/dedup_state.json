@@ -291,14 +291,14 @@
     "pablostanley/yoinks": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 7
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 8
     },
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 7
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 8
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
@@ -315,8 +315,8 @@
     "Panniantong/Agent-Reach": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-03T13:30:39.610556",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 6
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 7
     },
     "NVIDIA/OpenShell": {
       "first_seen_week": "2026-W40",
@@ -333,8 +333,8 @@
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 5
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 6
     },
     "cs341-illinois/coursebook": {
       "first_seen_week": "2026-W40",
@@ -357,8 +357,8 @@
     "cursor/plugins": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T17:13:38.708025",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 4
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 5
     },
     "caddyserver/caddy": {
       "first_seen_week": "2026-W41",
@@ -417,8 +417,20 @@
     "boykopovar/AnyPS5": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-06T15:17:37.883709",
-      "last_seen_at": "2026-10-07T15:37:22.062385",
-      "seen_count": 2
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 3
+    },
+    "earthtojake/text-to-cad": {
+      "first_seen_week": "2026-W41",
+      "first_seen_at": "2026-10-08T15:42:46.258617",
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 1
+    },
+    "EpicGames/raddebugger": {
+      "first_seen_week": "2026-W41",
+      "first_seen_at": "2026-10-08T15:42:46.258617",
+      "last_seen_at": "2026-10-08T15:42:46.258617",
+      "seen_count": 1
     }
   }
 }
