@@ -273,8 +273,8 @@
     "flutter/flutter": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-01T15:30:48.687928",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 4
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 5
     },
     "agent-substrate/substrate": {
       "first_seen_week": "2026-W40",
@@ -297,8 +297,8 @@
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 10
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 11
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
@@ -333,8 +333,8 @@
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 8
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 9
     },
     "cs341-illinois/coursebook": {
       "first_seen_week": "2026-W40",
@@ -357,8 +357,8 @@
     "cursor/plugins": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T17:13:38.708025",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 7
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 8
     },
     "caddyserver/caddy": {
       "first_seen_week": "2026-W41",
@@ -417,25 +417,31 @@
     "boykopovar/AnyPS5": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-06T15:17:37.883709",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 5
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 6
     },
     "earthtojake/text-to-cad": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-08T15:42:46.258617",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 3
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 4
     },
     "EpicGames/raddebugger": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-08T15:42:46.258617",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 3
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 4
     },
     "tester-army/e2e": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-10T14:31:42.811218",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
+      "last_seen_at": "2026-10-11T14:57:51.265734",
+      "seen_count": 2
+    },
+    "danyuchn/asd-ste100-skill": {
+      "first_seen_week": "2026-W41",
+      "first_seen_at": "2026-10-11T14:57:51.265734",
+      "last_seen_at": "2026-10-11T14:57:51.265734",
       "seen_count": 1
     }
   }
