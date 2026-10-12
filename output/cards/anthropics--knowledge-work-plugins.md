@@ -1,22 +1,20 @@
 ---
 repo_id: anthropics/knowledge-work-plugins
 full_name: anthropics/knowledge-work-plugins
-language: Python
-stars: 25714
-weekly_growth: 664
-daily_growth: 94
-forks: 3039
-open_issues: 107
-confidence_score: 45
-confidence_grade: C
+language: 
+stars: 0
+weekly_growth: 0
+daily_growth: 0
+forks: 0
+open_issues: 0
+confidence_score: 20.0
+confidence_grade: D
 citation_count: 1
 categories:
-  - AI
-  - devtools
 sources:
-  - GitHub Trending
-first_seen: 2026-09-27T14:05:15.689097
-last_updated: 2026-09-27T14:05:15.689098
+  - OpenGithubs 周榜
+first_seen: 2026-10-12T19:58:18.815013
+last_updated: 2026-10-12T19:58:18.815014
 html_url: https://github.com/anthropics/knowledge-work-plugins
 aliases:
   - anthropics/knowledge-work-plugins
@@ -24,20 +22,20 @@ aliases:
 
 # anthropics/knowledge-work-plugins
 
-> Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+> from citation
 
-#github-project #lang-python #grade-c #ai #devtools
+#github-project #lang-unknown #grade-d
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | Python |
-| **Stars** | 25,714 |
-| **Weekly** | +664 |
-| **Forks** | 3,039 |
-| **Issues** | 107 |
-| **Confidence** | C (45/100) |
+| **Language** | ? |
+| **Stars** | 0 |
+| **Weekly** | +0 |
+| **Forks** | 0 |
+| **Issues** | 0 |
+| **Confidence** | D (20/100) |
 | **Citations** | 1 |
 
 ## Links
@@ -47,14 +45,9 @@ aliases:
 
 ## Sources
 
-- GitHub Trending (Tier 1)
-
-## Categories
-
-- [[AI]]
-- [[devtools]]
+- OpenGithubs 周榜 (Tier 2)
 
 ---
 
-*First seen: 2026-09-27T14:05:15*  
-*Updated: 2026-09-27T14:05:15*
+*First seen: 2026-10-12T19:58:18*  
+*Updated: 2026-10-12T19:58:18*

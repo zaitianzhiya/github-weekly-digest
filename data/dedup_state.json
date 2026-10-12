@@ -3,14 +3,14 @@
     "TencentCloud/Octop": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 10
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 11
     },
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 4
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 5
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -75,8 +75,8 @@
     "NandhaKishorM/laya": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "browser-use/jev-ultrafast": {
       "first_seen_week": "2026-W40",
@@ -87,8 +87,8 @@
     "hypit-ai/hypit": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "jaredpalmer/kev": {
       "first_seen_week": "2026-W40",
@@ -147,8 +147,8 @@
     "Albert-Weasker/niubigeo": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 1
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 2
     },
     "trycua/cua": {
       "first_seen_week": "2026-W40",
@@ -171,26 +171,26 @@
     "OpenGithubs/weekly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "OpenGithubs/monthly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "OpenGithubs/github-weekly-rank": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "ruanyf/weekly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 2
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 3
     },
     "posit-dev/great-tables": {
       "first_seen_week": "2026-W40",
@@ -273,8 +273,8 @@
     "flutter/flutter": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-01T15:30:48.687928",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 6
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 7
     },
     "agent-substrate/substrate": {
       "first_seen_week": "2026-W40",
@@ -291,14 +291,14 @@
     "pablostanley/yoinks": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-08T15:42:46.258617",
-      "seen_count": 8
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 9
     },
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 12
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 13
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
@@ -327,14 +327,14 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-10T14:31:42.811218",
-      "seen_count": 5
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 6
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 10
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 11
     },
     "cs341-illinois/coursebook": {
       "first_seen_week": "2026-W40",
@@ -357,8 +357,8 @@
     "cursor/plugins": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T17:13:38.708025",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 9
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 10
     },
     "caddyserver/caddy": {
       "first_seen_week": "2026-W41",
@@ -393,8 +393,8 @@
     "vorssaint/vorssaint-utils": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T19:22:49.028575",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 1
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 2
     },
     "JustVugg/colibri": {
       "first_seen_week": "2026-W41",
@@ -405,8 +405,8 @@
     "liquidslr/system-design-notes": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T19:22:49.028575",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 1
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 2
     },
     "mobile-next/mobile-mcp": {
       "first_seen_week": "2026-W41",
@@ -417,14 +417,14 @@
     "boykopovar/AnyPS5": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-06T15:17:37.883709",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 7
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 8
     },
     "earthtojake/text-to-cad": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-08T15:42:46.258617",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 5
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 6
     },
     "EpicGames/raddebugger": {
       "first_seen_week": "2026-W41",
@@ -435,8 +435,8 @@
     "tester-army/e2e": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-10T14:31:42.811218",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
-      "seen_count": 3
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 4
     },
     "danyuchn/asd-ste100-skill": {
       "first_seen_week": "2026-W41",
@@ -447,7 +447,169 @@
     "morluto/rea": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T18:02:05.481709",
-      "last_seen_at": "2026-10-12T18:02:05.481709",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 2
+    },
+    "feder-cr/dots": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "storytold/artcraft": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "DuarteSantos8/openGym": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "openai/math": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "rehan-remade/universal-modder": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "anthropics/knowledge-work-plugins": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "tashfeenahmed/freellmapi": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "CopilotKit/OpenDots": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "storytold/photocraft": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "lyuangg/tui-dashboard": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "leemysw/yovoice": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "CleanIP/sh.cd": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "byrencheema/airstats": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "anghunk/video-transcript": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "open-subs/opensubs": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "DayuanJiang/PecoFence": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "Qsnh/skillsgist": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "Kuddev/pebrel": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "WallpaperMachine/WallpaperMachine": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "gentpan/LiteZip": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "ArkGravity/burrow": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "corvofeng/atv-core": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "elliothux/open-compute": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "aixisstudio/Snitch": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "aozorae/Edgechat": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "munvard/dockterm": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
+      "seen_count": 1
+    },
+    "guokaigdg/naive-icons": {
+      "first_seen_week": "2026-W42",
+      "first_seen_at": "2026-10-12T19:58:19.088122",
+      "last_seen_at": "2026-10-12T19:58:19.088122",
       "seen_count": 1
     }
   }
