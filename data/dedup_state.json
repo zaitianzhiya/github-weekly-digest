@@ -297,8 +297,8 @@
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 14
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 15
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
@@ -357,8 +357,8 @@
     "cursor/plugins": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T17:13:38.708025",
-      "last_seen_at": "2026-10-12T19:58:19.088122",
-      "seen_count": 10
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 11
     },
     "caddyserver/caddy": {
       "first_seen_week": "2026-W41",
@@ -417,14 +417,14 @@
     "boykopovar/AnyPS5": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-06T15:17:37.883709",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 9
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 10
     },
     "earthtojake/text-to-cad": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-08T15:42:46.258617",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 7
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 8
     },
     "EpicGames/raddebugger": {
       "first_seen_week": "2026-W41",
@@ -447,8 +447,8 @@
     "morluto/rea": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T18:02:05.481709",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 3
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 4
     },
     "feder-cr/dots": {
       "first_seen_week": "2026-W42",
@@ -615,14 +615,14 @@
     "twostraws/SwiftUI-Agent-Skill": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-14T13:50:45.360251",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 1
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 2
     },
     "NationalSecurityAgency/ghidra": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-14T13:50:45.360251",
-      "last_seen_at": "2026-10-14T13:50:45.360251",
-      "seen_count": 1
+      "last_seen_at": "2026-10-15T13:31:34.430567",
+      "seen_count": 2
     }
   }
 }
