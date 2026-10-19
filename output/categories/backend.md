@@ -1,12 +1,12 @@
 ---
 type: category-moc
 category: backend
-total_projects: 2
+total_projects: 1
 ---
 
 # backend
 
-> 2 projects
+> 1 projects
 
 ```dataview
 TABLE language, stars, confidence_grade
@@ -17,5 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[Gaurav-Gosain--tuios|Gaurav-Gosain/tuios]] — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
-- [[caddyserver--caddy|caddyserver/caddy]] — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [[K-Dense-AI--scientific-agent-skills|K-Dense-AI/scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.

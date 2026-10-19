@@ -1,24 +1,20 @@
 ---
 repo_id: vxcontrol/pentagi
 full_name: vxcontrol/pentagi
-language: Go
-stars: 20678
-weekly_growth: 2347
-daily_growth: 335
-forks: 2725
-open_issues: 62
-confidence_score: 45
-confidence_grade: C
+language: 
+stars: 0
+weekly_growth: 0
+daily_growth: 0
+forks: 0
+open_issues: 0
+confidence_score: 20.0
+confidence_grade: D
 citation_count: 1
 categories:
-  - AI
-  - frontend
-  - backend
-  - security
 sources:
-  - GitHub Trending
-first_seen: 2026-07-15T10:17:34.930910
-last_updated: 2026-07-15T10:17:34.930912
+  - OpenGithubs 周榜
+first_seen: 2026-10-19T17:07:47.845244
+last_updated: 2026-10-19T17:07:47.845245
 html_url: https://github.com/vxcontrol/pentagi
 aliases:
   - vxcontrol/pentagi
@@ -26,20 +22,20 @@ aliases:
 
 # vxcontrol/pentagi
 
-> Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+> from citation
 
-#github-project #lang-go #grade-c #ai #frontend #backend #security
+#github-project #lang-unknown #grade-d
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | Go |
-| **Stars** | 20,678 |
-| **Weekly** | +2,347 |
-| **Forks** | 2,725 |
-| **Issues** | 62 |
-| **Confidence** | C (45/100) |
+| **Language** | ? |
+| **Stars** | 0 |
+| **Weekly** | +0 |
+| **Forks** | 0 |
+| **Issues** | 0 |
+| **Confidence** | D (20/100) |
 | **Citations** | 1 |
 
 ## Links
@@ -49,16 +45,9 @@ aliases:
 
 ## Sources
 
-- GitHub Trending (Tier 1)
-
-## Categories
-
-- [[AI]]
-- [[frontend]]
-- [[backend]]
-- [[security]]
+- OpenGithubs 周榜 (Tier 2)
 
 ---
 
-*First seen: 2026-07-15T10:17:34*  
-*Updated: 2026-07-15T10:17:34*
+*First seen: 2026-10-19T17:07:47*  
+*Updated: 2026-10-19T17:07:47*
