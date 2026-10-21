@@ -39,8 +39,8 @@
     "HKUDS/CLI-Anything": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-01T15:30:48.687928",
-      "seen_count": 5
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 6
     },
     "FxEmbed/FxEmbed": {
       "first_seen_week": "2026-W40",
@@ -57,8 +57,8 @@
     "akitaonrails/ai-memory": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-28T18:14:39.901436",
-      "seen_count": 2
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 3
     },
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
@@ -69,8 +69,8 @@
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-09-30T14:59:25.410984",
-      "seen_count": 4
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 5
     },
     "NandhaKishorM/laya": {
       "first_seen_week": "2026-W40",
@@ -297,8 +297,8 @@
     "heygen-com/hyperframes": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-02T14:47:41.377107",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 21
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 22
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen_week": "2026-W40",
@@ -357,8 +357,8 @@
     "cursor/plugins": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T17:13:38.708025",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 15
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 16
     },
     "caddyserver/caddy": {
       "first_seen_week": "2026-W41",
@@ -423,8 +423,8 @@
     "earthtojake/text-to-cad": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-08T15:42:46.258617",
-      "last_seen_at": "2026-10-19T17:07:48.124288",
-      "seen_count": 10
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 11
     },
     "EpicGames/raddebugger": {
       "first_seen_week": "2026-W41",
@@ -447,8 +447,8 @@
     "morluto/rea": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T18:02:05.481709",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 10
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 11
     },
     "feder-cr/dots": {
       "first_seen_week": "2026-W42",
@@ -621,26 +621,26 @@
     "NationalSecurityAgency/ghidra": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-14T13:50:45.360251",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 8
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 9
     },
     "anthropics/claude-plugins-official": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-16T13:20:13.453126",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 6
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 7
     },
     "ruvnet/ruflo": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-19T15:43:28.368367",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 3
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 4
     },
     "K-Dense-AI/scientific-agent-skills": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-19T15:43:28.368367",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 3
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 4
     },
     "wheresryan22/anatomy": {
       "first_seen_week": "2026-W43",
@@ -819,8 +819,8 @@
     "android/skills": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-20T13:39:27.900214",
-      "last_seen_at": "2026-10-20T13:39:27.900214",
-      "seen_count": 1
+      "last_seen_at": "2026-10-21T13:56:02.611551",
+      "seen_count": 2
     }
   }
 }
