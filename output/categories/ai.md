@@ -17,5 +17,5 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[ruvnet--ruflo|ruvnet/ruflo]] — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-- [[K-Dense-AI--scientific-agent-skills|K-Dense-AI/scientific-agent-skills]] — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- [[TauricResearch--TradingAgents|TauricResearch/TradingAgents]] — TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [[AgriciDaniel--claude-seo|AgriciDaniel/claude-seo]] — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.

@@ -7,14 +7,14 @@ weekly_growth: 0
 daily_growth: 0
 forks: 0
 open_issues: 0
-confidence_score: 20
+confidence_score: 20.0
 confidence_grade: D
 citation_count: 1
 categories:
 sources:
   - OpenGithubs 周榜
-first_seen: 2026-08-24T11:03:56.905466
-last_updated: 2026-08-24T11:03:56.905468
+first_seen: 2026-10-26T16:55:11.434935
+last_updated: 2026-10-26T16:55:11.434935
 html_url: https://github.com/anywhere-labs/deepseek-harness-desktop
 aliases:
   - anywhere-labs/deepseek-harness-desktop
@@ -49,5 +49,5 @@ aliases:
 
 ---
 
-*First seen: 2026-08-24T11:03:56*  
-*Updated: 2026-08-24T11:03:56*
+*First seen: 2026-10-26T16:55:11*  
+*Updated: 2026-10-26T16:55:11*
