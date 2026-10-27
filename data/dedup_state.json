@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 10
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 11
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -57,8 +57,8 @@
     "akitaonrails/ai-memory": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 9
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 10
     },
     "vercel/next.js": {
       "first_seen_week": "2026-W40",
@@ -69,8 +69,8 @@
     "stablyai/orca": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 11
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 12
     },
     "NandhaKishorM/laya": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 9
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 10
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -483,8 +483,8 @@
     "anthropics/knowledge-work-plugins": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T19:58:19.088122",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 5
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 6
     },
     "tashfeenahmed/freellmapi": {
       "first_seen_week": "2026-W42",
@@ -633,8 +633,8 @@
     "ruvnet/ruflo": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-19T15:43:28.368367",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 10
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 11
     },
     "K-Dense-AI/scientific-agent-skills": {
       "first_seen_week": "2026-W43",
@@ -819,8 +819,8 @@
     "android/skills": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-20T13:39:27.900214",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 8
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 9
     },
     "Comfy-Org/ComfyUI": {
       "first_seen_week": "2026-W43",
@@ -837,20 +837,20 @@
     "Graphify-Labs/graphify": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-24T12:46:21.398627",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 4
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 5
     },
     "TauricResearch/TradingAgents": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 2
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 3
     },
     "AgriciDaniel/claude-seo": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-26T16:55:11.946307",
-      "seen_count": 2
+      "last_seen_at": "2026-10-27T14:39:26.506335",
+      "seen_count": 3
     },
     "Gathin23/cleanyourtv": {
       "first_seen_week": "2026-W44",
@@ -964,6 +964,12 @@
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T16:55:11.946307",
       "last_seen_at": "2026-10-26T16:55:11.946307",
+      "seen_count": 1
+    },
+    "fastapi/fastapi": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-10-27T14:39:26.506335",
+      "last_seen_at": "2026-10-27T14:39:26.506335",
       "seen_count": 1
     }
   }
