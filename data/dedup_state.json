@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 13
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 14
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 10
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 11
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-27T14:39:26.506335",
-      "seen_count": 10
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 11
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -483,8 +483,8 @@
     "anthropics/knowledge-work-plugins": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T19:58:19.088122",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 8
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 9
     },
     "tashfeenahmed/freellmapi": {
       "first_seen_week": "2026-W42",
@@ -633,8 +633,8 @@
     "ruvnet/ruflo": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-19T15:43:28.368367",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 13
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 14
     },
     "K-Dense-AI/scientific-agent-skills": {
       "first_seen_week": "2026-W43",
@@ -843,14 +843,14 @@
     "TauricResearch/TradingAgents": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 5
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 6
     },
     "AgriciDaniel/claude-seo": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-29T15:17:43.222615",
-      "seen_count": 5
+      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "seen_count": 6
     },
     "Gathin23/cleanyourtv": {
       "first_seen_week": "2026-W44",
@@ -976,6 +976,12 @@
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-29T15:17:43.222615",
       "last_seen_at": "2026-10-29T15:17:43.222615",
+      "seen_count": 1
+    },
+    "anthropics/skills": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-10-30T15:06:45.135091",
+      "last_seen_at": "2026-10-30T15:06:45.135091",
       "seen_count": 1
     }
   }
