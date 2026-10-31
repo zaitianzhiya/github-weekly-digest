@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
-      "seen_count": 14
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 15
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
-      "seen_count": 11
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 12
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
-      "seen_count": 11
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 12
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -843,14 +843,14 @@
     "TauricResearch/TradingAgents": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
-      "seen_count": 6
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 7
     },
     "AgriciDaniel/claude-seo": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
-      "seen_count": 6
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 7
     },
     "Gathin23/cleanyourtv": {
       "first_seen_week": "2026-W44",
@@ -981,7 +981,25 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-10-30T15:06:45.135091",
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 2
+    },
+    "YuJunZhiXue/dsh-purge": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-10-31T14:35:42.383972",
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 1
+    },
+    "AstrBotDevs/AstrBot": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-10-31T14:35:42.383972",
+      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "seen_count": 1
+    },
+    "Nutlope/hallmark": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-10-31T14:35:42.383972",
+      "last_seen_at": "2026-10-31T14:35:42.383972",
       "seen_count": 1
     }
   }
