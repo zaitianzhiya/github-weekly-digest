@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 15
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 16
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 12
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 13
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 12
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 13
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -843,14 +843,14 @@
     "TauricResearch/TradingAgents": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 7
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 8
     },
     "AgriciDaniel/claude-seo": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 7
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 8
     },
     "Gathin23/cleanyourtv": {
       "first_seen_week": "2026-W44",
@@ -981,14 +981,14 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 2
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 3
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-31T14:35:42.383972",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
-      "seen_count": 1
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 2
     },
     "AstrBotDevs/AstrBot": {
       "first_seen_week": "2026-W44",
@@ -999,7 +999,19 @@
     "Nutlope/hallmark": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-31T14:35:42.383972",
-      "last_seen_at": "2026-10-31T14:35:42.383972",
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 2
+    },
+    "JetBrains/thinkrail": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-11-01T15:17:21.316031",
+      "last_seen_at": "2026-11-01T15:17:21.316031",
+      "seen_count": 1
+    },
+    "ghostty-org/ghostty": {
+      "first_seen_week": "2026-W44",
+      "first_seen_at": "2026-11-01T15:17:21.316031",
+      "last_seen_at": "2026-11-01T15:17:21.316031",
       "seen_count": 1
     }
   }
