@@ -1,21 +1,20 @@
 ---
 repo_id: citrolabs/ego-lite
 full_name: citrolabs/ego-lite
-language: JavaScript
-stars: 8972
-weekly_growth: 2737
-daily_growth: 391
-forks: 427
-open_issues: 79
-confidence_score: 45
-confidence_grade: C
+language: 
+stars: 0
+weekly_growth: 0
+daily_growth: 0
+forks: 0
+open_issues: 0
+confidence_score: 20.0
+confidence_grade: D
 citation_count: 1
 categories:
-  - AI
 sources:
-  - GitHub Trending
-first_seen: 2026-08-06T10:57:27.106862
-last_updated: 2026-08-06T10:57:27.106864
+  - OpenGithubs 周榜
+first_seen: 2026-11-02T20:29:01.736399
+last_updated: 2026-11-02T20:29:01.736400
 html_url: https://github.com/citrolabs/ego-lite
 aliases:
   - citrolabs/ego-lite
@@ -23,20 +22,20 @@ aliases:
 
 # citrolabs/ego-lite
 
-> The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+> from citation
 
-#github-project #lang-javascript #grade-c #ai
+#github-project #lang-unknown #grade-d
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | JavaScript |
-| **Stars** | 8,972 |
-| **Weekly** | +2,737 |
-| **Forks** | 427 |
-| **Issues** | 79 |
-| **Confidence** | C (45/100) |
+| **Language** | ? |
+| **Stars** | 0 |
+| **Weekly** | +0 |
+| **Forks** | 0 |
+| **Issues** | 0 |
+| **Confidence** | D (20/100) |
 | **Citations** | 1 |
 
 ## Links
@@ -46,13 +45,9 @@ aliases:
 
 ## Sources
 
-- GitHub Trending (Tier 1)
-
-## Categories
-
-- [[AI]]
+- OpenGithubs 周榜 (Tier 2)
 
 ---
 
-*First seen: 2026-08-06T10:57:27*  
-*Updated: 2026-08-06T10:57:27*
+*First seen: 2026-11-02T20:29:01*  
+*Updated: 2026-11-02T20:29:01*
