@@ -249,8 +249,8 @@
     "pbakaus/impeccable": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-29T14:53:38.895102",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 15
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 16
     },
     "PrismML-Eng/Bonsai-demo": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 15
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 16
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -849,8 +849,8 @@
     "AgriciDaniel/claude-seo": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T15:17:21.209619",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 10
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 11
     },
     "Gathin23/cleanyourtv": {
       "first_seen_week": "2026-W44",
@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 5
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 6
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -999,20 +999,20 @@
     "Nutlope/hallmark": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-31T14:35:42.383972",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 4
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 5
     },
     "JetBrains/thinkrail": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-11-01T15:17:21.316031",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 3
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 4
     },
     "ghostty-org/ghostty": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-11-01T15:17:21.316031",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 3
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 4
     },
     "Donchitos/Claude-Code-Game-Studios": {
       "first_seen_week": "2026-W45",
@@ -1143,8 +1143,8 @@
     "hyprwm/Hyprland": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-03T16:20:08.850192",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 1
+      "last_seen_at": "2026-11-04T16:25:06.241456",
+      "seen_count": 2
     }
   }
 }
