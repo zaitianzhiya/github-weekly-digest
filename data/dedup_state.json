@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 19
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 20
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -171,26 +171,26 @@
     "OpenGithubs/weekly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 6
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 7
     },
     "OpenGithubs/monthly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 6
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 7
     },
     "OpenGithubs/github-weekly-rank": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 6
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 7
     },
     "ruanyf/weekly": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 6
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 7
     },
     "posit-dev/great-tables": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 21
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 22
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -393,8 +393,8 @@
     "vorssaint/vorssaint-utils": {
       "first_seen_week": "2026-W41",
       "first_seen_at": "2026-10-05T19:22:49.028575",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 5
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 6
     },
     "JustVugg/colibri": {
       "first_seen_week": "2026-W41",
@@ -465,8 +465,8 @@
     "DuarteSantos8/openGym": {
       "first_seen_week": "2026-W42",
       "first_seen_at": "2026-10-12T19:58:19.088122",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 4
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 5
     },
     "openai/math": {
       "first_seen_week": "2026-W42",
@@ -645,8 +645,8 @@
     "wheresryan22/anatomy": {
       "first_seen_week": "2026-W43",
       "first_seen_at": "2026-10-19T17:07:48.124288",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 3
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 4
     },
     "storytold/wordcraft": {
       "first_seen_week": "2026-W43",
@@ -861,8 +861,8 @@
     "deepseek-ai/DeepInfer": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T16:55:11.946307",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 2
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 3
     },
     "ly05010419/MacNativeGames": {
       "first_seen_week": "2026-W44",
@@ -873,8 +873,8 @@
     "pengchujin/aerial-tv": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T16:55:11.946307",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 2
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 3
     },
     "withmarbleapp/os-taxonomy": {
       "first_seen_week": "2026-W44",
@@ -891,8 +891,8 @@
     "HeyPuter/everything": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-26T16:55:11.946307",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 2
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 3
     },
     "glincker/sslx": {
       "first_seen_week": "2026-W44",
@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 11
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 12
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -999,8 +999,8 @@
     "Nutlope/hallmark": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-31T14:35:42.383972",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 10
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 11
     },
     "JetBrains/thinkrail": {
       "first_seen_week": "2026-W44",
@@ -1017,26 +1017,26 @@
     "Donchitos/Claude-Code-Game-Studios": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "unclebob/ub-mode": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "xiaoyang111222/cn-math-taxonomy": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "NVIDIA/SkillSpector": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "JustAResearcher/gpu-unlock-ada": {
       "first_seen_week": "2026-W45",
@@ -1047,8 +1047,8 @@
     "rddmwmddr/android-ad-cleaner": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "citrolabs/ego-lite": {
       "first_seen_week": "2026-W45",
@@ -1059,8 +1059,8 @@
     "baidu/Unlimited-OCR": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-02T20:29:02.505118",
-      "last_seen_at": "2026-11-02T20:29:02.505118",
-      "seen_count": 1
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
     },
     "charliegerard/Overgrown": {
       "first_seen_week": "2026-W45",
@@ -1149,8 +1149,8 @@
     "The-PR-Agent/pr-agent": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-05T16:33:16.806242",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 5
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 6
     },
     "HKUDS/DeepTutor": {
       "first_seen_week": "2026-W45",
@@ -1161,8 +1161,8 @@
     "vercel-labs/agent-browser": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-07T14:56:51.311444",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 3
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 4
     },
     "github/spec-kit": {
       "first_seen_week": "2026-W45",
@@ -1185,13 +1185,121 @@
     "NVIDIA/auto-ontology": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-08T15:22:30.428253",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
-      "seen_count": 2
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 3
     },
     "vercel-labs/agent-desktop": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-09T18:55:34.827696",
-      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 2
+    },
+    "deepseek-ai/dsh-superagent-prototype": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "ccch1mneyyy/dsh-Go": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "heydamir/unslop": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "storytold/craft-anything": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "wangzan101/Mika": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "CopilotKit/OpenBot": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "anhao/ai-pose-gallery-zh": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "jakubkrehel/skills": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "chaitin/monkeycode": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "kevinraymond/florilegium": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "JiaFeiMiao-K-Cat/DiscImageStudio": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "soml-lang/soml": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "casnode/casnode": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "wzc520pyfm/gen-ai-pose-image": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "Richard-Zhang1019/Crossbow": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "WANGXIN-567/weread-book-exporter": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "blue-idea/linkit": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "YKLovePython/halfsize": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T21:00:03.958494",
+      "last_seen_at": "2026-11-09T21:00:03.958494",
       "seen_count": 1
     }
   }
