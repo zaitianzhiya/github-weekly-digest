@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-11-03T16:20:08.850192",
-      "seen_count": 18
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 19
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -327,8 +327,8 @@
     "pingdotgg/t3code": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-10-04T14:08:34.661180",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
-      "seen_count": 20
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 21
     },
     "mvschwarz/openrig": {
       "first_seen_week": "2026-W40",
@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
-      "seen_count": 10
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 11
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -999,8 +999,8 @@
     "Nutlope/hallmark": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-31T14:35:42.383972",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
-      "seen_count": 9
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 10
     },
     "JetBrains/thinkrail": {
       "first_seen_week": "2026-W44",
@@ -1149,8 +1149,8 @@
     "The-PR-Agent/pr-agent": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-05T16:33:16.806242",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
-      "seen_count": 4
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 5
     },
     "HKUDS/DeepTutor": {
       "first_seen_week": "2026-W45",
@@ -1161,8 +1161,8 @@
     "vercel-labs/agent-browser": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-07T14:56:51.311444",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
-      "seen_count": 2
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 3
     },
     "github/spec-kit": {
       "first_seen_week": "2026-W45",
@@ -1185,7 +1185,13 @@
     "NVIDIA/auto-ontology": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-08T15:22:30.428253",
-      "last_seen_at": "2026-11-08T15:22:30.428253",
+      "last_seen_at": "2026-11-09T18:55:34.827696",
+      "seen_count": 2
+    },
+    "vercel-labs/agent-desktop": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-09T18:55:34.827696",
+      "last_seen_at": "2026-11-09T18:55:34.827696",
       "seen_count": 1
     }
   }
