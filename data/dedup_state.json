@@ -9,8 +9,8 @@
     "cloudflare/security-audit-skill": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T16:49:15.603105",
-      "last_seen_at": "2026-11-10T16:28:31.446859",
-      "seen_count": 21
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 22
     },
     "debpalash/VoiceStudio": {
       "first_seen_week": "2026-W40",
@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-10T16:28:31.446859",
-      "seen_count": 13
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 14
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -1161,8 +1161,8 @@
     "vercel-labs/agent-browser": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-07T14:56:51.311444",
-      "last_seen_at": "2026-11-10T16:28:31.446859",
-      "seen_count": 5
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 6
     },
     "github/spec-kit": {
       "first_seen_week": "2026-W45",
@@ -1185,14 +1185,14 @@
     "NVIDIA/auto-ontology": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-08T15:22:30.428253",
-      "last_seen_at": "2026-11-10T16:28:31.446859",
-      "seen_count": 4
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 5
     },
     "vercel-labs/agent-desktop": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-09T18:55:34.827696",
-      "last_seen_at": "2026-11-10T16:28:31.446859",
-      "seen_count": 3
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 4
     },
     "deepseek-ai/dsh-superagent-prototype": {
       "first_seen_week": "2026-W46",
@@ -1300,6 +1300,24 @@
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-09T21:00:03.958494",
       "last_seen_at": "2026-11-09T21:00:03.958494",
+      "seen_count": 1
+    },
+    "google-deepmind/mujoco": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-11T16:19:02.648790",
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 1
+    },
+    "google/skills": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-11T16:19:02.648790",
+      "last_seen_at": "2026-11-11T16:19:02.648790",
+      "seen_count": 1
+    },
+    "herdrdev/herdr": {
+      "first_seen_week": "2026-W46",
+      "first_seen_at": "2026-11-11T16:19:02.648790",
+      "last_seen_at": "2026-11-11T16:19:02.648790",
       "seen_count": 1
     }
   }
