@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[caddyserver--caddy|caddyserver/caddy]] — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [[openai--codex-security|openai/codex-security]] — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security

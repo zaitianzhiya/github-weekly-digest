@@ -1,22 +1,20 @@
 ---
 repo_id: facebook/astryx
 full_name: facebook/astryx
-language: TypeScript
-stars: 9043
-weekly_growth: 2189
-daily_growth: 312
-forks: 755
-open_issues: 237
-confidence_score: 45
-confidence_grade: C
+language: 
+stars: 0
+weekly_growth: 0
+daily_growth: 0
+forks: 0
+open_issues: 0
+confidence_score: 20.0
+confidence_grade: D
 citation_count: 1
 categories:
-  - AI
-  - design
 sources:
-  - GitHub Trending
-first_seen: 2026-07-15T10:17:33.806206
-last_updated: 2026-07-15T10:17:33.806208
+  - OpenGithubs 周榜
+first_seen: 2026-11-16T20:38:57.675912
+last_updated: 2026-11-16T20:38:57.675912
 html_url: https://github.com/facebook/astryx
 aliases:
   - facebook/astryx
@@ -24,20 +22,20 @@ aliases:
 
 # facebook/astryx
 
-> An open source design system that's fully customizable and agent ready
+> from citation
 
-#github-project #lang-typescript #grade-c #ai #design
+#github-project #lang-unknown #grade-d
 
 ## Info
 
 | Metric | Value |
 |--------|-------|
-| **Language** | TypeScript |
-| **Stars** | 9,043 |
-| **Weekly** | +2,189 |
-| **Forks** | 755 |
-| **Issues** | 237 |
-| **Confidence** | C (45/100) |
+| **Language** | ? |
+| **Stars** | 0 |
+| **Weekly** | +0 |
+| **Forks** | 0 |
+| **Issues** | 0 |
+| **Confidence** | D (20/100) |
 | **Citations** | 1 |
 
 ## Links
@@ -47,14 +45,9 @@ aliases:
 
 ## Sources
 
-- GitHub Trending (Tier 1)
-
-## Categories
-
-- [[AI]]
-- [[design]]
+- OpenGithubs 周榜 (Tier 2)
 
 ---
 
-*First seen: 2026-07-15T10:17:33*  
-*Updated: 2026-07-15T10:17:33*
+*First seen: 2026-11-16T20:38:57*  
+*Updated: 2026-11-16T20:38:57*

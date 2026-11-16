@@ -17,4 +17,4 @@ SORT confidence_score DESC
 
 ## Projects
 
-- [[caddyserver--caddy|caddyserver/caddy]] — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [[alibaba--open-code-review|alibaba/open-code-review]] — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
