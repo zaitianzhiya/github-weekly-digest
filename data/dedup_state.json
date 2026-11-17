@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 20
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 21
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -1161,8 +1161,8 @@
     "vercel-labs/agent-browser": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-07T14:56:51.311444",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 12
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 13
     },
     "github/spec-kit": {
       "first_seen_week": "2026-W45",
@@ -1335,8 +1335,8 @@
     "addyosmani/agent-skills": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-13T16:32:49.312607",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 5
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 6
     },
     "anthropics/claude-quickstarts": {
       "first_seen_week": "2026-W46",
@@ -1347,32 +1347,32 @@
     "meta/astryx": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 4
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 5
     },
     "backnotprop/plannotator": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 4
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 5
     },
     "we-promise/sure": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-15T15:43:02.846488",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 3
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 4
     },
     "openai/codex-security": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 2
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 3
     },
     "GoogleChrome/modern-web-guidance-src": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 2
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 3
     },
     "QwenLM/qwen-code": {
       "first_seen_week": "2026-W47",
@@ -1383,8 +1383,8 @@
     "alibaba/open-code-review": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-16T20:38:58.046791",
-      "seen_count": 2
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 3
     },
     "facebook/astryx": {
       "first_seen_week": "2026-W47",
@@ -1480,6 +1480,18 @@
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T20:38:58.046791",
       "last_seen_at": "2026-11-16T20:38:58.046791",
+      "seen_count": 1
+    },
+    "tradermonty/claude-trading-skills": {
+      "first_seen_week": "2026-W47",
+      "first_seen_at": "2026-11-17T17:40:51.299302",
+      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "seen_count": 1
+    },
+    "ChromeDevTools/chrome-devtools-mcp": {
+      "first_seen_week": "2026-W47",
+      "first_seen_at": "2026-11-17T17:40:51.299302",
+      "last_seen_at": "2026-11-17T17:40:51.299302",
       "seen_count": 1
     }
   }
