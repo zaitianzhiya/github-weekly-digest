@@ -105,8 +105,8 @@
     "dream-num/univer": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-10-05T19:22:49.028575",
-      "seen_count": 4
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 5
     },
     "robbietilton/Compositor": {
       "first_seen_week": "2026-W40",
@@ -981,8 +981,8 @@
     "anthropics/skills": {
       "first_seen_week": "2026-W44",
       "first_seen_at": "2026-10-30T15:06:45.135091",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 21
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 22
     },
     "YuJunZhiXue/dsh-purge": {
       "first_seen_week": "2026-W44",
@@ -1161,8 +1161,8 @@
     "vercel-labs/agent-browser": {
       "first_seen_week": "2026-W45",
       "first_seen_at": "2026-11-07T14:56:51.311444",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 13
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 14
     },
     "github/spec-kit": {
       "first_seen_week": "2026-W45",
@@ -1347,32 +1347,32 @@
     "meta/astryx": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 5
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 6
     },
     "backnotprop/plannotator": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 5
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 6
     },
     "we-promise/sure": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-15T15:43:02.846488",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 4
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 5
     },
     "openai/codex-security": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 3
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 4
     },
     "GoogleChrome/modern-web-guidance-src": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 3
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 4
     },
     "QwenLM/qwen-code": {
       "first_seen_week": "2026-W47",
@@ -1383,8 +1383,8 @@
     "alibaba/open-code-review": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 3
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 4
     },
     "facebook/astryx": {
       "first_seen_week": "2026-W47",
@@ -1485,13 +1485,31 @@
     "tradermonty/claude-trading-skills": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-17T17:40:51.299302",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
-      "seen_count": 1
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 2
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-17T17:40:51.299302",
-      "last_seen_at": "2026-11-17T17:40:51.299302",
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 2
+    },
+    "google-labs-code/stitch-skills": {
+      "first_seen_week": "2026-W47",
+      "first_seen_at": "2026-11-18T17:21:00.257272",
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 1
+    },
+    "ag-ui-protocol/ag-ui": {
+      "first_seen_week": "2026-W47",
+      "first_seen_at": "2026-11-18T17:21:00.257272",
+      "last_seen_at": "2026-11-18T17:21:00.257272",
+      "seen_count": 1
+    },
+    "mvanhorn/last30days-skill": {
+      "first_seen_week": "2026-W47",
+      "first_seen_at": "2026-11-18T17:21:00.257272",
+      "last_seen_at": "2026-11-18T17:21:00.257272",
       "seen_count": 1
     }
   }
