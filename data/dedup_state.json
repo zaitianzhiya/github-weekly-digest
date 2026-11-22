@@ -105,8 +105,8 @@
     "dream-num/univer": {
       "first_seen_week": "2026-W40",
       "first_seen_at": "2026-09-28T18:14:39.901436",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 8
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 9
     },
     "robbietilton/Compositor": {
       "first_seen_week": "2026-W40",
@@ -1347,20 +1347,20 @@
     "meta/astryx": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 9
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 10
     },
     "backnotprop/plannotator": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-14T15:11:09.965766",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 9
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 10
     },
     "we-promise/sure": {
       "first_seen_week": "2026-W46",
       "first_seen_at": "2026-11-15T15:43:02.846488",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 8
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 9
     },
     "openai/codex-security": {
       "first_seen_week": "2026-W47",
@@ -1371,8 +1371,8 @@
     "GoogleChrome/modern-web-guidance-src": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 7
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 8
     },
     "QwenLM/qwen-code": {
       "first_seen_week": "2026-W47",
@@ -1383,8 +1383,8 @@
     "alibaba/open-code-review": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-16T18:40:53.069672",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 7
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 8
     },
     "facebook/astryx": {
       "first_seen_week": "2026-W47",
@@ -1485,38 +1485,38 @@
     "tradermonty/claude-trading-skills": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-17T17:40:51.299302",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 5
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 6
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-17T17:40:51.299302",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 5
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 6
     },
     "google-labs-code/stitch-skills": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-18T17:21:00.257272",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 4
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 5
     },
     "ag-ui-protocol/ag-ui": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-18T17:21:00.257272",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 4
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 5
     },
     "mvanhorn/last30days-skill": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-18T17:21:00.257272",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 4
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 5
     },
     "pookjw/HermesEnabler": {
       "first_seen_week": "2026-W47",
       "first_seen_at": "2026-11-19T17:26:58.782965",
-      "last_seen_at": "2026-11-21T16:13:27.027591",
-      "seen_count": 3
+      "last_seen_at": "2026-11-22T16:25:48.860324",
+      "seen_count": 4
     }
   }
 }
